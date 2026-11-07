@@ -1,0 +1,6 @@
+PUBLISH-NOTES.md
+*.md
+screenshots/
+tests/
+.test-output/
+.DS_Store

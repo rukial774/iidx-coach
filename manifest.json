@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "IIDX COACH — 九段への成長",
+  "short_name": "IIDX COACH",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080c15",
+  "theme_color": "#080c15",
+  "description": "プレー実績・BP・活動量を見える化する個人向け非公式コーチ",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

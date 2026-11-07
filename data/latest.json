@@ -1,0 +1,6787 @@
+{
+  "schemaVersion": 1,
+  "snapshotAsOf": "2026-11-04",
+  "generatedAt": "2026-11-07T03:36:01.135358+00:00",
+  "charts": [
+    {
+      "title": "9-1",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1242",
+      "pgreat": "461",
+      "great": "320",
+      "dj_level": "B"
+    },
+    {
+      "title": "A MINSTREL ～ ver. short-scape ～",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1566",
+      "pgreat": "608",
+      "great": "350",
+      "dj_level": "B"
+    },
+    {
+      "title": "ACT",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1069",
+      "pgreat": "395",
+      "great": "279",
+      "dj_level": "B"
+    },
+    {
+      "title": "AGEHA",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1206",
+      "pgreat": "465",
+      "great": "276",
+      "dj_level": "B"
+    },
+    {
+      "title": "ALL MY TURN -このターンに、オレの全てを賭ける-",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1119",
+      "pgreat": "411",
+      "great": "297",
+      "dj_level": "B"
+    },
+    {
+      "title": "ANAGRAMS I to Y",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "HARD_UNVERIFIED",
+      "ex_score": "1542",
+      "pgreat": "562",
+      "great": "418",
+      "dj_level": "B"
+    },
+    {
+      "title": "ATOMIC AGE",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "806",
+      "pgreat": "311",
+      "great": "184",
+      "dj_level": "B"
+    },
+    {
+      "title": "Alpheratz",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1231",
+      "pgreat": "462",
+      "great": "307",
+      "dj_level": "B"
+    },
+    {
+      "title": "And-RoiD",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1146",
+      "pgreat": "413",
+      "great": "320",
+      "dj_level": "B"
+    },
+    {
+      "title": "Arkadia",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Attitude",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1061",
+      "pgreat": "405",
+      "great": "251",
+      "dj_level": "B"
+    },
+    {
+      "title": "B4U(BEMANI FOR YOU MIX)",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "UNKNOWN",
+      "ex_score": "1206",
+      "pgreat": "435",
+      "great": "336",
+      "dj_level": "C"
+    },
+    {
+      "title": "BENiZAKURA",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1230",
+      "pgreat": "477",
+      "great": "276",
+      "dj_level": "B"
+    },
+    {
+      "title": "BROKEN EDEN",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1035",
+      "pgreat": "381",
+      "great": "273",
+      "dj_level": "B"
+    },
+    {
+      "title": "Bad Routine",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1211",
+      "pgreat": "454",
+      "great": "303",
+      "dj_level": "B"
+    },
+    {
+      "title": "Broken",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1351",
+      "pgreat": "508",
+      "great": "335",
+      "dj_level": "B"
+    },
+    {
+      "title": "Broken My Heart",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1019",
+      "pgreat": "372",
+      "great": "275",
+      "dj_level": "B"
+    },
+    {
+      "title": "COSMIC☆WONDER☆REVOLUTION",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1288",
+      "pgreat": "496",
+      "great": "296",
+      "dj_level": "B"
+    },
+    {
+      "title": "CaptivAte～裁き～",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "FAILED",
+      "ex_score": "1018",
+      "pgreat": "365",
+      "great": "288",
+      "dj_level": "B"
+    },
+    {
+      "title": "Change the World",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1218",
+      "pgreat": "460",
+      "great": "298",
+      "dj_level": "B"
+    },
+    {
+      "title": "Cheer Train",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1075",
+      "pgreat": "343",
+      "great": "389",
+      "dj_level": "B"
+    },
+    {
+      "title": "Claiomh Solais",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1384",
+      "pgreat": "535",
+      "great": "314",
+      "dj_level": "B"
+    },
+    {
+      "title": "Cookie Bouquets",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Crank It",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1295",
+      "pgreat": "444",
+      "great": "407",
+      "dj_level": "C"
+    },
+    {
+      "title": "Daily Lunch Special",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1353",
+      "pgreat": "507",
+      "great": "339",
+      "dj_level": "B"
+    },
+    {
+      "title": "Damage Per Second",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1214",
+      "pgreat": "460",
+      "great": "294",
+      "dj_level": "B"
+    },
+    {
+      "title": "Destiny Sword",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1146",
+      "pgreat": "433",
+      "great": "280",
+      "dj_level": "B"
+    },
+    {
+      "title": "Digital Radiance",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Disco Killer Music Lover",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Don't Stop The Music feat. Kanae Asaba",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1291",
+      "pgreat": "494",
+      "great": "303",
+      "dj_level": "A"
+    },
+    {
+      "title": "Don't let it go",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "919",
+      "pgreat": "344",
+      "great": "231",
+      "dj_level": "C"
+    },
+    {
+      "title": "Dreamship",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1074",
+      "pgreat": "379",
+      "great": "316",
+      "dj_level": "C"
+    },
+    {
+      "title": "Dying 4 U",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1286",
+      "pgreat": "519",
+      "great": "248",
+      "dj_level": "A"
+    },
+    {
+      "title": "Element of SPADA",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1389",
+      "pgreat": "523",
+      "great": "343",
+      "dj_level": "B"
+    },
+    {
+      "title": "Exchange Place",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1057",
+      "pgreat": "398",
+      "great": "261",
+      "dj_level": "B"
+    },
+    {
+      "title": "Fantastic Merry-Go-Round",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1354",
+      "pgreat": "507",
+      "great": "340",
+      "dj_level": "B"
+    },
+    {
+      "title": "Far east nightbird",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1382",
+      "pgreat": "534",
+      "great": "314",
+      "dj_level": "A"
+    },
+    {
+      "title": "Flashes",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1106",
+      "pgreat": "430",
+      "great": "246",
+      "dj_level": "B"
+    },
+    {
+      "title": "GENERATED GRID",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1218",
+      "pgreat": "465",
+      "great": "288",
+      "dj_level": "B"
+    },
+    {
+      "title": "High School Love",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1474",
+      "pgreat": "555",
+      "great": "364",
+      "dj_level": "B"
+    },
+    {
+      "title": "I FIGHT ME",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1426",
+      "pgreat": "562",
+      "great": "302",
+      "dj_level": "A"
+    },
+    {
+      "title": "IN THE NAME OF LOVE",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1155",
+      "pgreat": "411",
+      "great": "333",
+      "dj_level": "B"
+    },
+    {
+      "title": "IXION",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1227",
+      "pgreat": "436",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "In Heaven",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1460",
+      "pgreat": "580",
+      "great": "300",
+      "dj_level": "A"
+    },
+    {
+      "title": "JUST SYNC ft.Kanae Asaba",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "LEMON MELON COOKIE",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Love Destination",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1351",
+      "pgreat": "538",
+      "great": "275",
+      "dj_level": "A"
+    },
+    {
+      "title": "Love Me Do",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1171",
+      "pgreat": "447",
+      "great": "277",
+      "dj_level": "C"
+    },
+    {
+      "title": "MIRACLE MEETS",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "986",
+      "pgreat": "388",
+      "great": "210",
+      "dj_level": "B"
+    },
+    {
+      "title": "Medicine of love",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1312",
+      "pgreat": "547",
+      "great": "218",
+      "dj_level": "A"
+    },
+    {
+      "title": "Memorylust",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1122",
+      "pgreat": "436",
+      "great": "250",
+      "dj_level": "B"
+    },
+    {
+      "title": "Mermaid girl-秋葉工房 MIX-",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1451",
+      "pgreat": "581",
+      "great": "289",
+      "dj_level": "A"
+    },
+    {
+      "title": "My Sweet Bird?",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "UNKNOWN",
+      "ex_score": "1395",
+      "pgreat": "540",
+      "great": "315",
+      "dj_level": "B"
+    },
+    {
+      "title": "Nemophila",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "NΦ CRIME",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "OTOROSHI",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1066",
+      "pgreat": "394",
+      "great": "278",
+      "dj_level": "B"
+    },
+    {
+      "title": "PISTOL SWORD",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "949",
+      "pgreat": "345",
+      "great": "259",
+      "dj_level": "B"
+    },
+    {
+      "title": "RED ZONE",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "UNKNOWN",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Raspberry Heart(English version)",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1150",
+      "pgreat": "426",
+      "great": "298",
+      "dj_level": "B"
+    },
+    {
+      "title": "Riff//rain",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1267",
+      "pgreat": "492",
+      "great": "283",
+      "dj_level": "A"
+    },
+    {
+      "title": "S-Bahn",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1326",
+      "pgreat": "494",
+      "great": "338",
+      "dj_level": "B"
+    },
+    {
+      "title": "STAR FIELD",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "STARLIGHT DANCEHALL",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1177",
+      "pgreat": "429",
+      "great": "319",
+      "dj_level": "B"
+    },
+    {
+      "title": "Shining World",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "953",
+      "pgreat": "337",
+      "great": "279",
+      "dj_level": "C"
+    },
+    {
+      "title": "Shogun's Last Dawn ft. Kanae Asaba",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1327",
+      "pgreat": "527",
+      "great": "273",
+      "dj_level": "A"
+    },
+    {
+      "title": "Signs and Wonders",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Singularity Girl",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1225",
+      "pgreat": "496",
+      "great": "233",
+      "dj_level": "A"
+    },
+    {
+      "title": "Sleepless days",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "HARD_UNVERIFIED",
+      "ex_score": "1121",
+      "pgreat": "432",
+      "great": "257",
+      "dj_level": "A"
+    },
+    {
+      "title": "Somebody Like You",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1166",
+      "pgreat": "394",
+      "great": "378",
+      "dj_level": "B"
+    },
+    {
+      "title": "Spark Rush",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1168",
+      "pgreat": "432",
+      "great": "304",
+      "dj_level": "B"
+    },
+    {
+      "title": "Sphere",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Stargazing Trip ～星 探す旅～ ft. 小林マナ",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1248",
+      "pgreat": "482",
+      "great": "284",
+      "dj_level": "A"
+    },
+    {
+      "title": "Todestrieb",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1276",
+      "pgreat": "492",
+      "great": "292",
+      "dj_level": "B"
+    },
+    {
+      "title": "Under the Sky",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1102",
+      "pgreat": "415",
+      "great": "272",
+      "dj_level": "B"
+    },
+    {
+      "title": "Watch out!!",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "789",
+      "pgreat": "254",
+      "great": "281",
+      "dj_level": "C"
+    },
+    {
+      "title": "beatchic☆仮面～好き、でいさせて～",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1255",
+      "pgreat": "477",
+      "great": "301",
+      "dj_level": "B"
+    },
+    {
+      "title": "bloomin' feeling",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1287",
+      "pgreat": "489",
+      "great": "309",
+      "dj_level": "B"
+    },
+    {
+      "title": "blue anthem",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "chrono diver -fragment-",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "HARD_UNVERIFIED",
+      "ex_score": "1234",
+      "pgreat": "472",
+      "great": "290",
+      "dj_level": "A"
+    },
+    {
+      "title": "dual control",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1017",
+      "pgreat": "379",
+      "great": "259",
+      "dj_level": "C"
+    },
+    {
+      "title": "era (nostalmix)",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "838",
+      "pgreat": "257",
+      "great": "324",
+      "dj_level": "C"
+    },
+    {
+      "title": "gentle stress",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "966",
+      "pgreat": "364",
+      "great": "238",
+      "dj_level": "B"
+    },
+    {
+      "title": "heaven above",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1046",
+      "pgreat": "385",
+      "great": "276",
+      "dj_level": "B"
+    },
+    {
+      "title": "mind the gap",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "FAILED",
+      "ex_score": "804",
+      "pgreat": "296",
+      "great": "212",
+      "dj_level": "C"
+    },
+    {
+      "title": "quasar",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "HARD_UNVERIFIED",
+      "ex_score": "1225",
+      "pgreat": "398",
+      "great": "429",
+      "dj_level": "A"
+    },
+    {
+      "title": "route 80s",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "971",
+      "pgreat": "306",
+      "great": "359",
+      "dj_level": "B"
+    },
+    {
+      "title": "satfinal",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1288",
+      "pgreat": "513",
+      "great": "262",
+      "dj_level": "A"
+    },
+    {
+      "title": "the trigger of innocence",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1324",
+      "pgreat": "532",
+      "great": "260",
+      "dj_level": "A"
+    },
+    {
+      "title": "thunder",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1198",
+      "pgreat": "456",
+      "great": "286",
+      "dj_level": "B"
+    },
+    {
+      "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1061",
+      "pgreat": "406",
+      "great": "249",
+      "dj_level": "B"
+    },
+    {
+      "title": "たからもの",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1658",
+      "pgreat": "662",
+      "great": "334",
+      "dj_level": "A"
+    },
+    {
+      "title": "でんぱ どりる わんにゃー☆三",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "まほろば",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1119",
+      "pgreat": "420",
+      "great": "279",
+      "dj_level": "C"
+    },
+    {
+      "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "れとりば！",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1420",
+      "pgreat": "555",
+      "great": "310",
+      "dj_level": "A"
+    },
+    {
+      "title": "オーバーライド",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "セカンドピアス",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1303",
+      "pgreat": "489",
+      "great": "325",
+      "dj_level": "B"
+    },
+    {
+      "title": "タンポポ",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ダダダダダル",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1120",
+      "pgreat": "422",
+      "great": "276",
+      "dj_level": "B"
+    },
+    {
+      "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1076",
+      "pgreat": "421",
+      "great": "234",
+      "dj_level": "B"
+    },
+    {
+      "title": "トリカゴノ鳳凰",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1228",
+      "pgreat": "455",
+      "great": "318",
+      "dj_level": "B"
+    },
+    {
+      "title": "ナイトシティー・アヴァンチュール",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1363",
+      "pgreat": "532",
+      "great": "299",
+      "dj_level": "B"
+    },
+    {
+      "title": "ビビッド ☆+*。キラキライム",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1410",
+      "pgreat": "545",
+      "great": "320",
+      "dj_level": "B"
+    },
+    {
+      "title": "フランケンシュタインの怪物",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1114",
+      "pgreat": "417",
+      "great": "280",
+      "dj_level": "B"
+    },
+    {
+      "title": "メテオラ-meteor-",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1176",
+      "pgreat": "448",
+      "great": "280",
+      "dj_level": "B"
+    },
+    {
+      "title": "ヨシダさん",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1317",
+      "pgreat": "511",
+      "great": "295",
+      "dj_level": "A"
+    },
+    {
+      "title": "ランカーキラーガール",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1209",
+      "pgreat": "440",
+      "great": "329",
+      "dj_level": "B"
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1207",
+      "pgreat": "471",
+      "great": "265",
+      "dj_level": "A"
+    },
+    {
+      "title": "ロマンシングエスケープ",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "下弦の月",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1200",
+      "pgreat": "453",
+      "great": "294",
+      "dj_level": "B"
+    },
+    {
+      "title": "不沈艦CANDY",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1228",
+      "pgreat": "478",
+      "great": "272",
+      "dj_level": "B"
+    },
+    {
+      "title": "九十九ノ恋結ビ",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1207",
+      "pgreat": "435",
+      "great": "337",
+      "dj_level": "B"
+    },
+    {
+      "title": "儚き恋の華",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "UNKNOWN",
+      "ex_score": "1201",
+      "pgreat": "446",
+      "great": "309",
+      "dj_level": "B"
+    },
+    {
+      "title": "凛として咲く花の如く",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1602",
+      "pgreat": "576",
+      "great": "450",
+      "dj_level": "A"
+    },
+    {
+      "title": "夕焼け ～Fading Day～",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "UNKNOWN",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "夜叉ノ魂",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1249",
+      "pgreat": "479",
+      "great": "291",
+      "dj_level": "B"
+    },
+    {
+      "title": "夢色ワンダー",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1405",
+      "pgreat": "535",
+      "great": "335",
+      "dj_level": "B"
+    },
+    {
+      "title": "悪ジ狂キ",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1164",
+      "pgreat": "425",
+      "great": "314",
+      "dj_level": "B"
+    },
+    {
+      "title": "未来のプリズム",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1018",
+      "pgreat": "382",
+      "great": "254",
+      "dj_level": "B"
+    },
+    {
+      "title": "果たせぬ約束 ft. 小林マナ",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1379",
+      "pgreat": "543",
+      "great": "293",
+      "dj_level": "A"
+    },
+    {
+      "title": "煉獄コンフィチュール",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1173",
+      "pgreat": "426",
+      "great": "321",
+      "dj_level": "B"
+    },
+    {
+      "title": "獅子霞麗ノ舞",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1054",
+      "pgreat": "398",
+      "great": "258",
+      "dj_level": "B"
+    },
+    {
+      "title": "真夜中のバベル",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "981",
+      "pgreat": "366",
+      "great": "249",
+      "dj_level": "B"
+    },
+    {
+      "title": "翼",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1322",
+      "pgreat": "502",
+      "great": "318",
+      "dj_level": "A"
+    },
+    {
+      "title": "虹色",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "鏡像都市",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1315",
+      "pgreat": "494",
+      "great": "327",
+      "dj_level": "A"
+    },
+    {
+      "title": "零 - ZERO -",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1349",
+      "pgreat": "504",
+      "great": "341",
+      "dj_level": "B"
+    },
+    {
+      "title": "黒紅掬い",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1262",
+      "pgreat": "501",
+      "great": "260",
+      "dj_level": "A"
+    },
+    {
+      "title": "!Viva!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1365",
+      "pgreat": "520",
+      "great": "325",
+      "dj_level": "A"
+    },
+    {
+      "title": "-65℃",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1346",
+      "pgreat": "519",
+      "great": "308",
+      "dj_level": "B"
+    },
+    {
+      "title": "1st Samurai",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1055",
+      "pgreat": "383",
+      "great": "289",
+      "dj_level": "C"
+    },
+    {
+      "title": "24h Endurance Race",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1293",
+      "pgreat": "485",
+      "great": "323",
+      "dj_level": "B"
+    },
+    {
+      "title": "3y3s",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1389",
+      "pgreat": "506",
+      "great": "377",
+      "dj_level": "C"
+    },
+    {
+      "title": "5.1.1.",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "895",
+      "pgreat": "322",
+      "great": "251",
+      "dj_level": "B"
+    },
+    {
+      "title": "50th Memorial Songs -Flagship medley-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "788",
+      "pgreat": "262",
+      "great": "264",
+      "dj_level": "D"
+    },
+    {
+      "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1456",
+      "pgreat": "526",
+      "great": "404",
+      "dj_level": "C"
+    },
+    {
+      "title": "7 Colors",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "926",
+      "pgreat": "311",
+      "great": "304",
+      "dj_level": "C"
+    },
+    {
+      "title": "A",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1399",
+      "pgreat": "536",
+      "great": "327",
+      "dj_level": "B"
+    },
+    {
+      "title": "AA",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1363",
+      "pgreat": "483",
+      "great": "397",
+      "dj_level": "C"
+    },
+    {
+      "title": "AA -rebuild-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1335",
+      "pgreat": "476",
+      "great": "383",
+      "dj_level": "C"
+    },
+    {
+      "title": "ABSOLUTE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1363",
+      "pgreat": "492",
+      "great": "379",
+      "dj_level": "B"
+    },
+    {
+      "title": "ABSOLUTE EVIL",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1232",
+      "pgreat": "437",
+      "great": "358",
+      "dj_level": "C"
+    },
+    {
+      "title": "ACCELERATE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1361",
+      "pgreat": "479",
+      "great": "403",
+      "dj_level": "C"
+    },
+    {
+      "title": "ACT0",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1320",
+      "pgreat": "476",
+      "great": "368",
+      "dj_level": "B"
+    },
+    {
+      "title": "ADVANCE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "988",
+      "pgreat": "372",
+      "great": "244",
+      "dj_level": "B"
+    },
+    {
+      "title": "AGETEKE ONDO",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1494",
+      "pgreat": "553",
+      "great": "388",
+      "dj_level": "B"
+    },
+    {
+      "title": "ALBIDA",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1099",
+      "pgreat": "388",
+      "great": "323",
+      "dj_level": "C"
+    },
+    {
+      "title": "ALFARSHEAR 双神威に廻る夢",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1309",
+      "pgreat": "496",
+      "great": "317",
+      "dj_level": "B"
+    },
+    {
+      "title": "ALTERNATOR",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1488",
+      "pgreat": "549",
+      "great": "390",
+      "dj_level": "B"
+    },
+    {
+      "title": "AMICABLE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1502",
+      "pgreat": "563",
+      "great": "376",
+      "dj_level": "B"
+    },
+    {
+      "title": "ANAGMA",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1557",
+      "pgreat": "559",
+      "great": "439",
+      "dj_level": "B"
+    },
+    {
+      "title": "ANCHOR",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1414",
+      "pgreat": "525",
+      "great": "364",
+      "dj_level": "C"
+    },
+    {
+      "title": "ANDROMEDA II",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1436",
+      "pgreat": "541",
+      "great": "354",
+      "dj_level": "B"
+    },
+    {
+      "title": "ANEMONE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "AWA AWA",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1365",
+      "pgreat": "502",
+      "great": "361",
+      "dj_level": "B"
+    },
+    {
+      "title": "Abyss -The Heavens Remix-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1440",
+      "pgreat": "492",
+      "great": "456",
+      "dj_level": "B"
+    },
+    {
+      "title": "Abyss -The Heavens Remix-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1206",
+      "pgreat": "388",
+      "great": "430",
+      "dj_level": "B"
+    },
+    {
+      "title": "Adularia",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "993",
+      "pgreat": "360",
+      "great": "273",
+      "dj_level": "C"
+    },
+    {
+      "title": "Aeterna",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1555",
+      "pgreat": "576",
+      "great": "403",
+      "dj_level": "B"
+    },
+    {
+      "title": "Aftermath",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1529",
+      "pgreat": "589",
+      "great": "351",
+      "dj_level": "B"
+    },
+    {
+      "title": "Agnus Dei",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1167",
+      "pgreat": "407",
+      "great": "353",
+      "dj_level": "C"
+    },
+    {
+      "title": "Almace",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1194",
+      "pgreat": "449",
+      "great": "296",
+      "dj_level": "B"
+    },
+    {
+      "title": "Ambivalent Vermilia",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1500",
+      "pgreat": "565",
+      "great": "370",
+      "dj_level": "B"
+    },
+    {
+      "title": "Ancient Scapes",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1218",
+      "pgreat": "467",
+      "great": "284",
+      "dj_level": "B"
+    },
+    {
+      "title": "Answer",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1513",
+      "pgreat": "573",
+      "great": "367",
+      "dj_level": "B"
+    },
+    {
+      "title": "Antigravity",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1173",
+      "pgreat": "436",
+      "great": "301",
+      "dj_level": "B"
+    },
+    {
+      "title": "Apocalypse ～dirge of swans～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1386",
+      "pgreat": "518",
+      "great": "350",
+      "dj_level": "B"
+    },
+    {
+      "title": "Arcana",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1187",
+      "pgreat": "424",
+      "great": "339",
+      "dj_level": "C"
+    },
+    {
+      "title": "Arcanos",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1198",
+      "pgreat": "458",
+      "great": "282",
+      "dj_level": "B"
+    },
+    {
+      "title": "Ariah",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1496",
+      "pgreat": "583",
+      "great": "330",
+      "dj_level": "A"
+    },
+    {
+      "title": "As You Want",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1344",
+      "pgreat": "480",
+      "great": "384",
+      "dj_level": "C"
+    },
+    {
+      "title": "Ascalon",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1331",
+      "pgreat": "493",
+      "great": "345",
+      "dj_level": "B"
+    },
+    {
+      "title": "Aurora",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1312",
+      "pgreat": "506",
+      "great": "300",
+      "dj_level": "B"
+    },
+    {
+      "title": "BEAUTIFUL ANGEL",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1448",
+      "pgreat": "539",
+      "great": "370",
+      "dj_level": "B"
+    },
+    {
+      "title": "BITTER CHOCOLATE STRIKER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1211",
+      "pgreat": "427",
+      "great": "357",
+      "dj_level": "C"
+    },
+    {
+      "title": "BLACK.by X-Cross Fade",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1267",
+      "pgreat": "444",
+      "great": "379",
+      "dj_level": "B"
+    },
+    {
+      "title": "BLOSSOM",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1322",
+      "pgreat": "469",
+      "great": "384",
+      "dj_level": "C"
+    },
+    {
+      "title": "BLUE STRAGGLER",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1308",
+      "pgreat": "473",
+      "great": "362",
+      "dj_level": "C"
+    },
+    {
+      "title": "BLUST OF WIND",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1218",
+      "pgreat": "426",
+      "great": "366",
+      "dj_level": "B"
+    },
+    {
+      "title": "BOOM BOOM DISCO NIGHT",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1347",
+      "pgreat": "489",
+      "great": "369",
+      "dj_level": "B"
+    },
+    {
+      "title": "BRAINSTORM",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1152",
+      "pgreat": "416",
+      "great": "320",
+      "dj_level": "B"
+    },
+    {
+      "title": "BRAVE GLOW",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1453",
+      "pgreat": "517",
+      "great": "419",
+      "dj_level": "B"
+    },
+    {
+      "title": "BabeL ～Grand Story～",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1297",
+      "pgreat": "484",
+      "great": "329",
+      "dj_level": "B"
+    },
+    {
+      "title": "Back Into The Light",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1069",
+      "pgreat": "360",
+      "great": "349",
+      "dj_level": "C"
+    },
+    {
+      "title": "Backyard Stars",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1012",
+      "pgreat": "362",
+      "great": "288",
+      "dj_level": "D"
+    },
+    {
+      "title": "Bad Encryption",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1145",
+      "pgreat": "413",
+      "great": "319",
+      "dj_level": "B"
+    },
+    {
+      "title": "Bahram Attack-猫叉Master Remix-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1661",
+      "pgreat": "638",
+      "great": "385",
+      "dj_level": "B"
+    },
+    {
+      "title": "Be OK",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1490",
+      "pgreat": "555",
+      "great": "380",
+      "dj_level": "B"
+    },
+    {
+      "title": "Beat Radiance",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1654",
+      "pgreat": "621",
+      "great": "412",
+      "dj_level": "B"
+    },
+    {
+      "title": "Believe in you",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1443",
+      "pgreat": "521",
+      "great": "401",
+      "dj_level": "B"
+    },
+    {
+      "title": "Best of Me",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1301",
+      "pgreat": "475",
+      "great": "351",
+      "dj_level": "B"
+    },
+    {
+      "title": "Beyond The Earth",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1135",
+      "pgreat": "397",
+      "great": "341",
+      "dj_level": "C"
+    },
+    {
+      "title": "Blue Spring Express",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1224",
+      "pgreat": "456",
+      "great": "312",
+      "dj_level": "B"
+    },
+    {
+      "title": "Brave Spirits",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1237",
+      "pgreat": "428",
+      "great": "381",
+      "dj_level": "C"
+    },
+    {
+      "title": "Buffalo",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1126",
+      "pgreat": "340",
+      "great": "446",
+      "dj_level": "B"
+    },
+    {
+      "title": "COLOR BURST",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1434",
+      "pgreat": "553",
+      "great": "328",
+      "dj_level": "B"
+    },
+    {
+      "title": "CONTRACT",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "942",
+      "pgreat": "344",
+      "great": "254",
+      "dj_level": "C"
+    },
+    {
+      "title": "COSMIC RAY",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1152",
+      "pgreat": "404",
+      "great": "344",
+      "dj_level": "C"
+    },
+    {
+      "title": "CROSSROAD ～Left Story～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1422",
+      "pgreat": "545",
+      "great": "332",
+      "dj_level": "B"
+    },
+    {
+      "title": "CUE CUE RESCUE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1524",
+      "pgreat": "577",
+      "great": "370",
+      "dj_level": "B"
+    },
+    {
+      "title": "Candy Galy",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1460",
+      "pgreat": "525",
+      "great": "410",
+      "dj_level": "B"
+    },
+    {
+      "title": "CaptivAte～誓い～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1411",
+      "pgreat": "457",
+      "great": "497",
+      "dj_level": "B"
+    },
+    {
+      "title": "Catch Our Fire!",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1255",
+      "pgreat": "451",
+      "great": "353",
+      "dj_level": "C"
+    },
+    {
+      "title": "Chasing After YOU ～夢の欠片～ ft. 小林マナ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1285",
+      "pgreat": "505",
+      "great": "275",
+      "dj_level": "B"
+    },
+    {
+      "title": "Chemical Cookie",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1207",
+      "pgreat": "448",
+      "great": "311",
+      "dj_level": "B"
+    },
+    {
+      "title": "Chewingood!!!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1609",
+      "pgreat": "624",
+      "great": "361",
+      "dj_level": "B"
+    },
+    {
+      "title": "Citroforte",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1137",
+      "pgreat": "416",
+      "great": "305",
+      "dj_level": "B"
+    },
+    {
+      "title": "CoMAAAAAAA",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1552",
+      "pgreat": "584",
+      "great": "384",
+      "dj_level": "B"
+    },
+    {
+      "title": "Colorful Cookie",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1549",
+      "pgreat": "610",
+      "great": "329",
+      "dj_level": "A"
+    },
+    {
+      "title": "Concertino in Blue",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "908",
+      "pgreat": "240",
+      "great": "428",
+      "dj_level": "C"
+    },
+    {
+      "title": "Confiserie",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1132",
+      "pgreat": "395",
+      "great": "342",
+      "dj_level": "C"
+    },
+    {
+      "title": "Cranberry City ft. Luschel",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1390",
+      "pgreat": "503",
+      "great": "384",
+      "dj_level": "B"
+    },
+    {
+      "title": "Cult Invitation",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1052",
+      "pgreat": "355",
+      "great": "342",
+      "dj_level": "C"
+    },
+    {
+      "title": "DAYDREAMER",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1749",
+      "pgreat": "696",
+      "great": "357",
+      "dj_level": "A"
+    },
+    {
+      "title": "DEADRABBIT!!",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "883",
+      "pgreat": "268",
+      "great": "347",
+      "dj_level": "D"
+    },
+    {
+      "title": "DIVINE JUDGEMENT",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1173",
+      "pgreat": "436",
+      "great": "301",
+      "dj_level": "B"
+    },
+    {
+      "title": "DM STAR～関西 energy style～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1291",
+      "pgreat": "461",
+      "great": "369",
+      "dj_level": "C"
+    },
+    {
+      "title": "DORNWALD ～Junge～",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1174",
+      "pgreat": "424",
+      "great": "326",
+      "dj_level": "C"
+    },
+    {
+      "title": "DRUNK MONKY",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "718",
+      "pgreat": "252",
+      "great": "214",
+      "dj_level": "D"
+    },
+    {
+      "title": "DUAL STRIKER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1574",
+      "pgreat": "595",
+      "great": "384",
+      "dj_level": "B"
+    },
+    {
+      "title": "DXY!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1243",
+      "pgreat": "379",
+      "great": "485",
+      "dj_level": "C"
+    },
+    {
+      "title": "Dazzlin' Darlin",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1280",
+      "pgreat": "482",
+      "great": "316",
+      "dj_level": "B"
+    },
+    {
+      "title": "Deathstalker",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1164",
+      "pgreat": "425",
+      "great": "314",
+      "dj_level": "B"
+    },
+    {
+      "title": "Deep Sea Mystery",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1104",
+      "pgreat": "413",
+      "great": "278",
+      "dj_level": "C"
+    },
+    {
+      "title": "Devilz Staircase",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1391",
+      "pgreat": "525",
+      "great": "341",
+      "dj_level": "B"
+    },
+    {
+      "title": "Donkey Donk",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1195",
+      "pgreat": "443",
+      "great": "309",
+      "dj_level": "C"
+    },
+    {
+      "title": "Dreaming Dream",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1440",
+      "pgreat": "546",
+      "great": "348",
+      "dj_level": "B"
+    },
+    {
+      "title": "Drive Me Crazy",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1534",
+      "pgreat": "579",
+      "great": "376",
+      "dj_level": "B"
+    },
+    {
+      "title": "EDEN",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1450",
+      "pgreat": "526",
+      "great": "398",
+      "dj_level": "C"
+    },
+    {
+      "title": "EMOTiON TRiPPER",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1327",
+      "pgreat": "492",
+      "great": "343",
+      "dj_level": "B"
+    },
+    {
+      "title": "EURO-ROMANCE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1358",
+      "pgreat": "512",
+      "great": "334",
+      "dj_level": "B"
+    },
+    {
+      "title": "EVANESCENT",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1324",
+      "pgreat": "475",
+      "great": "374",
+      "dj_level": "C"
+    },
+    {
+      "title": "EXE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1303",
+      "pgreat": "483",
+      "great": "337",
+      "dj_level": "B"
+    },
+    {
+      "title": "Eleanor",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1511",
+      "pgreat": "572",
+      "great": "367",
+      "dj_level": "B"
+    },
+    {
+      "title": "Elemental Creation",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1461",
+      "pgreat": "550",
+      "great": "361",
+      "dj_level": "B"
+    },
+    {
+      "title": "Elisha",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1011",
+      "pgreat": "411",
+      "great": "189",
+      "dj_level": "A"
+    },
+    {
+      "title": "Empire of Fury",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1255",
+      "pgreat": "469",
+      "great": "317",
+      "dj_level": "B"
+    },
+    {
+      "title": "Everlasting Last",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1320",
+      "pgreat": "492",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "Everlasting Resort",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1021",
+      "pgreat": "367",
+      "great": "287",
+      "dj_level": "C"
+    },
+    {
+      "title": "Ex-Otogibanashi",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Explorer feat. ぷにぷに電機",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1316",
+      "pgreat": "486",
+      "great": "344",
+      "dj_level": "B"
+    },
+    {
+      "title": "Express Emotion",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1509",
+      "pgreat": "561",
+      "great": "387",
+      "dj_level": "B"
+    },
+    {
+      "title": "F",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1169",
+      "pgreat": "423",
+      "great": "323",
+      "dj_level": "C"
+    },
+    {
+      "title": "FERMI PARADOX",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "UNKNOWN",
+      "ex_score": "1568",
+      "pgreat": "580",
+      "great": "408",
+      "dj_level": "B"
+    },
+    {
+      "title": "Fantasia",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1554",
+      "pgreat": "592",
+      "great": "370",
+      "dj_level": "A"
+    },
+    {
+      "title": "Fire Beat",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1048",
+      "pgreat": "383",
+      "great": "282",
+      "dj_level": "B"
+    },
+    {
+      "title": "Flash Back 90's",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1390",
+      "pgreat": "509",
+      "great": "372",
+      "dj_level": "B"
+    },
+    {
+      "title": "Fly Above (Vicissitude Remix)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Fly Above -20th Anniversary Mix-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1265",
+      "pgreat": "477",
+      "great": "311",
+      "dj_level": "B"
+    },
+    {
+      "title": "Fly you to the star",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1374",
+      "pgreat": "520",
+      "great": "334",
+      "dj_level": "B"
+    },
+    {
+      "title": "Forgetting Machine",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "988",
+      "pgreat": "364",
+      "great": "260",
+      "dj_level": "B"
+    },
+    {
+      "title": "Frisk And Squeak",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1384",
+      "pgreat": "500",
+      "great": "384",
+      "dj_level": "B"
+    },
+    {
+      "title": "From Human Blood",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1274",
+      "pgreat": "469",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "From Time To Time",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1382",
+      "pgreat": "493",
+      "great": "396",
+      "dj_level": "C"
+    },
+    {
+      "title": "GALGALIM",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1082",
+      "pgreat": "379",
+      "great": "324",
+      "dj_level": "C"
+    },
+    {
+      "title": "GENERATE feat.綾倉盟",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1451",
+      "pgreat": "535",
+      "great": "381",
+      "dj_level": "B"
+    },
+    {
+      "title": "GENOCIDE",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1144",
+      "pgreat": "415",
+      "great": "314",
+      "dj_level": "C"
+    },
+    {
+      "title": "GHOST REVIVAL",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1447",
+      "pgreat": "537",
+      "great": "373",
+      "dj_level": "C"
+    },
+    {
+      "title": "GOLD RUSH (all-or-nothing MIX)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1363",
+      "pgreat": "500",
+      "great": "363",
+      "dj_level": "B"
+    },
+    {
+      "title": "GRAVITON",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1269",
+      "pgreat": "473",
+      "great": "323",
+      "dj_level": "B"
+    },
+    {
+      "title": "Geirskogul",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1449",
+      "pgreat": "567",
+      "great": "315",
+      "dj_level": "B"
+    },
+    {
+      "title": "Get Into The Groove feat.WaMi",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Get Wicked",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1357",
+      "pgreat": "481",
+      "great": "395",
+      "dj_level": "C"
+    },
+    {
+      "title": "Get set, Go! feat.Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1283",
+      "pgreat": "464",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "Go Ahead!!",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "912",
+      "pgreat": "338",
+      "great": "236",
+      "dj_level": "B"
+    },
+    {
+      "title": "Go Beyond!!",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1106",
+      "pgreat": "407",
+      "great": "292",
+      "dj_level": "B"
+    },
+    {
+      "title": "Godspeed",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1129",
+      "pgreat": "412",
+      "great": "305",
+      "dj_level": "B"
+    },
+    {
+      "title": "HEARTACHE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1179",
+      "pgreat": "447",
+      "great": "285",
+      "dj_level": "B"
+    },
+    {
+      "title": "HYPE THE CORE",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1268",
+      "pgreat": "466",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "HYPER EUROBEAT (2DX style)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1026",
+      "pgreat": "352",
+      "great": "322",
+      "dj_level": "C"
+    },
+    {
+      "title": "Harmonia",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1266",
+      "pgreat": "474",
+      "great": "318",
+      "dj_level": "B"
+    },
+    {
+      "title": "Here We Are",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1369",
+      "pgreat": "502",
+      "great": "365",
+      "dj_level": "C"
+    },
+    {
+      "title": "History of dj TAKA - single style collection -",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1582",
+      "pgreat": "573",
+      "great": "436",
+      "dj_level": "B"
+    },
+    {
+      "title": "Hollywood Galaxy",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1128",
+      "pgreat": "409",
+      "great": "310",
+      "dj_level": "C"
+    },
+    {
+      "title": "Hypersonik",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1601",
+      "pgreat": "610",
+      "great": "381",
+      "dj_level": "B"
+    },
+    {
+      "title": "I'm so Happy (20th Anniv.Mix)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1504",
+      "pgreat": "580",
+      "great": "344",
+      "dj_level": "B"
+    },
+    {
+      "title": "IDOL syndrome.",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1339",
+      "pgreat": "488",
+      "great": "363",
+      "dj_level": "B"
+    },
+    {
+      "title": "ILIAS",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1262",
+      "pgreat": "468",
+      "great": "326",
+      "dj_level": "B"
+    },
+    {
+      "title": "IMPLANTATION",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "848",
+      "pgreat": "300",
+      "great": "248",
+      "dj_level": "C"
+    },
+    {
+      "title": "INORI",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1525",
+      "pgreat": "555",
+      "great": "415",
+      "dj_level": "B"
+    },
+    {
+      "title": "INVISIBLE STRIX",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1243",
+      "pgreat": "446",
+      "great": "351",
+      "dj_level": "B"
+    },
+    {
+      "title": "Ignis†Irae",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1428",
+      "pgreat": "536",
+      "great": "356",
+      "dj_level": "B"
+    },
+    {
+      "title": "Infinity Mirror",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1224",
+      "pgreat": "439",
+      "great": "346",
+      "dj_level": "C"
+    },
+    {
+      "title": "Iris",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Jack",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1270",
+      "pgreat": "400",
+      "great": "470",
+      "dj_level": "B"
+    },
+    {
+      "title": "KOTONOHA ft. Kotoha",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1285",
+      "pgreat": "486",
+      "great": "313",
+      "dj_level": "B"
+    },
+    {
+      "title": "Karma",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1165",
+      "pgreat": "382",
+      "great": "401",
+      "dj_level": "B"
+    },
+    {
+      "title": "Keep it-秋葉工房mix-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1047",
+      "pgreat": "385",
+      "great": "277",
+      "dj_level": "B"
+    },
+    {
+      "title": "Konzert V",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1406",
+      "pgreat": "520",
+      "great": "366",
+      "dj_level": "B"
+    },
+    {
+      "title": "LADS",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1359",
+      "pgreat": "503",
+      "great": "353",
+      "dj_level": "B"
+    },
+    {
+      "title": "LAX5 feat.Ryota Yoshinari",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "LETHEBOLG ～双神威に斬り咲けり～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1245",
+      "pgreat": "444",
+      "great": "357",
+      "dj_level": "B"
+    },
+    {
+      "title": "LOCUS OF THE TRAVEL",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1345",
+      "pgreat": "481",
+      "great": "383",
+      "dj_level": "C"
+    },
+    {
+      "title": "LOUDER ROLLING THUNDER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1186",
+      "pgreat": "427",
+      "great": "332",
+      "dj_level": "B"
+    },
+    {
+      "title": "LOVE SHINE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1374",
+      "pgreat": "522",
+      "great": "330",
+      "dj_level": "B"
+    },
+    {
+      "title": "LOVELY STORM",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1613",
+      "pgreat": "602",
+      "great": "409",
+      "dj_level": "B"
+    },
+    {
+      "title": "LUV CAN SAVE U",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1567",
+      "pgreat": "565",
+      "great": "437",
+      "dj_level": "B"
+    },
+    {
+      "title": "Last Burning",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1339",
+      "pgreat": "487",
+      "great": "365",
+      "dj_level": "B"
+    },
+    {
+      "title": "Leaving...",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1063",
+      "pgreat": "372",
+      "great": "319",
+      "dj_level": "C"
+    },
+    {
+      "title": "Level 3",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1396",
+      "pgreat": "496",
+      "great": "404",
+      "dj_level": "B"
+    },
+    {
+      "title": "Level One",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1314",
+      "pgreat": "465",
+      "great": "384",
+      "dj_level": "B"
+    },
+    {
+      "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1203",
+      "pgreat": "446",
+      "great": "311",
+      "dj_level": "B"
+    },
+    {
+      "title": "Lift Us High",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1430",
+      "pgreat": "538",
+      "great": "354",
+      "dj_level": "B"
+    },
+    {
+      "title": "Lisa-RICCIA",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1397",
+      "pgreat": "525",
+      "great": "347",
+      "dj_level": "B"
+    },
+    {
+      "title": "Little Little Princess",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1456",
+      "pgreat": "482",
+      "great": "492",
+      "dj_level": "B"
+    },
+    {
+      "title": "Love Magic",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "930",
+      "pgreat": "320",
+      "great": "290",
+      "dj_level": "C"
+    },
+    {
+      "title": "Lycoris",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1247",
+      "pgreat": "455",
+      "great": "337",
+      "dj_level": "B"
+    },
+    {
+      "title": "MAX LOVE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1608",
+      "pgreat": "584",
+      "great": "440",
+      "dj_level": "B"
+    },
+    {
+      "title": "MAXIMUM CHEAT GIRL",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1364",
+      "pgreat": "507",
+      "great": "350",
+      "dj_level": "B"
+    },
+    {
+      "title": "MENTAL MELTDOWN",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1262",
+      "pgreat": "443",
+      "great": "376",
+      "dj_level": "C"
+    },
+    {
+      "title": "MOON",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1391",
+      "pgreat": "421",
+      "great": "549",
+      "dj_level": "B"
+    },
+    {
+      "title": "Magical",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1049",
+      "pgreat": "369",
+      "great": "311",
+      "dj_level": "C"
+    },
+    {
+      "title": "Make A Difference",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1260",
+      "pgreat": "454",
+      "great": "352",
+      "dj_level": "C"
+    },
+    {
+      "title": "Makin' It",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "760",
+      "pgreat": "229",
+      "great": "302",
+      "dj_level": "C"
+    },
+    {
+      "title": "Mellow Diary",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1287",
+      "pgreat": "486",
+      "great": "315",
+      "dj_level": "B"
+    },
+    {
+      "title": "Memoria Obscura",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1347",
+      "pgreat": "507",
+      "great": "333",
+      "dj_level": "B"
+    },
+    {
+      "title": "Mermaid girl",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1306",
+      "pgreat": "477",
+      "great": "352",
+      "dj_level": "B"
+    },
+    {
+      "title": "Midnight Drive",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1049",
+      "pgreat": "353",
+      "great": "343",
+      "dj_level": "C"
+    },
+    {
+      "title": "Mighty Beat Monsterz",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1184",
+      "pgreat": "436",
+      "great": "312",
+      "dj_level": "B"
+    },
+    {
+      "title": "NOMAD (feat. らっぷびと)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1185",
+      "pgreat": "425",
+      "great": "335",
+      "dj_level": "C"
+    },
+    {
+      "title": "NPC World",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1228",
+      "pgreat": "423",
+      "great": "382",
+      "dj_level": "C"
+    },
+    {
+      "title": "Narcissus At Oasis",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "887",
+      "pgreat": "323",
+      "great": "241",
+      "dj_level": "C"
+    },
+    {
+      "title": "New Castle Legions",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "942",
+      "pgreat": "342",
+      "great": "258",
+      "dj_level": "C"
+    },
+    {
+      "title": "Nightmare before oversleep",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1067",
+      "pgreat": "393",
+      "great": "281",
+      "dj_level": "C"
+    },
+    {
+      "title": "No Border",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1199",
+      "pgreat": "435",
+      "great": "329",
+      "dj_level": "B"
+    },
+    {
+      "title": "No Day But Today!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1152",
+      "pgreat": "403",
+      "great": "346",
+      "dj_level": "B"
+    },
+    {
+      "title": "No.13",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1543",
+      "pgreat": "563",
+      "great": "417",
+      "dj_level": "B"
+    },
+    {
+      "title": "NoN-Fiction Story!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1241",
+      "pgreat": "448",
+      "great": "345",
+      "dj_level": "B"
+    },
+    {
+      "title": "Nowhere",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1226",
+      "pgreat": "456",
+      "great": "314",
+      "dj_level": "B"
+    },
+    {
+      "title": "Nyan Nyan University",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1430",
+      "pgreat": "536",
+      "great": "358",
+      "dj_level": "C"
+    },
+    {
+      "title": "O/D*20",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1339",
+      "pgreat": "519",
+      "great": "301",
+      "dj_level": "B"
+    },
+    {
+      "title": "OOO",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1312",
+      "pgreat": "506",
+      "great": "300",
+      "dj_level": "B"
+    },
+    {
+      "title": "OUTER PLANETS",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1310",
+      "pgreat": "494",
+      "great": "322",
+      "dj_level": "B"
+    },
+    {
+      "title": "OVER TIME",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1112",
+      "pgreat": "390",
+      "great": "332",
+      "dj_level": "C"
+    },
+    {
+      "title": "Odin",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1263",
+      "pgreat": "452",
+      "great": "359",
+      "dj_level": "B"
+    },
+    {
+      "title": "Only for now",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1509",
+      "pgreat": "580",
+      "great": "349",
+      "dj_level": "B"
+    },
+    {
+      "title": "PALETTE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "PIT A PAT",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1498",
+      "pgreat": "529",
+      "great": "440",
+      "dj_level": "B"
+    },
+    {
+      "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1509",
+      "pgreat": "557",
+      "great": "395",
+      "dj_level": "B"
+    },
+    {
+      "title": "Pink Rose",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "982",
+      "pgreat": "351",
+      "great": "280",
+      "dj_level": "C"
+    },
+    {
+      "title": "Praludium",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1292",
+      "pgreat": "468",
+      "great": "356",
+      "dj_level": "C"
+    },
+    {
+      "title": "Primitive Vibes",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1263",
+      "pgreat": "468",
+      "great": "327",
+      "dj_level": "B"
+    },
+    {
+      "title": "QUANTUM TELEPORTATION",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1268",
+      "pgreat": "447",
+      "great": "374",
+      "dj_level": "C"
+    },
+    {
+      "title": "Quakes",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1163",
+      "pgreat": "412",
+      "great": "339",
+      "dj_level": "C"
+    },
+    {
+      "title": "Queen's Tragedy",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1283",
+      "pgreat": "480",
+      "great": "323",
+      "dj_level": "B"
+    },
+    {
+      "title": "RALLY '25",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1367",
+      "pgreat": "506",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "REMINISCENCE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1467",
+      "pgreat": "552",
+      "great": "363",
+      "dj_level": "B"
+    },
+    {
+      "title": "Rainbow after snow",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1347",
+      "pgreat": "513",
+      "great": "321",
+      "dj_level": "B"
+    },
+    {
+      "title": "Rainstorm",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1226",
+      "pgreat": "445",
+      "great": "336",
+      "dj_level": "C"
+    },
+    {
+      "title": "Raspberry Railgun",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1291",
+      "pgreat": "452",
+      "great": "387",
+      "dj_level": "B"
+    },
+    {
+      "title": "Re:GENERATION",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1323",
+      "pgreat": "483",
+      "great": "357",
+      "dj_level": "B"
+    },
+    {
+      "title": "Red. by Full Metal Jacket",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1075",
+      "pgreat": "363",
+      "great": "349",
+      "dj_level": "C"
+    },
+    {
+      "title": "Regulus",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "930",
+      "pgreat": "329",
+      "great": "272",
+      "dj_level": "C"
+    },
+    {
+      "title": "Release The Music",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1177",
+      "pgreat": "417",
+      "great": "343",
+      "dj_level": "C"
+    },
+    {
+      "title": "Remedy feat. Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1343",
+      "pgreat": "490",
+      "great": "363",
+      "dj_level": "B"
+    },
+    {
+      "title": "Rewind Time",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1427",
+      "pgreat": "536",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "Rise Beyond",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1262",
+      "pgreat": "460",
+      "great": "342",
+      "dj_level": "B"
+    },
+    {
+      "title": "Roar of Chronos",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1418",
+      "pgreat": "534",
+      "great": "350",
+      "dj_level": "B"
+    },
+    {
+      "title": "Roulette",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1148",
+      "pgreat": "409",
+      "great": "330",
+      "dj_level": "C"
+    },
+    {
+      "title": "Rowdy",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1404",
+      "pgreat": "510",
+      "great": "384",
+      "dj_level": "B"
+    },
+    {
+      "title": "SA.YO.NA.RA. SUPER STAR",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "943",
+      "pgreat": "344",
+      "great": "255",
+      "dj_level": "C"
+    },
+    {
+      "title": "SAMSARA",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1176",
+      "pgreat": "421",
+      "great": "334",
+      "dj_level": "B"
+    },
+    {
+      "title": "SCORE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "SCREAM SQUAD",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1001",
+      "pgreat": "376",
+      "great": "249",
+      "dj_level": "B"
+    },
+    {
+      "title": "SHINING☆DANCE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1427",
+      "pgreat": "512",
+      "great": "403",
+      "dj_level": "B"
+    },
+    {
+      "title": "SHION",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1667",
+      "pgreat": "640",
+      "great": "387",
+      "dj_level": "B"
+    },
+    {
+      "title": "SNOW",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1058",
+      "pgreat": "384",
+      "great": "290",
+      "dj_level": "C"
+    },
+    {
+      "title": "SOLID STATE SQUAD",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1216",
+      "pgreat": "413",
+      "great": "390",
+      "dj_level": "C"
+    },
+    {
+      "title": "SOLITON BEAM",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1127",
+      "pgreat": "402",
+      "great": "323",
+      "dj_level": "C"
+    },
+    {
+      "title": "SOUND OF GIALLARHORN",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1630",
+      "pgreat": "578",
+      "great": "474",
+      "dj_level": "B"
+    },
+    {
+      "title": "SPLASH!!!!!!!!!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1324",
+      "pgreat": "467",
+      "great": "390",
+      "dj_level": "B"
+    },
+    {
+      "title": "STAR BEAT",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1391",
+      "pgreat": "507",
+      "great": "377",
+      "dj_level": "B"
+    },
+    {
+      "title": "STEEL NEEDLE",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1306",
+      "pgreat": "483",
+      "great": "340",
+      "dj_level": "B"
+    },
+    {
+      "title": "Samurai Sword",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1163",
+      "pgreat": "429",
+      "great": "305",
+      "dj_level": "B"
+    },
+    {
+      "title": "Satellite Burst",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1311",
+      "pgreat": "478",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "Scripted Connection⇒ H mix",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1113",
+      "pgreat": "393",
+      "great": "327",
+      "dj_level": "C"
+    },
+    {
+      "title": "Secret Rouge",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Several Words",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1381",
+      "pgreat": "529",
+      "great": "323",
+      "dj_level": "B"
+    },
+    {
+      "title": "Shamshir",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1091",
+      "pgreat": "354",
+      "great": "383",
+      "dj_level": "C"
+    },
+    {
+      "title": "Shapeshifter",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "UNKNOWN",
+      "ex_score": "1368",
+      "pgreat": "495",
+      "great": "378",
+      "dj_level": "C"
+    },
+    {
+      "title": "Shooting Star",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1360",
+      "pgreat": "476",
+      "great": "408",
+      "dj_level": "C"
+    },
+    {
+      "title": "Show Time",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "SigSig",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1479",
+      "pgreat": "557",
+      "great": "365",
+      "dj_level": "B"
+    },
+    {
+      "title": "Silver Bullet",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1045",
+      "pgreat": "368",
+      "great": "309",
+      "dj_level": "C"
+    },
+    {
+      "title": "Sky High",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1272",
+      "pgreat": "463",
+      "great": "346",
+      "dj_level": "C"
+    },
+    {
+      "title": "Sorrows",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1769",
+      "pgreat": "624",
+      "great": "521",
+      "dj_level": "A"
+    },
+    {
+      "title": "Star Trail",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1121",
+      "pgreat": "420",
+      "great": "281",
+      "dj_level": "B"
+    },
+    {
+      "title": "Static State",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1292",
+      "pgreat": "454",
+      "great": "384",
+      "dj_level": "C"
+    },
+    {
+      "title": "Sugarplum",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1440",
+      "pgreat": "510",
+      "great": "420",
+      "dj_level": "B"
+    },
+    {
+      "title": "Summerblue",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1378",
+      "pgreat": "493",
+      "great": "392",
+      "dj_level": "B"
+    },
+    {
+      "title": "Super Duper Racers",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1383",
+      "pgreat": "525",
+      "great": "333",
+      "dj_level": "B"
+    },
+    {
+      "title": "Surf on the Light",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1303",
+      "pgreat": "483",
+      "great": "337",
+      "dj_level": "B"
+    },
+    {
+      "title": "Sweet Radar",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Sweet Sweet Magic",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1106",
+      "pgreat": "394",
+      "great": "318",
+      "dj_level": "C"
+    },
+    {
+      "title": "Symmetry",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1203",
+      "pgreat": "431",
+      "great": "341",
+      "dj_level": "B"
+    },
+    {
+      "title": "TEKNO KEISER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1230",
+      "pgreat": "471",
+      "great": "288",
+      "dj_level": "B"
+    },
+    {
+      "title": "THANK YOU FOR PLAYING",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1245",
+      "pgreat": "474",
+      "great": "297",
+      "dj_level": "B"
+    },
+    {
+      "title": "THE DAY OF JUBILATIONS",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1573",
+      "pgreat": "595",
+      "great": "383",
+      "dj_level": "B"
+    },
+    {
+      "title": "THE F∀UST",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1160",
+      "pgreat": "424",
+      "great": "312",
+      "dj_level": "C"
+    },
+    {
+      "title": "THE SAFARI",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "916",
+      "pgreat": "328",
+      "great": "260",
+      "dj_level": "C"
+    },
+    {
+      "title": "TITANIUM RIDERS",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1295",
+      "pgreat": "486",
+      "great": "323",
+      "dj_level": "B"
+    },
+    {
+      "title": "TOXIC VIBRATION",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1452",
+      "pgreat": "554",
+      "great": "344",
+      "dj_level": "B"
+    },
+    {
+      "title": "Take It Easy",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1390",
+      "pgreat": "497",
+      "great": "396",
+      "dj_level": "B"
+    },
+    {
+      "title": "The Story Begins",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1268",
+      "pgreat": "454",
+      "great": "360",
+      "dj_level": "C"
+    },
+    {
+      "title": "The Wind of China Express(The 4th Mashup)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Thor's Hammer",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1079",
+      "pgreat": "398",
+      "great": "283",
+      "dj_level": "B"
+    },
+    {
+      "title": "Timepiece phase II",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1119",
+      "pgreat": "411",
+      "great": "297",
+      "dj_level": "C"
+    },
+    {
+      "title": "Tori-no-kimochi",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1133",
+      "pgreat": "420",
+      "great": "293",
+      "dj_level": "C"
+    },
+    {
+      "title": "Triple Counter",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1408",
+      "pgreat": "547",
+      "great": "314",
+      "dj_level": "B"
+    },
+    {
+      "title": "Triple Cross",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1401",
+      "pgreat": "509",
+      "great": "383",
+      "dj_level": "B"
+    },
+    {
+      "title": "Tripping Jumping",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1205",
+      "pgreat": "413",
+      "great": "379",
+      "dj_level": "C"
+    },
+    {
+      "title": "Turii ～Panta rhei～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1491",
+      "pgreat": "542",
+      "great": "407",
+      "dj_level": "C"
+    },
+    {
+      "title": "Ubertreffen",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1046",
+      "pgreat": "362",
+      "great": "322",
+      "dj_level": "C"
+    },
+    {
+      "title": "V",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1226",
+      "pgreat": "434",
+      "great": "358",
+      "dj_level": "C"
+    },
+    {
+      "title": "V2",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1594",
+      "pgreat": "601",
+      "great": "392",
+      "dj_level": "C"
+    },
+    {
+      "title": "Verflucht",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1243",
+      "pgreat": "461",
+      "great": "321",
+      "dj_level": "B"
+    },
+    {
+      "title": "Vermilion",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1088",
+      "pgreat": "380",
+      "great": "328",
+      "dj_level": "C"
+    },
+    {
+      "title": "Vermillion",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1165",
+      "pgreat": "434",
+      "great": "297",
+      "dj_level": "B"
+    },
+    {
+      "title": "Voo Doo Bamboleo",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1518",
+      "pgreat": "563",
+      "great": "392",
+      "dj_level": "B"
+    },
+    {
+      "title": "WAR GAME",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1256",
+      "pgreat": "464",
+      "great": "328",
+      "dj_level": "B"
+    },
+    {
+      "title": "When I Met U",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1330",
+      "pgreat": "492",
+      "great": "346",
+      "dj_level": "B"
+    },
+    {
+      "title": "Why did you go away",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1390",
+      "pgreat": "527",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "Without Heaven",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1257",
+      "pgreat": "444",
+      "great": "369",
+      "dj_level": "B"
+    },
+    {
+      "title": "Wizards!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1448",
+      "pgreat": "543",
+      "great": "362",
+      "dj_level": "B"
+    },
+    {
+      "title": "Wonderful Escape",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1267",
+      "pgreat": "464",
+      "great": "339",
+      "dj_level": "B"
+    },
+    {
+      "title": "Wuv U",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1062",
+      "pgreat": "400",
+      "great": "262",
+      "dj_level": "B"
+    },
+    {
+      "title": "X",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1436",
+      "pgreat": "530",
+      "great": "376",
+      "dj_level": "B"
+    },
+    {
+      "title": "XANADU OF TWO",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1552",
+      "pgreat": "597",
+      "great": "358",
+      "dj_level": "B"
+    },
+    {
+      "title": "YAKSHA",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1380",
+      "pgreat": "511",
+      "great": "358",
+      "dj_level": "B"
+    },
+    {
+      "title": "Yellow Sunrise",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1436",
+      "pgreat": "545",
+      "great": "346",
+      "dj_level": "B"
+    },
+    {
+      "title": "ZEROIN ON THE LIGHT",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1750",
+      "pgreat": "679",
+      "great": "392",
+      "dj_level": "B"
+    },
+    {
+      "title": "ZZ",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1165",
+      "pgreat": "423",
+      "great": "319",
+      "dj_level": "B"
+    },
+    {
+      "title": "Zenius -I- vanisher",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "awakening",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "903",
+      "pgreat": "339",
+      "great": "225",
+      "dj_level": "C"
+    },
+    {
+      "title": "bag",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1225",
+      "pgreat": "404",
+      "great": "417",
+      "dj_level": "B"
+    },
+    {
+      "title": "bass 2 bass",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1030",
+      "pgreat": "361",
+      "great": "308",
+      "dj_level": "C"
+    },
+    {
+      "title": "being torn the sky",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1180",
+      "pgreat": "430",
+      "great": "320",
+      "dj_level": "B"
+    },
+    {
+      "title": "chrono diver -fragment-",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1383",
+      "pgreat": "514",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "dAuntl3ss",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1103",
+      "pgreat": "398",
+      "great": "307",
+      "dj_level": "C"
+    },
+    {
+      "title": "dica dica",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1391",
+      "pgreat": "491",
+      "great": "409",
+      "dj_level": "B"
+    },
+    {
+      "title": "do the thing feat. Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1323",
+      "pgreat": "466",
+      "great": "391",
+      "dj_level": "B"
+    },
+    {
+      "title": "double thrash",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1189",
+      "pgreat": "453",
+      "great": "283",
+      "dj_level": "B"
+    },
+    {
+      "title": "end of world",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1201",
+      "pgreat": "428",
+      "great": "345",
+      "dj_level": "C"
+    },
+    {
+      "title": "fallen leaves -IIDX edition-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1174",
+      "pgreat": "433",
+      "great": "308",
+      "dj_level": "C"
+    },
+    {
+      "title": "fffff",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1252",
+      "pgreat": "446",
+      "great": "360",
+      "dj_level": "B"
+    },
+    {
+      "title": "four pieces of heaven",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "956",
+      "pgreat": "336",
+      "great": "284",
+      "dj_level": "C"
+    },
+    {
+      "title": "frequent",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1350",
+      "pgreat": "503",
+      "great": "344",
+      "dj_level": "B"
+    },
+    {
+      "title": "fun",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "900",
+      "pgreat": "313",
+      "great": "274",
+      "dj_level": "C"
+    },
+    {
+      "title": "garden",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1230",
+      "pgreat": "445",
+      "great": "340",
+      "dj_level": "B"
+    },
+    {
+      "title": "get set mind",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1690",
+      "pgreat": "660",
+      "great": "370",
+      "dj_level": "A"
+    },
+    {
+      "title": "gigadelic (WILD STYLE)",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1118",
+      "pgreat": "417",
+      "great": "284",
+      "dj_level": "B"
+    },
+    {
+      "title": "innocent revolver",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1440",
+      "pgreat": "515",
+      "great": "410",
+      "dj_level": "B"
+    },
+    {
+      "title": "lower world",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1188",
+      "pgreat": "440",
+      "great": "308",
+      "dj_level": "C"
+    },
+    {
+      "title": "moon_child",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1189",
+      "pgreat": "376",
+      "great": "437",
+      "dj_level": "B"
+    },
+    {
+      "title": "mosaic",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1350",
+      "pgreat": "517",
+      "great": "316",
+      "dj_level": "B"
+    },
+    {
+      "title": "rainbow rainbow",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1532",
+      "pgreat": "606",
+      "great": "320",
+      "dj_level": "B"
+    },
+    {
+      "title": "rottel-da-sun",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1050",
+      "pgreat": "382",
+      "great": "286",
+      "dj_level": "B"
+    },
+    {
+      "title": "rottel-the-Mercury",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1430",
+      "pgreat": "545",
+      "great": "340",
+      "dj_level": "B"
+    },
+    {
+      "title": "rumrum triplets",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1347",
+      "pgreat": "523",
+      "great": "301",
+      "dj_level": "B"
+    },
+    {
+      "title": "smooooch・∀・",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "snow storm",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1420",
+      "pgreat": "528",
+      "great": "364",
+      "dj_level": "C"
+    },
+    {
+      "title": "traces",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1302",
+      "pgreat": "411",
+      "great": "480",
+      "dj_level": "B"
+    },
+    {
+      "title": "vault of heaven",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1047",
+      "pgreat": "375",
+      "great": "297",
+      "dj_level": "C"
+    },
+    {
+      "title": "yellow head joe",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1310",
+      "pgreat": "481",
+      "great": "348",
+      "dj_level": "B"
+    },
+    {
+      "title": "ΛИ0MΛLY",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1204",
+      "pgreat": "432",
+      "great": "340",
+      "dj_level": "C"
+    },
+    {
+      "title": "ιgniЯRuina",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1290",
+      "pgreat": "457",
+      "great": "376",
+      "dj_level": "B"
+    },
+    {
+      "title": "⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾ beyond reason",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1202",
+      "pgreat": "442",
+      "great": "318",
+      "dj_level": "C"
+    },
+    {
+      "title": "∀",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1365",
+      "pgreat": "508",
+      "great": "349",
+      "dj_level": "B"
+    },
+    {
+      "title": "■□模様",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1610",
+      "pgreat": "604",
+      "great": "402",
+      "dj_level": "B"
+    },
+    {
+      "title": "おとせサンダー",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1397",
+      "pgreat": "531",
+      "great": "335",
+      "dj_level": "B"
+    },
+    {
+      "title": "お菓子の王国",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1304",
+      "pgreat": "481",
+      "great": "342",
+      "dj_level": "C"
+    },
+    {
+      "title": "お願いアインシュタイン",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1243",
+      "pgreat": "465",
+      "great": "313",
+      "dj_level": "B"
+    },
+    {
+      "title": "かわいいだけじゃだめですか？",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1293",
+      "pgreat": "466",
+      "great": "361",
+      "dj_level": "B"
+    },
+    {
+      "title": "きゅんです。",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1601",
+      "pgreat": "619",
+      "great": "363",
+      "dj_level": "A"
+    },
+    {
+      "title": "ここからよろしく大作戦143",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1567",
+      "pgreat": "592",
+      "great": "383",
+      "dj_level": "B"
+    },
+    {
+      "title": "それが、ボクの使命～レスキュー隊長 メンキュー～",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1242",
+      "pgreat": "472",
+      "great": "298",
+      "dj_level": "B"
+    },
+    {
+      "title": "それは花火のような恋",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1549",
+      "pgreat": "566",
+      "great": "417",
+      "dj_level": "B"
+    },
+    {
+      "title": "ぞうしょく！？マイデンティティ",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1353",
+      "pgreat": "508",
+      "great": "337",
+      "dj_level": "B"
+    },
+    {
+      "title": "たまゆら",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1173",
+      "pgreat": "445",
+      "great": "283",
+      "dj_level": "B"
+    },
+    {
+      "title": "ちょえちょえまぎか",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1463",
+      "pgreat": "560",
+      "great": "343",
+      "dj_level": "B"
+    },
+    {
+      "title": "でぃすこみゅーたんと！",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1344",
+      "pgreat": "485",
+      "great": "374",
+      "dj_level": "B"
+    },
+    {
+      "title": "めいさいアイドル☆あいむちゃん♪",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1226",
+      "pgreat": "444",
+      "great": "338",
+      "dj_level": "C"
+    },
+    {
+      "title": "めでてえ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1452",
+      "pgreat": "511",
+      "great": "430",
+      "dj_level": "C"
+    },
+    {
+      "title": "もんめためたもん",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "アイドル",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "アクマフカ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1262",
+      "pgreat": "446",
+      "great": "370",
+      "dj_level": "C"
+    },
+    {
+      "title": "アタシ完全絶対正義ちゃん！",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "アラビアン ハイパー ナイト",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1175",
+      "pgreat": "441",
+      "great": "293",
+      "dj_level": "B"
+    },
+    {
+      "title": "エクスプロウル",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "エディブルフラワーの独白",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1325",
+      "pgreat": "491",
+      "great": "343",
+      "dj_level": "B"
+    },
+    {
+      "title": "オッドラヴィ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1533",
+      "pgreat": "581",
+      "great": "371",
+      "dj_level": "B"
+    },
+    {
+      "title": "オドループ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1548",
+      "pgreat": "590",
+      "great": "368",
+      "dj_level": "B"
+    },
+    {
+      "title": "オブソミート",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1481",
+      "pgreat": "563",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "オルタネイトβ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1233",
+      "pgreat": "443",
+      "great": "347",
+      "dj_level": "C"
+    },
+    {
+      "title": "キャトられ恋はモ～モク",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1635",
+      "pgreat": "610",
+      "great": "415",
+      "dj_level": "B"
+    },
+    {
+      "title": "ギミギミエンターテイメント",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1645",
+      "pgreat": "583",
+      "great": "479",
+      "dj_level": "C"
+    },
+    {
+      "title": "ギャ・ギャ・ギャ・ギャラクシー！",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ギョギョっと人魚 爆婚ブライダル",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1342",
+      "pgreat": "486",
+      "great": "370",
+      "dj_level": "C"
+    },
+    {
+      "title": "グラナダの風",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1131",
+      "pgreat": "426",
+      "great": "279",
+      "dj_level": "B"
+    },
+    {
+      "title": "ゲシュタルト",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1371",
+      "pgreat": "493",
+      "great": "385",
+      "dj_level": "C"
+    },
+    {
+      "title": "シムルグの目醒め",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1208",
+      "pgreat": "421",
+      "great": "366",
+      "dj_level": "C"
+    },
+    {
+      "title": "シュッパツシンコウ・シサカンコ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1316",
+      "pgreat": "470",
+      "great": "376",
+      "dj_level": "C"
+    },
+    {
+      "title": "スキッテイエェエエェ!!!!",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1483",
+      "pgreat": "549",
+      "great": "385",
+      "dj_level": "B"
+    },
+    {
+      "title": "スーパー戦湯ババンバーン",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1408",
+      "pgreat": "539",
+      "great": "330",
+      "dj_level": "B"
+    },
+    {
+      "title": "セピアの軌跡 ft. 天宮みや(少女フラクタル)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1501",
+      "pgreat": "573",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "デラむぅのでらっくす☆どり～むぅ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1262",
+      "pgreat": "462",
+      "great": "338",
+      "dj_level": "B"
+    },
+    {
+      "title": "ドリムチウ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1566",
+      "pgreat": "560",
+      "great": "446",
+      "dj_level": "B"
+    },
+    {
+      "title": "ドーナツホール 2024",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1450",
+      "pgreat": "539",
+      "great": "372",
+      "dj_level": "B"
+    },
+    {
+      "title": "ハイ*ビスカス ft. Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1461",
+      "pgreat": "553",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "ハリツヤランデヴー",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1220",
+      "pgreat": "431",
+      "great": "358",
+      "dj_level": "C"
+    },
+    {
+      "title": "ハルイロメロディー",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1265",
+      "pgreat": "446",
+      "great": "373",
+      "dj_level": "B"
+    },
+    {
+      "title": "バブリン",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ヒマワリ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1301",
+      "pgreat": "496",
+      "great": "309",
+      "dj_level": "B"
+    },
+    {
+      "title": "ビビデバ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ビューティフルレシート",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1313",
+      "pgreat": "526",
+      "great": "261",
+      "dj_level": "A"
+    },
+    {
+      "title": "ベィスドロップ・フリークス",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1113",
+      "pgreat": "382",
+      "great": "349",
+      "dj_level": "C"
+    },
+    {
+      "title": "ポラリスノウタ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1456",
+      "pgreat": "551",
+      "great": "354",
+      "dj_level": "B"
+    },
+    {
+      "title": "ミラージュ・レジデンス",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1362",
+      "pgreat": "482",
+      "great": "398",
+      "dj_level": "C"
+    },
+    {
+      "title": "メイメツ、フラグメンツ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ラキラキ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1034",
+      "pgreat": "367",
+      "great": "300",
+      "dj_level": "C"
+    },
+    {
+      "title": "ラストセンチュリーメランコリック",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1107",
+      "pgreat": "413",
+      "great": "281",
+      "dj_level": "C"
+    },
+    {
+      "title": "ラブキラ☆スプラッシュ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1380",
+      "pgreat": "496",
+      "great": "388",
+      "dj_level": "C"
+    },
+    {
+      "title": "ラブパラ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1412",
+      "pgreat": "525",
+      "great": "362",
+      "dj_level": "B"
+    },
+    {
+      "title": "リグレット",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1481",
+      "pgreat": "540",
+      "great": "401",
+      "dj_level": "B"
+    },
+    {
+      "title": "リリーゼと炎龍レーヴァテイン",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1278",
+      "pgreat": "459",
+      "great": "360",
+      "dj_level": "C"
+    },
+    {
+      "title": "レシピのリドル",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ワルツ第17番 ト短調”大犬のワルツ”",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1242",
+      "pgreat": "435",
+      "great": "372",
+      "dj_level": "C"
+    },
+    {
+      "title": "不死身ごっこ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "中華急行",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1388",
+      "pgreat": "526",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "伐折羅-vajra-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1347",
+      "pgreat": "492",
+      "great": "363",
+      "dj_level": "B"
+    },
+    {
+      "title": "倍倍FIGHT!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1422",
+      "pgreat": "526",
+      "great": "370",
+      "dj_level": "B"
+    },
+    {
+      "title": "冥",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "冬椿 ft. Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1316",
+      "pgreat": "488",
+      "great": "340",
+      "dj_level": "B"
+    },
+    {
+      "title": "凛として咲く花の如く",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1761",
+      "pgreat": "555",
+      "great": "651",
+      "dj_level": "B"
+    },
+    {
+      "title": "刃図羅",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1182",
+      "pgreat": "432",
+      "great": "318",
+      "dj_level": "C"
+    },
+    {
+      "title": "即席！脳直★ミュージックシステム",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1205",
+      "pgreat": "423",
+      "great": "359",
+      "dj_level": "B"
+    },
+    {
+      "title": "夏の匂い。キミの残像。 ft. Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1559",
+      "pgreat": "575",
+      "great": "409",
+      "dj_level": "B"
+    },
+    {
+      "title": "夏色のセレナーデ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1402",
+      "pgreat": "522",
+      "great": "358",
+      "dj_level": "B"
+    },
+    {
+      "title": "夢縁",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1255",
+      "pgreat": "450",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "天空の夜明け",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "子供の落書き帳",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "975",
+      "pgreat": "348",
+      "great": "279",
+      "dj_level": "C"
+    },
+    {
+      "title": "少年A",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1084",
+      "pgreat": "397",
+      "great": "290",
+      "dj_level": "C"
+    },
+    {
+      "title": "山岡晃の「クイズ！家事都合！」",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1104",
+      "pgreat": "402",
+      "great": "300",
+      "dj_level": "C"
+    },
+    {
+      "title": "廿",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1387",
+      "pgreat": "506",
+      "great": "375",
+      "dj_level": "B"
+    },
+    {
+      "title": "恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1301",
+      "pgreat": "446",
+      "great": "409",
+      "dj_level": "C"
+    },
+    {
+      "title": "恋はどう？モロ◎波動OK☆方程式!!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1404",
+      "pgreat": "517",
+      "great": "370",
+      "dj_level": "B"
+    },
+    {
+      "title": "恋愛＝精度×認識力",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1238",
+      "pgreat": "435",
+      "great": "368",
+      "dj_level": "C"
+    },
+    {
+      "title": "愛しくてラヴィンユー ft. マナ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1392",
+      "pgreat": "516",
+      "great": "360",
+      "dj_level": "B"
+    },
+    {
+      "title": "愛包ダンスホール",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1624",
+      "pgreat": "619",
+      "great": "386",
+      "dj_level": "B"
+    },
+    {
+      "title": "我ら完全無敵のアイドル!!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1593",
+      "pgreat": "602",
+      "great": "389",
+      "dj_level": "B"
+    },
+    {
+      "title": "斎戒",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1154",
+      "pgreat": "432",
+      "great": "290",
+      "dj_level": "B"
+    },
+    {
+      "title": "旋律のドグマ～Miserables～",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1704",
+      "pgreat": "660",
+      "great": "384",
+      "dj_level": "A"
+    },
+    {
+      "title": "昏き甲鉄のヴェルガ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1585",
+      "pgreat": "595",
+      "great": "395",
+      "dj_level": "A"
+    },
+    {
+      "title": "星をこの手に",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1166",
+      "pgreat": "412",
+      "great": "342",
+      "dj_level": "C"
+    },
+    {
+      "title": "星屑ディスタンシア",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1208",
+      "pgreat": "448",
+      "great": "312",
+      "dj_level": "B"
+    },
+    {
+      "title": "映夢雪花抄",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1248",
+      "pgreat": "442",
+      "great": "364",
+      "dj_level": "C"
+    },
+    {
+      "title": "最強頂戴girl",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1296",
+      "pgreat": "480",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "月下散刄",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1075",
+      "pgreat": "393",
+      "great": "289",
+      "dj_level": "B"
+    },
+    {
+      "title": "月光",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1378",
+      "pgreat": "511",
+      "great": "356",
+      "dj_level": "C"
+    },
+    {
+      "title": "月雪に舞う華のように",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1305",
+      "pgreat": "473",
+      "great": "359",
+      "dj_level": "B"
+    },
+    {
+      "title": "朧",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1253",
+      "pgreat": "462",
+      "great": "329",
+      "dj_level": "B"
+    },
+    {
+      "title": "未完成ノ蒸氣驅動乙女",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1332",
+      "pgreat": "505",
+      "great": "322",
+      "dj_level": "B"
+    },
+    {
+      "title": "楽園追放",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1311",
+      "pgreat": "457",
+      "great": "397",
+      "dj_level": "C"
+    },
+    {
+      "title": "次葉 -turn the page-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1200",
+      "pgreat": "437",
+      "great": "326",
+      "dj_level": "B"
+    },
+    {
+      "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1383",
+      "pgreat": "504",
+      "great": "375",
+      "dj_level": "B"
+    },
+    {
+      "title": "水無月の雫 ft. 小林まな",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1529",
+      "pgreat": "582",
+      "great": "365",
+      "dj_level": "B"
+    },
+    {
+      "title": "泡沫と月",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1472",
+      "pgreat": "532",
+      "great": "408",
+      "dj_level": "B"
+    },
+    {
+      "title": "津軽雪",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1213",
+      "pgreat": "430",
+      "great": "353",
+      "dj_level": "C"
+    },
+    {
+      "title": "流桜ノ門",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1176",
+      "pgreat": "417",
+      "great": "342",
+      "dj_level": "C"
+    },
+    {
+      "title": "海神",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1125",
+      "pgreat": "406",
+      "great": "313",
+      "dj_level": "C"
+    },
+    {
+      "title": "深愛のリグレット",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1291",
+      "pgreat": "450",
+      "great": "391",
+      "dj_level": "C"
+    },
+    {
+      "title": "灼熱 Lost Summer Dayz",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1068",
+      "pgreat": "362",
+      "great": "344",
+      "dj_level": "C"
+    },
+    {
+      "title": "灼熱Beach Side Bunny",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "922",
+      "pgreat": "264",
+      "great": "394",
+      "dj_level": "C"
+    },
+    {
+      "title": "灼熱Beach Side Bunny (Masayoshi Iimori Remix)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "875",
+      "pgreat": "267",
+      "great": "341",
+      "dj_level": "C"
+    },
+    {
+      "title": "烽火連天の刃",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1358",
+      "pgreat": "511",
+      "great": "336",
+      "dj_level": "B"
+    },
+    {
+      "title": "煉獄のエルフェリア",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1287",
+      "pgreat": "467",
+      "great": "353",
+      "dj_level": "C"
+    },
+    {
+      "title": "異心前進♪ぴょんぴょんぴょん",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1502",
+      "pgreat": "568",
+      "great": "366",
+      "dj_level": "B"
+    },
+    {
+      "title": "百恋ラブラスター",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1531",
+      "pgreat": "544",
+      "great": "443",
+      "dj_level": "B"
+    },
+    {
+      "title": "神っぽいな",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1274",
+      "pgreat": "476",
+      "great": "322",
+      "dj_level": "B"
+    },
+    {
+      "title": "神様、つれない。",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1433",
+      "pgreat": "549",
+      "great": "335",
+      "dj_level": "B"
+    },
+    {
+      "title": "禊",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1246",
+      "pgreat": "436",
+      "great": "374",
+      "dj_level": "C"
+    },
+    {
+      "title": "突撃!ガラスのニーソ姫!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1313",
+      "pgreat": "493",
+      "great": "327",
+      "dj_level": "B"
+    },
+    {
+      "title": "純真可憐デザイア",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1550",
+      "pgreat": "599",
+      "great": "352",
+      "dj_level": "B"
+    },
+    {
+      "title": "罠",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1418",
+      "pgreat": "529",
+      "great": "360",
+      "dj_level": "B"
+    },
+    {
+      "title": "罪過の聖堂",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "726",
+      "pgreat": "257",
+      "great": "212",
+      "dj_level": "D"
+    },
+    {
+      "title": "翼",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1452",
+      "pgreat": "519",
+      "great": "414",
+      "dj_level": "B"
+    },
+    {
+      "title": "聖人の塔",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1239",
+      "pgreat": "492",
+      "great": "255",
+      "dj_level": "B"
+    },
+    {
+      "title": "草原の王女-軌跡を辿って-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1318",
+      "pgreat": "479",
+      "great": "360",
+      "dj_level": "B"
+    },
+    {
+      "title": "華爛漫 -Flowers-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1249",
+      "pgreat": "477",
+      "great": "295",
+      "dj_level": "B"
+    },
+    {
+      "title": "表裏一体！？怪盗いいんちょの悩み",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1268",
+      "pgreat": "451",
+      "great": "366",
+      "dj_level": "B"
+    },
+    {
+      "title": "衰色小町メランコリア",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1305",
+      "pgreat": "483",
+      "great": "339",
+      "dj_level": "C"
+    },
+    {
+      "title": "轟け！恋のビーンボール！！",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1198",
+      "pgreat": "432",
+      "great": "334",
+      "dj_level": "B"
+    },
+    {
+      "title": "進捗ダメダメです",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1315",
+      "pgreat": "488",
+      "great": "339",
+      "dj_level": "B"
+    },
+    {
+      "title": "酔いどれ知らず",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1373",
+      "pgreat": "498",
+      "great": "377",
+      "dj_level": "B"
+    },
+    {
+      "title": "金野火織の金色提言",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1317",
+      "pgreat": "481",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "閉塞的フレーション",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1591",
+      "pgreat": "618",
+      "great": "355",
+      "dj_level": "B"
+    },
+    {
+      "title": "雪上断火",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "933",
+      "pgreat": "317",
+      "great": "299",
+      "dj_level": "C"
+    },
+    {
+      "title": "雪月花",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1089",
+      "pgreat": "400",
+      "great": "289",
+      "dj_level": "B"
+    },
+    {
+      "title": "電人、暁に斃れる。",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1208",
+      "pgreat": "430",
+      "great": "348",
+      "dj_level": "C"
+    },
+    {
+      "title": "電腦都市",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1294",
+      "pgreat": "473",
+      "great": "348",
+      "dj_level": "C"
+    },
+    {
+      "title": "霧幻メモリア",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1179",
+      "pgreat": "445",
+      "great": "289",
+      "dj_level": "B"
+    },
+    {
+      "title": "霹靂",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1112",
+      "pgreat": "393",
+      "great": "326",
+      "dj_level": "C"
+    },
+    {
+      "title": "革命",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1125",
+      "pgreat": "418",
+      "great": "289",
+      "dj_level": "B"
+    },
+    {
+      "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1238",
+      "pgreat": "464",
+      "great": "310",
+      "dj_level": "C"
+    },
+    {
+      "title": "ＰＡＳＴＥＬＩＳＭ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1288",
+      "pgreat": "480",
+      "great": "328",
+      "dj_level": "B"
+    },
+    {
+      "title": "(This Is Not) The Angels",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1444",
+      "pgreat": "519",
+      "great": "406",
+      "dj_level": "C"
+    },
+    {
+      "title": "AMRITA -不滅ノ花-",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1459",
+      "pgreat": "535",
+      "great": "389",
+      "dj_level": "C"
+    },
+    {
+      "title": "ATHER",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1351",
+      "pgreat": "477",
+      "great": "397",
+      "dj_level": "C"
+    },
+    {
+      "title": "Amor De Verao",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1297",
+      "pgreat": "458",
+      "great": "381",
+      "dj_level": "C"
+    },
+    {
+      "title": "Angelic Jelly",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1498",
+      "pgreat": "553",
+      "great": "392",
+      "dj_level": "C"
+    },
+    {
+      "title": "Aurora",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1352",
+      "pgreat": "492",
+      "great": "368",
+      "dj_level": "C"
+    },
+    {
+      "title": "BROKEN EDEN",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1238",
+      "pgreat": "440",
+      "great": "358",
+      "dj_level": "C"
+    },
+    {
+      "title": "Be quiet",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1190",
+      "pgreat": "419",
+      "great": "352",
+      "dj_level": "C"
+    },
+    {
+      "title": "Blind Justice ～Torn souls, Hurt Faiths ～",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1497",
+      "pgreat": "577",
+      "great": "343",
+      "dj_level": "B"
+    },
+    {
+      "title": "Blue Rain",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1197",
+      "pgreat": "430",
+      "great": "337",
+      "dj_level": "C"
+    },
+    {
+      "title": "Chrono Diver -PENDULUMs-",
+      "difficulty": "H",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1351",
+      "pgreat": "474",
+      "great": "403",
+      "dj_level": "C"
+    },
+    {
+      "title": "Cosmic Cat",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1291",
+      "pgreat": "478",
+      "great": "335",
+      "dj_level": "C"
+    },
+    {
+      "title": "Destiny Sword",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1188",
+      "pgreat": "424",
+      "great": "340",
+      "dj_level": "C"
+    },
+    {
+      "title": "ESPRIT ONE",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1638",
+      "pgreat": "594",
+      "great": "450",
+      "dj_level": "C"
+    },
+    {
+      "title": "Empire State Glory",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1271",
+      "pgreat": "435",
+      "great": "401",
+      "dj_level": "C"
+    },
+    {
+      "title": "Energy Drive",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1102",
+      "pgreat": "403",
+      "great": "296",
+      "dj_level": "C"
+    },
+    {
+      "title": "Exhaust Hype",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1508",
+      "pgreat": "541",
+      "great": "426",
+      "dj_level": "C"
+    },
+    {
+      "title": "Explorer feat. ぷにぷに電機",
+      "difficulty": "L",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1504",
+      "pgreat": "543",
+      "great": "418",
+      "dj_level": "C"
+    },
+    {
+      "title": "Farewell to Marrakech",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1367",
+      "pgreat": "511",
+      "great": "345",
+      "dj_level": "B"
+    },
+    {
+      "title": "Fiery Stallion",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1145",
+      "pgreat": "399",
+      "great": "347",
+      "dj_level": "C"
+    },
+    {
+      "title": "GENERATED GRID",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1795",
+      "pgreat": "662",
+      "great": "471",
+      "dj_level": "B"
+    },
+    {
+      "title": "Globe Glitter",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1497",
+      "pgreat": "525",
+      "great": "447",
+      "dj_level": "C"
+    },
+    {
+      "title": "KING",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1685",
+      "pgreat": "615",
+      "great": "455",
+      "dj_level": "C"
+    },
+    {
+      "title": "LASER CRUSTER",
+      "difficulty": "H",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1299",
+      "pgreat": "460",
+      "great": "379",
+      "dj_level": "C"
+    },
+    {
+      "title": "Lawes's Parotia",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1346",
+      "pgreat": "484",
+      "great": "378",
+      "dj_level": "C"
+    },
+    {
+      "title": "Line 4 Ruin",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1441",
+      "pgreat": "509",
+      "great": "423",
+      "dj_level": "C"
+    },
+    {
+      "title": "MIRACLE MEETS",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1397",
+      "pgreat": "550",
+      "great": "297",
+      "dj_level": "B"
+    },
+    {
+      "title": "PENDUAL TALISMAN",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1392",
+      "pgreat": "514",
+      "great": "364",
+      "dj_level": "C"
+    },
+    {
+      "title": "Plea Per Phase",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1519",
+      "pgreat": "547",
+      "great": "425",
+      "dj_level": "C"
+    },
+    {
+      "title": "PopなEDEN",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1397",
+      "pgreat": "514",
+      "great": "369",
+      "dj_level": "B"
+    },
+    {
+      "title": "Programmed Genom",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "UNKNOWN",
+      "ex_score": "1340",
+      "pgreat": "482",
+      "great": "376",
+      "dj_level": "C"
+    },
+    {
+      "title": "Psychedelic Intelligence",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1577",
+      "pgreat": "591",
+      "great": "395",
+      "dj_level": "C"
+    },
+    {
+      "title": "Rejection Girl",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1363",
+      "pgreat": "509",
+      "great": "345",
+      "dj_level": "C"
+    },
+    {
+      "title": "Rock Da House",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1322",
+      "pgreat": "477",
+      "great": "368",
+      "dj_level": "B"
+    },
+    {
+      "title": "Romanticが止まらない",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1484",
+      "pgreat": "536",
+      "great": "412",
+      "dj_level": "C"
+    },
+    {
+      "title": "STARLIGHT DANCEHALL",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1428",
+      "pgreat": "502",
+      "great": "424",
+      "dj_level": "C"
+    },
+    {
+      "title": "Sakura Reflection",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1337",
+      "pgreat": "511",
+      "great": "315",
+      "dj_level": "B"
+    },
+    {
+      "title": "Shiva",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1361",
+      "pgreat": "510",
+      "great": "341",
+      "dj_level": "B"
+    },
+    {
+      "title": "Shogun's Last Dawn ft. Kanae Asaba",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1491",
+      "pgreat": "529",
+      "great": "433",
+      "dj_level": "C"
+    },
+    {
+      "title": "Spark Rush",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1383",
+      "pgreat": "491",
+      "great": "401",
+      "dj_level": "C"
+    },
+    {
+      "title": "Sparkle Smilin'",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1351",
+      "pgreat": "496",
+      "great": "359",
+      "dj_level": "C"
+    },
+    {
+      "title": "Stargazing Trip ～星 探す旅～ ft. 小林マナ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1683",
+      "pgreat": "636",
+      "great": "411",
+      "dj_level": "B"
+    },
+    {
+      "title": "Swarm Of Scarabs",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "UNKNOWN",
+      "ex_score": "849",
+      "pgreat": "297",
+      "great": "255",
+      "dj_level": "D"
+    },
+    {
+      "title": "Tell me what you wish feat.らっぷびと",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1766",
+      "pgreat": "656",
+      "great": "454",
+      "dj_level": "B"
+    },
+    {
+      "title": "Ventriloquist",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1333",
+      "pgreat": "481",
+      "great": "371",
+      "dj_level": "C"
+    },
+    {
+      "title": "Vitamin",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "Wanna Party?",
+      "difficulty": "L",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1167",
+      "pgreat": "422",
+      "great": "323",
+      "dj_level": "C"
+    },
+    {
+      "title": "crew",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1492",
+      "pgreat": "559",
+      "great": "374",
+      "dj_level": "C"
+    },
+    {
+      "title": "moffing 猫叉Master meets β2 黒パカミックス",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1460",
+      "pgreat": "534",
+      "great": "392",
+      "dj_level": "B"
+    },
+    {
+      "title": "quasar",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "refractive index",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1423",
+      "pgreat": "517",
+      "great": "389",
+      "dj_level": "C"
+    },
+    {
+      "title": "えだまめカレークッキング",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1189",
+      "pgreat": "435",
+      "great": "319",
+      "dj_level": "C"
+    },
+    {
+      "title": "ここからよろしく大作戦143",
+      "difficulty": "L",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1906",
+      "pgreat": "729",
+      "great": "448",
+      "dj_level": "B"
+    },
+    {
+      "title": "でんぱ どりる わんにゃー☆三",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1955",
+      "pgreat": "729",
+      "great": "497",
+      "dj_level": "B"
+    },
+    {
+      "title": "ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1294",
+      "pgreat": "451",
+      "great": "392",
+      "dj_level": "C"
+    },
+    {
+      "title": "オーバーライド",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1935",
+      "pgreat": "724",
+      "great": "487",
+      "dj_level": "B"
+    },
+    {
+      "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1307",
+      "pgreat": "478",
+      "great": "351",
+      "dj_level": "B"
+    },
+    {
+      "title": "ハオ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1529",
+      "pgreat": "561",
+      "great": "407",
+      "dj_level": "C"
+    },
+    {
+      "title": "フォニイ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1653",
+      "pgreat": "611",
+      "great": "431",
+      "dj_level": "B"
+    },
+    {
+      "title": "マーシャル・マキシマイザー",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1254",
+      "pgreat": "447",
+      "great": "360",
+      "dj_level": "B"
+    },
+    {
+      "title": "ミッドナイト☆WAR",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1453",
+      "pgreat": "547",
+      "great": "359",
+      "dj_level": "B"
+    },
+    {
+      "title": "メズマライザー",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1662",
+      "pgreat": "642",
+      "great": "378",
+      "dj_level": "B"
+    },
+    {
+      "title": "メテオラ-meteor-",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "ユミル",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1421",
+      "pgreat": "506",
+      "great": "409",
+      "dj_level": "C"
+    },
+    {
+      "title": "ラビットホール",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1456",
+      "pgreat": "502",
+      "great": "452",
+      "dj_level": "C"
+    },
+    {
+      "title": "九十九ノ恋結ビ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1426",
+      "pgreat": "514",
+      "great": "398",
+      "dj_level": "C"
+    },
+    {
+      "title": "勇者",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1401",
+      "pgreat": "514",
+      "great": "373",
+      "dj_level": "B"
+    },
+    {
+      "title": "泰東ノ翠霞",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1038",
+      "pgreat": "347",
+      "great": "344",
+      "dj_level": "B"
+    },
+    {
+      "title": "煉獄コンフィチュール",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1512",
+      "pgreat": "553",
+      "great": "406",
+      "dj_level": "B"
+    },
+    {
+      "title": "牧神笛吹きて",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1062",
+      "pgreat": "380",
+      "great": "302",
+      "dj_level": "C"
+    },
+    {
+      "title": "華麗なる！音戯探偵ひなビタ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "閃と雷管とロープ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "0",
+      "pgreat": "0",
+      "great": "0",
+      "dj_level": "---"
+    },
+    {
+      "title": "龍と少女とデコヒーレンス",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1465",
+      "pgreat": "531",
+      "great": "403",
+      "dj_level": "C"
+    }
+  ]
+}

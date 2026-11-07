@@ -1,0 +1,1 @@
+Tesseract English/Japanese traineddata: Apache-2.0. Distributed via @tesseract.js-data/eng@1.0.0 and @tesseract.js-data/jpn@1.0.0, 4.0.0_best_int. Upstream: https://github.com/tesseract-ocr/tessdata_best and https://github.com/naptha/tessdata . https://www.apache.org/licenses/LICENSE-2.0
