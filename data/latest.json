@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
   "snapshotAsOf": "2026-11-07",
-  "generatedAt": "2026-11-07T15:06:25+09:00",
+  "generatedAt": "2026-11-07T14:37:35.369759+00:00",
   "charts": [
+    {
+      "title": "With your Smile",
+      "difficulty": "A",
+      "level": 8,
+      "lamp": "HARD",
+      "ex_score": "1011",
+      "pgreat": "385",
+      "great": "241",
+      "dj_level": "B",
+      "baselineLamp": "FAILED",
+      "bestExScore": 1011,
+      "bestMissCount": 30,
+      "lastExScore": 1011,
+      "lastMissCount": 30,
+      "lastPlayedAt": "2026-11-07T14:18:21+09:00",
+      "notes": 788,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
     {
       "title": "9-1",
       "difficulty": "H",
@@ -11,7 +29,8 @@
       "ex_score": "1242",
       "pgreat": "461",
       "great": "320",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1242
     },
     {
       "title": "A MINSTREL ～ ver. short-scape ～",
@@ -21,7 +40,8 @@
       "ex_score": "1566",
       "pgreat": "608",
       "great": "350",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1566
     },
     {
       "title": "ACT",
@@ -31,7 +51,8 @@
       "ex_score": "1069",
       "pgreat": "395",
       "great": "279",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1069
     },
     {
       "title": "AGEHA",
@@ -41,7 +62,8 @@
       "ex_score": "1206",
       "pgreat": "465",
       "great": "276",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1206
     },
     {
       "title": "ALL MY TURN -このターンに、オレの全てを賭ける-",
@@ -51,7 +73,8 @@
       "ex_score": "1119",
       "pgreat": "411",
       "great": "297",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1119
     },
     {
       "title": "ANAGRAMS I to Y",
@@ -61,7 +84,8 @@
       "ex_score": "1542",
       "pgreat": "562",
       "great": "418",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1542
     },
     {
       "title": "ATOMIC AGE",
@@ -71,7 +95,8 @@
       "ex_score": "806",
       "pgreat": "311",
       "great": "184",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 806
     },
     {
       "title": "Alpheratz",
@@ -81,7 +106,8 @@
       "ex_score": "1231",
       "pgreat": "462",
       "great": "307",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1231
     },
     {
       "title": "And-RoiD",
@@ -91,7 +117,8 @@
       "ex_score": "1146",
       "pgreat": "413",
       "great": "320",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1146
     },
     {
       "title": "Arkadia",
@@ -101,7 +128,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Attitude",
@@ -111,7 +139,8 @@
       "ex_score": "1061",
       "pgreat": "405",
       "great": "251",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1061
     },
     {
       "title": "B4U(BEMANI FOR YOU MIX)",
@@ -121,7 +150,8 @@
       "ex_score": "1206",
       "pgreat": "435",
       "great": "336",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1206
     },
     {
       "title": "BENiZAKURA",
@@ -131,7 +161,8 @@
       "ex_score": "1230",
       "pgreat": "477",
       "great": "276",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1230
     },
     {
       "title": "BROKEN EDEN",
@@ -141,7 +172,8 @@
       "ex_score": "1035",
       "pgreat": "381",
       "great": "273",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1035
     },
     {
       "title": "Bad Routine",
@@ -151,7 +183,8 @@
       "ex_score": "1211",
       "pgreat": "454",
       "great": "303",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1211
     },
     {
       "title": "Broken",
@@ -161,7 +194,8 @@
       "ex_score": "1351",
       "pgreat": "508",
       "great": "335",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1351
     },
     {
       "title": "Broken My Heart",
@@ -171,7 +205,8 @@
       "ex_score": "1019",
       "pgreat": "372",
       "great": "275",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1019
     },
     {
       "title": "COSMIC☆WONDER☆REVOLUTION",
@@ -181,7 +216,8 @@
       "ex_score": "1288",
       "pgreat": "496",
       "great": "296",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1288
     },
     {
       "title": "CaptivAte～裁き～",
@@ -191,7 +227,8 @@
       "ex_score": "1018",
       "pgreat": "365",
       "great": "288",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1018
     },
     {
       "title": "Change the World",
@@ -201,7 +238,8 @@
       "ex_score": "1218",
       "pgreat": "460",
       "great": "298",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1218
     },
     {
       "title": "Cheer Train",
@@ -211,7 +249,8 @@
       "ex_score": "1075",
       "pgreat": "343",
       "great": "389",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1075
     },
     {
       "title": "Claiomh Solais",
@@ -221,7 +260,8 @@
       "ex_score": "1384",
       "pgreat": "535",
       "great": "314",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1384
     },
     {
       "title": "Cookie Bouquets",
@@ -231,7 +271,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Crank It",
@@ -241,7 +282,8 @@
       "ex_score": "1295",
       "pgreat": "444",
       "great": "407",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1295
     },
     {
       "title": "Daily Lunch Special",
@@ -251,7 +293,8 @@
       "ex_score": "1353",
       "pgreat": "507",
       "great": "339",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1353
     },
     {
       "title": "Damage Per Second",
@@ -261,7 +304,8 @@
       "ex_score": "1214",
       "pgreat": "460",
       "great": "294",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1214
     },
     {
       "title": "Destiny Sword",
@@ -271,7 +315,8 @@
       "ex_score": "1146",
       "pgreat": "433",
       "great": "280",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1146
     },
     {
       "title": "Digital Radiance",
@@ -281,7 +326,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Disco Killer Music Lover",
@@ -291,7 +337,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Don't Stop The Music feat. Kanae Asaba",
@@ -301,7 +348,8 @@
       "ex_score": "1291",
       "pgreat": "494",
       "great": "303",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1291
     },
     {
       "title": "Don't let it go",
@@ -311,7 +359,8 @@
       "ex_score": "919",
       "pgreat": "344",
       "great": "231",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 919
     },
     {
       "title": "Dreamship",
@@ -321,7 +370,8 @@
       "ex_score": "1074",
       "pgreat": "379",
       "great": "316",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1074
     },
     {
       "title": "Dying 4 U",
@@ -331,7 +381,8 @@
       "ex_score": "1286",
       "pgreat": "519",
       "great": "248",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1286
     },
     {
       "title": "Element of SPADA",
@@ -341,7 +392,8 @@
       "ex_score": "1389",
       "pgreat": "523",
       "great": "343",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1389
     },
     {
       "title": "Exchange Place",
@@ -351,7 +403,8 @@
       "ex_score": "1057",
       "pgreat": "398",
       "great": "261",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1057
     },
     {
       "title": "Fantastic Merry-Go-Round",
@@ -361,7 +414,8 @@
       "ex_score": "1354",
       "pgreat": "507",
       "great": "340",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1354
     },
     {
       "title": "Far east nightbird",
@@ -371,7 +425,8 @@
       "ex_score": "1382",
       "pgreat": "534",
       "great": "314",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1382
     },
     {
       "title": "Flashes",
@@ -381,7 +436,8 @@
       "ex_score": "1106",
       "pgreat": "430",
       "great": "246",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1106
     },
     {
       "title": "GENERATED GRID",
@@ -391,7 +447,26 @@
       "ex_score": "1218",
       "pgreat": "465",
       "great": "288",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1218
+    },
+    {
+      "title": "HAMSTER",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "973",
+      "pgreat": "347",
+      "great": "279",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 973,
+      "bestMissCount": 68,
+      "lastExScore": 973,
+      "lastMissCount": 68,
+      "lastPlayedAt": "2026-11-07T14:31:42+09:00",
+      "notes": 838,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "High School Love",
@@ -401,7 +476,8 @@
       "ex_score": "1474",
       "pgreat": "555",
       "great": "364",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1474
     },
     {
       "title": "I FIGHT ME",
@@ -411,7 +487,8 @@
       "ex_score": "1426",
       "pgreat": "562",
       "great": "302",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1426
     },
     {
       "title": "IN THE NAME OF LOVE",
@@ -421,7 +498,8 @@
       "ex_score": "1155",
       "pgreat": "411",
       "great": "333",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1155
     },
     {
       "title": "IXION",
@@ -431,7 +509,8 @@
       "ex_score": "1227",
       "pgreat": "436",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1227
     },
     {
       "title": "In Heaven",
@@ -441,7 +520,8 @@
       "ex_score": "1460",
       "pgreat": "580",
       "great": "300",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1460
     },
     {
       "title": "JUST SYNC ft.Kanae Asaba",
@@ -451,7 +531,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "LEMON MELON COOKIE",
@@ -461,7 +542,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Love Destination",
@@ -471,7 +553,8 @@
       "ex_score": "1351",
       "pgreat": "538",
       "great": "275",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1351
     },
     {
       "title": "Love Me Do",
@@ -481,7 +564,8 @@
       "ex_score": "1171",
       "pgreat": "447",
       "great": "277",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1171
     },
     {
       "title": "MIRACLE MEETS",
@@ -491,7 +575,8 @@
       "ex_score": "986",
       "pgreat": "388",
       "great": "210",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 986
     },
     {
       "title": "Medicine of love",
@@ -501,7 +586,8 @@
       "ex_score": "1312",
       "pgreat": "547",
       "great": "218",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1312
     },
     {
       "title": "Memorylust",
@@ -511,7 +597,8 @@
       "ex_score": "1122",
       "pgreat": "436",
       "great": "250",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1122
     },
     {
       "title": "Mermaid girl-秋葉工房 MIX-",
@@ -521,7 +608,8 @@
       "ex_score": "1451",
       "pgreat": "581",
       "great": "289",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1451
     },
     {
       "title": "My Sweet Bird?",
@@ -531,7 +619,8 @@
       "ex_score": "1395",
       "pgreat": "540",
       "great": "315",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1395
     },
     {
       "title": "Nemophila",
@@ -541,7 +630,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "NΦ CRIME",
@@ -551,7 +641,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "OTOROSHI",
@@ -561,7 +652,8 @@
       "ex_score": "1066",
       "pgreat": "394",
       "great": "278",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1066
     },
     {
       "title": "PISTOL SWORD",
@@ -571,7 +663,8 @@
       "ex_score": "949",
       "pgreat": "345",
       "great": "259",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 949
     },
     {
       "title": "RED ZONE",
@@ -581,7 +674,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Raspberry Heart(English version)",
@@ -591,7 +685,8 @@
       "ex_score": "1150",
       "pgreat": "426",
       "great": "298",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1150
     },
     {
       "title": "Riff//rain",
@@ -601,7 +696,8 @@
       "ex_score": "1267",
       "pgreat": "492",
       "great": "283",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1267
     },
     {
       "title": "S-Bahn",
@@ -611,7 +707,8 @@
       "ex_score": "1326",
       "pgreat": "494",
       "great": "338",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1326
     },
     {
       "title": "STAR FIELD",
@@ -621,7 +718,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "STARLIGHT DANCEHALL",
@@ -631,7 +729,8 @@
       "ex_score": "1177",
       "pgreat": "429",
       "great": "319",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1177
     },
     {
       "title": "Shining World",
@@ -641,7 +740,8 @@
       "ex_score": "953",
       "pgreat": "337",
       "great": "279",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 953
     },
     {
       "title": "Shogun's Last Dawn ft. Kanae Asaba",
@@ -651,7 +751,8 @@
       "ex_score": "1327",
       "pgreat": "527",
       "great": "273",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1327
     },
     {
       "title": "Signs and Wonders",
@@ -661,7 +762,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Singularity Girl",
@@ -671,7 +773,8 @@
       "ex_score": "1225",
       "pgreat": "496",
       "great": "233",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1225
     },
     {
       "title": "Sleepless days",
@@ -681,7 +784,8 @@
       "ex_score": "1121",
       "pgreat": "432",
       "great": "257",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1121
     },
     {
       "title": "Somebody Like You",
@@ -691,7 +795,8 @@
       "ex_score": "1166",
       "pgreat": "394",
       "great": "378",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1166
     },
     {
       "title": "Spark Rush",
@@ -701,7 +806,8 @@
       "ex_score": "1168",
       "pgreat": "432",
       "great": "304",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1168
     },
     {
       "title": "Sphere",
@@ -711,7 +817,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Stargazing Trip ～星 探す旅～ ft. 小林マナ",
@@ -721,7 +828,8 @@
       "ex_score": "1248",
       "pgreat": "482",
       "great": "284",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1248
     },
     {
       "title": "Todestrieb",
@@ -731,7 +839,8 @@
       "ex_score": "1276",
       "pgreat": "492",
       "great": "292",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1276
     },
     {
       "title": "Under the Sky",
@@ -741,7 +850,8 @@
       "ex_score": "1102",
       "pgreat": "415",
       "great": "272",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1102
     },
     {
       "title": "Watch out!!",
@@ -751,7 +861,26 @@
       "ex_score": "789",
       "pgreat": "254",
       "great": "281",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 789
+    },
+    {
+      "title": "abstract",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1048",
+      "pgreat": "336",
+      "great": "376",
+      "dj_level": "C",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1048,
+      "bestMissCount": 78,
+      "lastExScore": 1048,
+      "lastMissCount": 78,
+      "lastPlayedAt": "2026-11-07T13:49:35+09:00",
+      "notes": 960,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "beatchic☆仮面～好き、でいさせて～",
@@ -761,7 +890,8 @@
       "ex_score": "1255",
       "pgreat": "477",
       "great": "301",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1255
     },
     {
       "title": "bloomin' feeling",
@@ -771,7 +901,8 @@
       "ex_score": "1287",
       "pgreat": "489",
       "great": "309",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1287
     },
     {
       "title": "blue anthem",
@@ -781,7 +912,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "chrono diver -fragment-",
@@ -791,7 +923,8 @@
       "ex_score": "1234",
       "pgreat": "472",
       "great": "290",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1234
     },
     {
       "title": "dual control",
@@ -801,7 +934,8 @@
       "ex_score": "1017",
       "pgreat": "379",
       "great": "259",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1017
     },
     {
       "title": "era (nostalmix)",
@@ -811,7 +945,8 @@
       "ex_score": "838",
       "pgreat": "257",
       "great": "324",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 838
     },
     {
       "title": "gentle stress",
@@ -821,7 +956,8 @@
       "ex_score": "966",
       "pgreat": "364",
       "great": "238",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 966
     },
     {
       "title": "heaven above",
@@ -831,7 +967,8 @@
       "ex_score": "1046",
       "pgreat": "385",
       "great": "276",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1046
     },
     {
       "title": "mind the gap",
@@ -841,7 +978,8 @@
       "ex_score": "804",
       "pgreat": "296",
       "great": "212",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 804
     },
     {
       "title": "quasar",
@@ -851,7 +989,8 @@
       "ex_score": "1225",
       "pgreat": "398",
       "great": "429",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1225
     },
     {
       "title": "route 80s",
@@ -861,7 +1000,8 @@
       "ex_score": "971",
       "pgreat": "306",
       "great": "359",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 971
     },
     {
       "title": "satfinal",
@@ -871,7 +1011,8 @@
       "ex_score": "1288",
       "pgreat": "513",
       "great": "262",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1288
     },
     {
       "title": "the trigger of innocence",
@@ -881,7 +1022,8 @@
       "ex_score": "1324",
       "pgreat": "532",
       "great": "260",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1324
     },
     {
       "title": "thunder",
@@ -891,7 +1033,8 @@
       "ex_score": "1198",
       "pgreat": "456",
       "great": "286",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1198
     },
     {
       "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -901,7 +1044,19 @@
       "ex_score": "1061",
       "pgreat": "406",
       "great": "249",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1061
+    },
+    {
+      "title": "えびばでわったいむ",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1251",
+      "pgreat": "472",
+      "great": "307",
+      "dj_level": "A",
+      "bestExScore": 1251
     },
     {
       "title": "たからもの",
@@ -911,7 +1066,8 @@
       "ex_score": "1658",
       "pgreat": "662",
       "great": "334",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1658
     },
     {
       "title": "でんぱ どりる わんにゃー☆三",
@@ -921,7 +1077,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "まほろば",
@@ -931,7 +1088,8 @@
       "ex_score": "1119",
       "pgreat": "420",
       "great": "279",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1119
     },
     {
       "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
@@ -941,7 +1099,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "れとりば！",
@@ -951,7 +1110,8 @@
       "ex_score": "1420",
       "pgreat": "555",
       "great": "310",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1420
     },
     {
       "title": "オーバーライド",
@@ -961,7 +1121,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "セカンドピアス",
@@ -971,7 +1132,8 @@
       "ex_score": "1303",
       "pgreat": "489",
       "great": "325",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1303
     },
     {
       "title": "タンポポ",
@@ -981,7 +1143,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ダダダダダル",
@@ -991,7 +1154,8 @@
       "ex_score": "1120",
       "pgreat": "422",
       "great": "276",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1120
     },
     {
       "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
@@ -1001,7 +1165,8 @@
       "ex_score": "1076",
       "pgreat": "421",
       "great": "234",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1076
     },
     {
       "title": "トリカゴノ鳳凰",
@@ -1011,7 +1176,8 @@
       "ex_score": "1228",
       "pgreat": "455",
       "great": "318",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1228
     },
     {
       "title": "ナイトシティー・アヴァンチュール",
@@ -1021,7 +1187,8 @@
       "ex_score": "1363",
       "pgreat": "532",
       "great": "299",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1363
     },
     {
       "title": "ビビッド ☆+*。キラキライム",
@@ -1031,7 +1198,8 @@
       "ex_score": "1410",
       "pgreat": "545",
       "great": "320",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1410
     },
     {
       "title": "フランケンシュタインの怪物",
@@ -1041,7 +1209,8 @@
       "ex_score": "1114",
       "pgreat": "417",
       "great": "280",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1114
     },
     {
       "title": "メテオラ-meteor-",
@@ -1051,7 +1220,8 @@
       "ex_score": "1176",
       "pgreat": "448",
       "great": "280",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1176
     },
     {
       "title": "ヨシダさん",
@@ -1061,7 +1231,8 @@
       "ex_score": "1317",
       "pgreat": "511",
       "great": "295",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1317
     },
     {
       "title": "ランカーキラーガール",
@@ -1071,7 +1242,8 @@
       "ex_score": "1209",
       "pgreat": "440",
       "great": "329",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1209
     },
     {
       "title": "リメンバーリメンバー",
@@ -1081,7 +1253,8 @@
       "ex_score": "1207",
       "pgreat": "471",
       "great": "265",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1207
     },
     {
       "title": "ロマンシングエスケープ",
@@ -1091,7 +1264,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "下弦の月",
@@ -1101,7 +1275,8 @@
       "ex_score": "1200",
       "pgreat": "453",
       "great": "294",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1200
     },
     {
       "title": "不沈艦CANDY",
@@ -1111,7 +1286,8 @@
       "ex_score": "1228",
       "pgreat": "478",
       "great": "272",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1228
     },
     {
       "title": "九十九ノ恋結ビ",
@@ -1121,7 +1297,8 @@
       "ex_score": "1207",
       "pgreat": "435",
       "great": "337",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1207
     },
     {
       "title": "儚き恋の華",
@@ -1131,7 +1308,8 @@
       "ex_score": "1201",
       "pgreat": "446",
       "great": "309",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1201
     },
     {
       "title": "凛として咲く花の如く",
@@ -1141,7 +1319,8 @@
       "ex_score": "1602",
       "pgreat": "576",
       "great": "450",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1602
     },
     {
       "title": "夕焼け ～Fading Day～",
@@ -1151,7 +1330,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "夜叉ノ魂",
@@ -1161,7 +1341,8 @@
       "ex_score": "1249",
       "pgreat": "479",
       "great": "291",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1249
     },
     {
       "title": "夢色ワンダー",
@@ -1171,7 +1352,8 @@
       "ex_score": "1405",
       "pgreat": "535",
       "great": "335",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1405
     },
     {
       "title": "悪ジ狂キ",
@@ -1181,7 +1363,8 @@
       "ex_score": "1164",
       "pgreat": "425",
       "great": "314",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1164
     },
     {
       "title": "未来のプリズム",
@@ -1191,7 +1374,8 @@
       "ex_score": "1018",
       "pgreat": "382",
       "great": "254",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1018
     },
     {
       "title": "果たせぬ約束 ft. 小林マナ",
@@ -1201,7 +1385,8 @@
       "ex_score": "1379",
       "pgreat": "543",
       "great": "293",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1379
     },
     {
       "title": "煉獄コンフィチュール",
@@ -1211,7 +1396,8 @@
       "ex_score": "1173",
       "pgreat": "426",
       "great": "321",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1173
     },
     {
       "title": "獅子霞麗ノ舞",
@@ -1221,7 +1407,8 @@
       "ex_score": "1054",
       "pgreat": "398",
       "great": "258",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1054
     },
     {
       "title": "真夜中のバベル",
@@ -1231,7 +1418,8 @@
       "ex_score": "981",
       "pgreat": "366",
       "great": "249",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 981
     },
     {
       "title": "翼",
@@ -1241,7 +1429,8 @@
       "ex_score": "1322",
       "pgreat": "502",
       "great": "318",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1322
     },
     {
       "title": "虹色",
@@ -1251,7 +1440,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "鏡像都市",
@@ -1261,7 +1451,8 @@
       "ex_score": "1315",
       "pgreat": "494",
       "great": "327",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1315
     },
     {
       "title": "零 - ZERO -",
@@ -1271,7 +1462,8 @@
       "ex_score": "1349",
       "pgreat": "504",
       "great": "341",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1349
     },
     {
       "title": "黒紅掬い",
@@ -1281,7 +1473,8 @@
       "ex_score": "1262",
       "pgreat": "501",
       "great": "260",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1262
     },
     {
       "title": "!Viva!",
@@ -1291,7 +1484,8 @@
       "ex_score": "1365",
       "pgreat": "520",
       "great": "325",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1365
     },
     {
       "title": "-65℃",
@@ -1301,7 +1495,8 @@
       "ex_score": "1346",
       "pgreat": "519",
       "great": "308",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1346
     },
     {
       "title": "1st Samurai",
@@ -1311,7 +1506,8 @@
       "ex_score": "1055",
       "pgreat": "383",
       "great": "289",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1055
     },
     {
       "title": "24h Endurance Race",
@@ -1321,7 +1517,8 @@
       "ex_score": "1293",
       "pgreat": "485",
       "great": "323",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1293
     },
     {
       "title": "3y3s",
@@ -1331,7 +1528,8 @@
       "ex_score": "1389",
       "pgreat": "506",
       "great": "377",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1389
     },
     {
       "title": "5.1.1.",
@@ -1341,7 +1539,8 @@
       "ex_score": "895",
       "pgreat": "322",
       "great": "251",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 895
     },
     {
       "title": "50th Memorial Songs -Flagship medley-",
@@ -1351,7 +1550,8 @@
       "ex_score": "788",
       "pgreat": "262",
       "great": "264",
-      "dj_level": "D"
+      "dj_level": "D",
+      "bestExScore": 788
     },
     {
       "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
@@ -1361,7 +1561,8 @@
       "ex_score": "1456",
       "pgreat": "526",
       "great": "404",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1456
     },
     {
       "title": "7 Colors",
@@ -1371,7 +1572,8 @@
       "ex_score": "926",
       "pgreat": "311",
       "great": "304",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 926
     },
     {
       "title": "A",
@@ -1381,7 +1583,8 @@
       "ex_score": "1399",
       "pgreat": "536",
       "great": "327",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1399
     },
     {
       "title": "AA",
@@ -1391,7 +1594,8 @@
       "ex_score": "1363",
       "pgreat": "483",
       "great": "397",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1363
     },
     {
       "title": "AA -rebuild-",
@@ -1401,7 +1605,8 @@
       "ex_score": "1335",
       "pgreat": "476",
       "great": "383",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1335
     },
     {
       "title": "ABSOLUTE",
@@ -1411,7 +1616,8 @@
       "ex_score": "1363",
       "pgreat": "492",
       "great": "379",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1363
     },
     {
       "title": "ABSOLUTE EVIL",
@@ -1421,7 +1627,8 @@
       "ex_score": "1232",
       "pgreat": "437",
       "great": "358",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1232
     },
     {
       "title": "ACCELERATE",
@@ -1431,7 +1638,8 @@
       "ex_score": "1361",
       "pgreat": "479",
       "great": "403",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1361
     },
     {
       "title": "ACT0",
@@ -1441,7 +1649,8 @@
       "ex_score": "1320",
       "pgreat": "476",
       "great": "368",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1320
     },
     {
       "title": "ADVANCE",
@@ -1451,7 +1660,8 @@
       "ex_score": "988",
       "pgreat": "372",
       "great": "244",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 988
     },
     {
       "title": "AGETEKE ONDO",
@@ -1461,7 +1671,8 @@
       "ex_score": "1494",
       "pgreat": "553",
       "great": "388",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1494
     },
     {
       "title": "ALBIDA",
@@ -1471,7 +1682,8 @@
       "ex_score": "1099",
       "pgreat": "388",
       "great": "323",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1099
     },
     {
       "title": "ALFARSHEAR 双神威に廻る夢",
@@ -1481,7 +1693,8 @@
       "ex_score": "1309",
       "pgreat": "496",
       "great": "317",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1309
     },
     {
       "title": "ALTERNATOR",
@@ -1491,7 +1704,8 @@
       "ex_score": "1488",
       "pgreat": "549",
       "great": "390",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1488
     },
     {
       "title": "AMICABLE",
@@ -1501,7 +1715,8 @@
       "ex_score": "1502",
       "pgreat": "563",
       "great": "376",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1502
     },
     {
       "title": "ANAGMA",
@@ -1511,7 +1726,8 @@
       "ex_score": "1557",
       "pgreat": "559",
       "great": "439",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1557
     },
     {
       "title": "ANCHOR",
@@ -1521,7 +1737,8 @@
       "ex_score": "1414",
       "pgreat": "525",
       "great": "364",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1414
     },
     {
       "title": "ANDROMEDA II",
@@ -1531,7 +1748,8 @@
       "ex_score": "1436",
       "pgreat": "541",
       "great": "354",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1436
     },
     {
       "title": "ANEMONE",
@@ -1541,7 +1759,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "AWA AWA",
@@ -1551,7 +1770,8 @@
       "ex_score": "1365",
       "pgreat": "502",
       "great": "361",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1365
     },
     {
       "title": "Abyss -The Heavens Remix-",
@@ -1561,7 +1781,8 @@
       "ex_score": "1440",
       "pgreat": "492",
       "great": "456",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1440
     },
     {
       "title": "Abyss -The Heavens Remix-",
@@ -1571,7 +1792,8 @@
       "ex_score": "1206",
       "pgreat": "388",
       "great": "430",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1206
     },
     {
       "title": "Adularia",
@@ -1581,7 +1803,8 @@
       "ex_score": "993",
       "pgreat": "360",
       "great": "273",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 993
     },
     {
       "title": "Aeterna",
@@ -1591,7 +1814,8 @@
       "ex_score": "1555",
       "pgreat": "576",
       "great": "403",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1555
     },
     {
       "title": "Aftermath",
@@ -1601,7 +1825,8 @@
       "ex_score": "1529",
       "pgreat": "589",
       "great": "351",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1529
     },
     {
       "title": "Agnus Dei",
@@ -1611,7 +1836,8 @@
       "ex_score": "1167",
       "pgreat": "407",
       "great": "353",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1167
     },
     {
       "title": "Almace",
@@ -1621,7 +1847,8 @@
       "ex_score": "1194",
       "pgreat": "449",
       "great": "296",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1194
     },
     {
       "title": "Ambivalent Vermilia",
@@ -1631,7 +1858,8 @@
       "ex_score": "1500",
       "pgreat": "565",
       "great": "370",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1500
     },
     {
       "title": "Ancient Scapes",
@@ -1641,7 +1869,8 @@
       "ex_score": "1218",
       "pgreat": "467",
       "great": "284",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1218
     },
     {
       "title": "Answer",
@@ -1651,7 +1880,8 @@
       "ex_score": "1513",
       "pgreat": "573",
       "great": "367",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1513
     },
     {
       "title": "Antigravity",
@@ -1661,7 +1891,8 @@
       "ex_score": "1173",
       "pgreat": "436",
       "great": "301",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1173
     },
     {
       "title": "Apocalypse ～dirge of swans～",
@@ -1671,7 +1902,8 @@
       "ex_score": "1386",
       "pgreat": "518",
       "great": "350",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1386
     },
     {
       "title": "Arcana",
@@ -1681,7 +1913,8 @@
       "ex_score": "1187",
       "pgreat": "424",
       "great": "339",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1187
     },
     {
       "title": "Arcanos",
@@ -1691,7 +1924,8 @@
       "ex_score": "1198",
       "pgreat": "458",
       "great": "282",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1198
     },
     {
       "title": "Ariah",
@@ -1701,7 +1935,8 @@
       "ex_score": "1496",
       "pgreat": "583",
       "great": "330",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1496
     },
     {
       "title": "As You Want",
@@ -1711,7 +1946,8 @@
       "ex_score": "1344",
       "pgreat": "480",
       "great": "384",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1344
     },
     {
       "title": "Ascalon",
@@ -1721,7 +1957,8 @@
       "ex_score": "1331",
       "pgreat": "493",
       "great": "345",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1331
     },
     {
       "title": "Aurora",
@@ -1731,7 +1968,8 @@
       "ex_score": "1312",
       "pgreat": "506",
       "great": "300",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1312
     },
     {
       "title": "BEAUTIFUL ANGEL",
@@ -1741,7 +1979,8 @@
       "ex_score": "1448",
       "pgreat": "539",
       "great": "370",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1448
     },
     {
       "title": "BITTER CHOCOLATE STRIKER",
@@ -1751,7 +1990,8 @@
       "ex_score": "1211",
       "pgreat": "427",
       "great": "357",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1211
     },
     {
       "title": "BLACK.by X-Cross Fade",
@@ -1761,7 +2001,8 @@
       "ex_score": "1267",
       "pgreat": "444",
       "great": "379",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1267
     },
     {
       "title": "BLOSSOM",
@@ -1771,7 +2012,8 @@
       "ex_score": "1322",
       "pgreat": "469",
       "great": "384",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1322
     },
     {
       "title": "BLUE STRAGGLER",
@@ -1781,7 +2023,8 @@
       "ex_score": "1308",
       "pgreat": "473",
       "great": "362",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1308
     },
     {
       "title": "BLUST OF WIND",
@@ -1791,7 +2034,8 @@
       "ex_score": "1218",
       "pgreat": "426",
       "great": "366",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1218
     },
     {
       "title": "BOOM BOOM DISCO NIGHT",
@@ -1801,7 +2045,8 @@
       "ex_score": "1347",
       "pgreat": "489",
       "great": "369",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1347
     },
     {
       "title": "BRAINSTORM",
@@ -1811,7 +2056,8 @@
       "ex_score": "1152",
       "pgreat": "416",
       "great": "320",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1152
     },
     {
       "title": "BRAVE GLOW",
@@ -1821,7 +2067,8 @@
       "ex_score": "1453",
       "pgreat": "517",
       "great": "419",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1453
     },
     {
       "title": "BabeL ～Grand Story～",
@@ -1831,7 +2078,8 @@
       "ex_score": "1297",
       "pgreat": "484",
       "great": "329",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1297
     },
     {
       "title": "Back Into The Light",
@@ -1841,7 +2089,8 @@
       "ex_score": "1069",
       "pgreat": "360",
       "great": "349",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1069
     },
     {
       "title": "Backyard Stars",
@@ -1851,7 +2100,8 @@
       "ex_score": "1012",
       "pgreat": "362",
       "great": "288",
-      "dj_level": "D"
+      "dj_level": "D",
+      "bestExScore": 1012
     },
     {
       "title": "Bad Encryption",
@@ -1861,7 +2111,8 @@
       "ex_score": "1145",
       "pgreat": "413",
       "great": "319",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1145
     },
     {
       "title": "Bahram Attack-猫叉Master Remix-",
@@ -1871,7 +2122,8 @@
       "ex_score": "1661",
       "pgreat": "638",
       "great": "385",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1661
     },
     {
       "title": "Be OK",
@@ -1881,7 +2133,8 @@
       "ex_score": "1490",
       "pgreat": "555",
       "great": "380",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1490
     },
     {
       "title": "Beat Radiance",
@@ -1891,7 +2144,19 @@
       "ex_score": "1654",
       "pgreat": "621",
       "great": "412",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1654
+    },
+    {
+      "title": "Beautiful Harmony (IIDX Mix)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1389",
+      "pgreat": "506",
+      "great": "377",
+      "dj_level": "B",
+      "bestExScore": 1389
     },
     {
       "title": "Believe in you",
@@ -1901,7 +2166,8 @@
       "ex_score": "1443",
       "pgreat": "521",
       "great": "401",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1443
     },
     {
       "title": "Best of Me",
@@ -1911,7 +2177,8 @@
       "ex_score": "1301",
       "pgreat": "475",
       "great": "351",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1301
     },
     {
       "title": "Beyond The Earth",
@@ -1921,7 +2188,8 @@
       "ex_score": "1135",
       "pgreat": "397",
       "great": "341",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1135
     },
     {
       "title": "Blue Spring Express",
@@ -1931,7 +2199,8 @@
       "ex_score": "1224",
       "pgreat": "456",
       "great": "312",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1224
     },
     {
       "title": "Brave Spirits",
@@ -1941,7 +2210,26 @@
       "ex_score": "1237",
       "pgreat": "428",
       "great": "381",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1237
+    },
+    {
+      "title": "Broken Sword",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1180",
+      "pgreat": "428",
+      "great": "324",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1180,
+      "bestMissCount": 46,
+      "lastExScore": 1180,
+      "lastMissCount": 46,
+      "lastPlayedAt": "2026-11-07T14:36:53+09:00",
+      "notes": 1054,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Buffalo",
@@ -1951,7 +2239,8 @@
       "ex_score": "1126",
       "pgreat": "340",
       "great": "446",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1126
     },
     {
       "title": "COLOR BURST",
@@ -1961,7 +2250,8 @@
       "ex_score": "1434",
       "pgreat": "553",
       "great": "328",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1434
     },
     {
       "title": "CONTRACT",
@@ -1971,7 +2261,8 @@
       "ex_score": "942",
       "pgreat": "344",
       "great": "254",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 942
     },
     {
       "title": "COSMIC RAY",
@@ -1981,7 +2272,8 @@
       "ex_score": "1152",
       "pgreat": "404",
       "great": "344",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1152
     },
     {
       "title": "CROSSROAD ～Left Story～",
@@ -1991,7 +2283,8 @@
       "ex_score": "1422",
       "pgreat": "545",
       "great": "332",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1422
     },
     {
       "title": "CUE CUE RESCUE",
@@ -2001,7 +2294,8 @@
       "ex_score": "1524",
       "pgreat": "577",
       "great": "370",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1524
     },
     {
       "title": "Candy Galy",
@@ -2011,7 +2305,8 @@
       "ex_score": "1460",
       "pgreat": "525",
       "great": "410",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1460
     },
     {
       "title": "CaptivAte～誓い～",
@@ -2021,7 +2316,8 @@
       "ex_score": "1411",
       "pgreat": "457",
       "great": "497",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1411
     },
     {
       "title": "Catch Our Fire!",
@@ -2031,7 +2327,8 @@
       "ex_score": "1255",
       "pgreat": "451",
       "great": "353",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1255
     },
     {
       "title": "Chasing After YOU ～夢の欠片～ ft. 小林マナ",
@@ -2041,7 +2338,8 @@
       "ex_score": "1285",
       "pgreat": "505",
       "great": "275",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1285
     },
     {
       "title": "Chemical Cookie",
@@ -2051,7 +2349,8 @@
       "ex_score": "1207",
       "pgreat": "448",
       "great": "311",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1207
     },
     {
       "title": "Chewingood!!!",
@@ -2061,7 +2360,8 @@
       "ex_score": "1609",
       "pgreat": "624",
       "great": "361",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1609
     },
     {
       "title": "Citroforte",
@@ -2071,7 +2371,8 @@
       "ex_score": "1137",
       "pgreat": "416",
       "great": "305",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1137
     },
     {
       "title": "CoMAAAAAAA",
@@ -2081,7 +2382,8 @@
       "ex_score": "1552",
       "pgreat": "584",
       "great": "384",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1552
     },
     {
       "title": "Colorful Cookie",
@@ -2091,7 +2393,8 @@
       "ex_score": "1549",
       "pgreat": "610",
       "great": "329",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1549
     },
     {
       "title": "Concertino in Blue",
@@ -2101,7 +2404,8 @@
       "ex_score": "908",
       "pgreat": "240",
       "great": "428",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 908
     },
     {
       "title": "Confiserie",
@@ -2111,7 +2415,8 @@
       "ex_score": "1132",
       "pgreat": "395",
       "great": "342",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1132
     },
     {
       "title": "Cranberry City ft. Luschel",
@@ -2121,7 +2426,8 @@
       "ex_score": "1390",
       "pgreat": "503",
       "great": "384",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1390
     },
     {
       "title": "Cult Invitation",
@@ -2131,7 +2437,8 @@
       "ex_score": "1052",
       "pgreat": "355",
       "great": "342",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1052
     },
     {
       "title": "DAYDREAMER",
@@ -2141,7 +2448,8 @@
       "ex_score": "1749",
       "pgreat": "696",
       "great": "357",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1749
     },
     {
       "title": "DEADRABBIT!!",
@@ -2151,7 +2459,8 @@
       "ex_score": "883",
       "pgreat": "268",
       "great": "347",
-      "dj_level": "D"
+      "dj_level": "D",
+      "bestExScore": 883
     },
     {
       "title": "DIVINE JUDGEMENT",
@@ -2161,7 +2470,8 @@
       "ex_score": "1173",
       "pgreat": "436",
       "great": "301",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1173
     },
     {
       "title": "DM STAR～関西 energy style～",
@@ -2171,7 +2481,8 @@
       "ex_score": "1291",
       "pgreat": "461",
       "great": "369",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1291
     },
     {
       "title": "DORNWALD ～Junge～",
@@ -2181,7 +2492,8 @@
       "ex_score": "1174",
       "pgreat": "424",
       "great": "326",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1174
     },
     {
       "title": "DRUNK MONKY",
@@ -2191,7 +2503,8 @@
       "ex_score": "718",
       "pgreat": "252",
       "great": "214",
-      "dj_level": "D"
+      "dj_level": "D",
+      "bestExScore": 718
     },
     {
       "title": "DUAL STRIKER",
@@ -2201,7 +2514,8 @@
       "ex_score": "1574",
       "pgreat": "595",
       "great": "384",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1574
     },
     {
       "title": "DXY!",
@@ -2211,7 +2525,8 @@
       "ex_score": "1243",
       "pgreat": "379",
       "great": "485",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1243
     },
     {
       "title": "Dazzlin' Darlin",
@@ -2221,7 +2536,8 @@
       "ex_score": "1280",
       "pgreat": "482",
       "great": "316",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1280
     },
     {
       "title": "Deathstalker",
@@ -2231,7 +2547,8 @@
       "ex_score": "1164",
       "pgreat": "425",
       "great": "314",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1164
     },
     {
       "title": "Deep Sea Mystery",
@@ -2241,7 +2558,8 @@
       "ex_score": "1104",
       "pgreat": "413",
       "great": "278",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1104
     },
     {
       "title": "Devilz Staircase",
@@ -2251,7 +2569,8 @@
       "ex_score": "1391",
       "pgreat": "525",
       "great": "341",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1391
     },
     {
       "title": "Donkey Donk",
@@ -2261,7 +2580,8 @@
       "ex_score": "1195",
       "pgreat": "443",
       "great": "309",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1195
     },
     {
       "title": "Dreaming Dream",
@@ -2271,7 +2591,8 @@
       "ex_score": "1440",
       "pgreat": "546",
       "great": "348",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1440
     },
     {
       "title": "Drive Me Crazy",
@@ -2281,7 +2602,8 @@
       "ex_score": "1534",
       "pgreat": "579",
       "great": "376",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1534
     },
     {
       "title": "EDEN",
@@ -2291,7 +2613,8 @@
       "ex_score": "1450",
       "pgreat": "526",
       "great": "398",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1450
     },
     {
       "title": "EMOTiON TRiPPER",
@@ -2301,7 +2624,8 @@
       "ex_score": "1327",
       "pgreat": "492",
       "great": "343",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1327
     },
     {
       "title": "EURO-ROMANCE",
@@ -2311,7 +2635,8 @@
       "ex_score": "1358",
       "pgreat": "512",
       "great": "334",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1358
     },
     {
       "title": "EVANESCENT",
@@ -2321,7 +2646,8 @@
       "ex_score": "1324",
       "pgreat": "475",
       "great": "374",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1324
     },
     {
       "title": "EXE",
@@ -2331,7 +2657,8 @@
       "ex_score": "1303",
       "pgreat": "483",
       "great": "337",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1303
     },
     {
       "title": "Eleanor",
@@ -2341,7 +2668,8 @@
       "ex_score": "1511",
       "pgreat": "572",
       "great": "367",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1511
     },
     {
       "title": "Elemental Creation",
@@ -2351,7 +2679,8 @@
       "ex_score": "1461",
       "pgreat": "550",
       "great": "361",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1461
     },
     {
       "title": "Elisha",
@@ -2361,7 +2690,8 @@
       "ex_score": "1011",
       "pgreat": "411",
       "great": "189",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1011
     },
     {
       "title": "Empire of Fury",
@@ -2371,7 +2701,19 @@
       "ex_score": "1255",
       "pgreat": "469",
       "great": "317",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1255
+    },
+    {
+      "title": "Euphoric Lagoon",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1463",
+      "pgreat": "532",
+      "great": "399",
+      "dj_level": "B",
+      "bestExScore": 1463
     },
     {
       "title": "Everlasting Last",
@@ -2381,7 +2723,8 @@
       "ex_score": "1320",
       "pgreat": "492",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1320
     },
     {
       "title": "Everlasting Resort",
@@ -2391,7 +2734,8 @@
       "ex_score": "1021",
       "pgreat": "367",
       "great": "287",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1021
     },
     {
       "title": "Ex-Otogibanashi",
@@ -2401,7 +2745,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Explorer feat. ぷにぷに電機",
@@ -2411,7 +2756,8 @@
       "ex_score": "1316",
       "pgreat": "486",
       "great": "344",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1316
     },
     {
       "title": "Express Emotion",
@@ -2421,7 +2767,8 @@
       "ex_score": "1509",
       "pgreat": "561",
       "great": "387",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1509
     },
     {
       "title": "F",
@@ -2431,17 +2778,19 @@
       "ex_score": "1169",
       "pgreat": "423",
       "great": "323",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1169
     },
     {
       "title": "FERMI PARADOX",
       "difficulty": "A",
       "level": 10,
-      "lamp": "UNKNOWN",
-      "ex_score": "1568",
-      "pgreat": "580",
-      "great": "408",
-      "dj_level": "B"
+      "lamp": "EASY",
+      "ex_score": "1571",
+      "pgreat": "586",
+      "great": "399",
+      "dj_level": "B",
+      "bestExScore": 1571
     },
     {
       "title": "Fantasia",
@@ -2451,7 +2800,8 @@
       "ex_score": "1554",
       "pgreat": "592",
       "great": "370",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1554
     },
     {
       "title": "Fire Beat",
@@ -2461,7 +2811,8 @@
       "ex_score": "1048",
       "pgreat": "383",
       "great": "282",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1048
     },
     {
       "title": "Flash Back 90's",
@@ -2471,7 +2822,8 @@
       "ex_score": "1390",
       "pgreat": "509",
       "great": "372",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1390
     },
     {
       "title": "Fly Above (Vicissitude Remix)",
@@ -2481,7 +2833,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Fly Above -20th Anniversary Mix-",
@@ -2491,7 +2844,8 @@
       "ex_score": "1265",
       "pgreat": "477",
       "great": "311",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1265
     },
     {
       "title": "Fly you to the star",
@@ -2501,7 +2855,8 @@
       "ex_score": "1374",
       "pgreat": "520",
       "great": "334",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1374
     },
     {
       "title": "Forgetting Machine",
@@ -2511,7 +2866,8 @@
       "ex_score": "988",
       "pgreat": "364",
       "great": "260",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 988
     },
     {
       "title": "Frisk And Squeak",
@@ -2521,7 +2877,8 @@
       "ex_score": "1384",
       "pgreat": "500",
       "great": "384",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1384
     },
     {
       "title": "From Human Blood",
@@ -2531,7 +2888,8 @@
       "ex_score": "1274",
       "pgreat": "469",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1274
     },
     {
       "title": "From Time To Time",
@@ -2541,7 +2899,8 @@
       "ex_score": "1382",
       "pgreat": "493",
       "great": "396",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1382
     },
     {
       "title": "GALGALIM",
@@ -2551,7 +2910,8 @@
       "ex_score": "1082",
       "pgreat": "379",
       "great": "324",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1082
     },
     {
       "title": "GENERATE feat.綾倉盟",
@@ -2561,7 +2921,8 @@
       "ex_score": "1451",
       "pgreat": "535",
       "great": "381",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1451
     },
     {
       "title": "GENOCIDE",
@@ -2571,7 +2932,8 @@
       "ex_score": "1144",
       "pgreat": "415",
       "great": "314",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1144
     },
     {
       "title": "GHOST REVIVAL",
@@ -2581,7 +2943,8 @@
       "ex_score": "1447",
       "pgreat": "537",
       "great": "373",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1447
     },
     {
       "title": "GOLD RUSH (all-or-nothing MIX)",
@@ -2591,7 +2954,8 @@
       "ex_score": "1363",
       "pgreat": "500",
       "great": "363",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1363
     },
     {
       "title": "GRAVITON",
@@ -2601,7 +2965,8 @@
       "ex_score": "1269",
       "pgreat": "473",
       "great": "323",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1269
     },
     {
       "title": "Geirskogul",
@@ -2611,7 +2976,8 @@
       "ex_score": "1449",
       "pgreat": "567",
       "great": "315",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1449
     },
     {
       "title": "Get Into The Groove feat.WaMi",
@@ -2621,7 +2987,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Get Wicked",
@@ -2631,7 +2998,8 @@
       "ex_score": "1357",
       "pgreat": "481",
       "great": "395",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1357
     },
     {
       "title": "Get set, Go! feat.Kanae Asaba",
@@ -2641,7 +3009,8 @@
       "ex_score": "1283",
       "pgreat": "464",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1283
     },
     {
       "title": "Go Ahead!!",
@@ -2651,7 +3020,8 @@
       "ex_score": "912",
       "pgreat": "338",
       "great": "236",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 912
     },
     {
       "title": "Go Beyond!!",
@@ -2661,7 +3031,8 @@
       "ex_score": "1106",
       "pgreat": "407",
       "great": "292",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1106
     },
     {
       "title": "Godspeed",
@@ -2671,7 +3042,8 @@
       "ex_score": "1129",
       "pgreat": "412",
       "great": "305",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1129
     },
     {
       "title": "HEARTACHE",
@@ -2681,7 +3053,8 @@
       "ex_score": "1179",
       "pgreat": "447",
       "great": "285",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1179
     },
     {
       "title": "HYPE THE CORE",
@@ -2691,7 +3064,8 @@
       "ex_score": "1268",
       "pgreat": "466",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1268
     },
     {
       "title": "HYPER EUROBEAT (2DX style)",
@@ -2701,7 +3075,8 @@
       "ex_score": "1026",
       "pgreat": "352",
       "great": "322",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1026
     },
     {
       "title": "Harmonia",
@@ -2711,7 +3086,8 @@
       "ex_score": "1266",
       "pgreat": "474",
       "great": "318",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1266
     },
     {
       "title": "Here We Are",
@@ -2721,7 +3097,8 @@
       "ex_score": "1369",
       "pgreat": "502",
       "great": "365",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1369
     },
     {
       "title": "History of dj TAKA - single style collection -",
@@ -2731,7 +3108,8 @@
       "ex_score": "1582",
       "pgreat": "573",
       "great": "436",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1582
     },
     {
       "title": "Hollywood Galaxy",
@@ -2741,7 +3119,8 @@
       "ex_score": "1128",
       "pgreat": "409",
       "great": "310",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1128
     },
     {
       "title": "Hypersonik",
@@ -2751,7 +3130,8 @@
       "ex_score": "1601",
       "pgreat": "610",
       "great": "381",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1601
     },
     {
       "title": "I'm so Happy (20th Anniv.Mix)",
@@ -2761,7 +3141,8 @@
       "ex_score": "1504",
       "pgreat": "580",
       "great": "344",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1504
     },
     {
       "title": "IDOL syndrome.",
@@ -2771,7 +3152,8 @@
       "ex_score": "1339",
       "pgreat": "488",
       "great": "363",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1339
     },
     {
       "title": "ILIAS",
@@ -2781,7 +3163,8 @@
       "ex_score": "1262",
       "pgreat": "468",
       "great": "326",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1262
     },
     {
       "title": "IMPLANTATION",
@@ -2791,7 +3174,8 @@
       "ex_score": "848",
       "pgreat": "300",
       "great": "248",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 848
     },
     {
       "title": "INORI",
@@ -2801,7 +3185,8 @@
       "ex_score": "1525",
       "pgreat": "555",
       "great": "415",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1525
     },
     {
       "title": "INVISIBLE STRIX",
@@ -2811,7 +3196,8 @@
       "ex_score": "1243",
       "pgreat": "446",
       "great": "351",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1243
     },
     {
       "title": "Ignis†Irae",
@@ -2821,7 +3207,8 @@
       "ex_score": "1428",
       "pgreat": "536",
       "great": "356",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1428
     },
     {
       "title": "Infinity Mirror",
@@ -2831,7 +3218,8 @@
       "ex_score": "1224",
       "pgreat": "439",
       "great": "346",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1224
     },
     {
       "title": "Iris",
@@ -2841,7 +3229,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Jack",
@@ -2851,7 +3240,8 @@
       "ex_score": "1270",
       "pgreat": "400",
       "great": "470",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1270
     },
     {
       "title": "KOTONOHA ft. Kotoha",
@@ -2861,7 +3251,8 @@
       "ex_score": "1285",
       "pgreat": "486",
       "great": "313",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1285
     },
     {
       "title": "Karma",
@@ -2871,7 +3262,8 @@
       "ex_score": "1165",
       "pgreat": "382",
       "great": "401",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1165
     },
     {
       "title": "Keep it-秋葉工房mix-",
@@ -2881,7 +3273,8 @@
       "ex_score": "1047",
       "pgreat": "385",
       "great": "277",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1047
     },
     {
       "title": "Konzert V",
@@ -2891,7 +3284,8 @@
       "ex_score": "1406",
       "pgreat": "520",
       "great": "366",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1406
     },
     {
       "title": "LADS",
@@ -2901,7 +3295,8 @@
       "ex_score": "1359",
       "pgreat": "503",
       "great": "353",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1359
     },
     {
       "title": "LAX5 feat.Ryota Yoshinari",
@@ -2911,7 +3306,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "LETHEBOLG ～双神威に斬り咲けり～",
@@ -2921,7 +3317,8 @@
       "ex_score": "1245",
       "pgreat": "444",
       "great": "357",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1245
     },
     {
       "title": "LOCUS OF THE TRAVEL",
@@ -2931,7 +3328,8 @@
       "ex_score": "1345",
       "pgreat": "481",
       "great": "383",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1345
     },
     {
       "title": "LOUDER ROLLING THUNDER",
@@ -2941,7 +3339,8 @@
       "ex_score": "1186",
       "pgreat": "427",
       "great": "332",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1186
     },
     {
       "title": "LOVE SHINE",
@@ -2951,7 +3350,8 @@
       "ex_score": "1374",
       "pgreat": "522",
       "great": "330",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1374
     },
     {
       "title": "LOVELY STORM",
@@ -2961,7 +3361,8 @@
       "ex_score": "1613",
       "pgreat": "602",
       "great": "409",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1613
     },
     {
       "title": "LUV CAN SAVE U",
@@ -2971,7 +3372,8 @@
       "ex_score": "1567",
       "pgreat": "565",
       "great": "437",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1567
     },
     {
       "title": "Last Burning",
@@ -2981,7 +3383,8 @@
       "ex_score": "1339",
       "pgreat": "487",
       "great": "365",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1339
     },
     {
       "title": "Leaving...",
@@ -2991,7 +3394,8 @@
       "ex_score": "1063",
       "pgreat": "372",
       "great": "319",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1063
     },
     {
       "title": "Level 3",
@@ -3001,7 +3405,8 @@
       "ex_score": "1396",
       "pgreat": "496",
       "great": "404",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1396
     },
     {
       "title": "Level One",
@@ -3011,7 +3416,8 @@
       "ex_score": "1314",
       "pgreat": "465",
       "great": "384",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1314
     },
     {
       "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
@@ -3021,7 +3427,8 @@
       "ex_score": "1203",
       "pgreat": "446",
       "great": "311",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1203
     },
     {
       "title": "Lift Us High",
@@ -3031,7 +3438,8 @@
       "ex_score": "1430",
       "pgreat": "538",
       "great": "354",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1430
     },
     {
       "title": "Lisa-RICCIA",
@@ -3041,7 +3449,8 @@
       "ex_score": "1397",
       "pgreat": "525",
       "great": "347",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1397
     },
     {
       "title": "Little Little Princess",
@@ -3051,7 +3460,8 @@
       "ex_score": "1456",
       "pgreat": "482",
       "great": "492",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1456
     },
     {
       "title": "Love Magic",
@@ -3061,7 +3471,26 @@
       "ex_score": "930",
       "pgreat": "320",
       "great": "290",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 930
+    },
+    {
+      "title": "Lucky Days",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1278",
+      "pgreat": "470",
+      "great": "338",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1278,
+      "bestMissCount": 49,
+      "lastExScore": 1278,
+      "lastMissCount": 49,
+      "lastPlayedAt": "2026-11-07T14:11:15+09:00",
+      "notes": 1111,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Lycoris",
@@ -3071,7 +3500,8 @@
       "ex_score": "1247",
       "pgreat": "455",
       "great": "337",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1247
     },
     {
       "title": "MAX LOVE",
@@ -3081,7 +3511,8 @@
       "ex_score": "1608",
       "pgreat": "584",
       "great": "440",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1608
     },
     {
       "title": "MAXIMUM CHEAT GIRL",
@@ -3091,7 +3522,8 @@
       "ex_score": "1364",
       "pgreat": "507",
       "great": "350",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1364
     },
     {
       "title": "MENTAL MELTDOWN",
@@ -3101,7 +3533,26 @@
       "ex_score": "1262",
       "pgreat": "443",
       "great": "376",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1262
+    },
+    {
+      "title": "MINT",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "949",
+      "pgreat": "338",
+      "great": "273",
+      "dj_level": "C",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 949,
+      "bestMissCount": 70,
+      "lastExScore": 949,
+      "lastMissCount": 70,
+      "lastPlayedAt": "2026-11-07T14:08:41+09:00",
+      "notes": 917,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "MOON",
@@ -3111,7 +3562,8 @@
       "ex_score": "1391",
       "pgreat": "421",
       "great": "549",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1391
     },
     {
       "title": "Magical",
@@ -3121,7 +3573,8 @@
       "ex_score": "1049",
       "pgreat": "369",
       "great": "311",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1049
     },
     {
       "title": "Make A Difference",
@@ -3131,7 +3584,8 @@
       "ex_score": "1260",
       "pgreat": "454",
       "great": "352",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1260
     },
     {
       "title": "Makin' It",
@@ -3141,7 +3595,8 @@
       "ex_score": "760",
       "pgreat": "229",
       "great": "302",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 760
     },
     {
       "title": "Mellow Diary",
@@ -3151,7 +3606,8 @@
       "ex_score": "1287",
       "pgreat": "486",
       "great": "315",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1287
     },
     {
       "title": "Memoria Obscura",
@@ -3161,7 +3617,8 @@
       "ex_score": "1347",
       "pgreat": "507",
       "great": "333",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1347
     },
     {
       "title": "Mermaid girl",
@@ -3171,7 +3628,8 @@
       "ex_score": "1306",
       "pgreat": "477",
       "great": "352",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1306
     },
     {
       "title": "Midnight Drive",
@@ -3181,7 +3639,8 @@
       "ex_score": "1049",
       "pgreat": "353",
       "great": "343",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1049
     },
     {
       "title": "Mighty Beat Monsterz",
@@ -3191,7 +3650,73 @@
       "ex_score": "1184",
       "pgreat": "436",
       "great": "312",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1184
+    },
+    {
+      "title": "Million Dollar",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1248",
+      "pgreat": "466",
+      "great": "316",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1248,
+      "bestMissCount": 48,
+      "lastExScore": 1248,
+      "lastMissCount": 48,
+      "lastPlayedAt": "2026-11-07T13:56:14+09:00",
+      "notes": 1028,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
+      "title": "Miracle 5ympho X",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1386",
+      "pgreat": "516",
+      "great": "354",
+      "dj_level": "C",
+      "bestExScore": 1386
+    },
+    {
+      "title": "Modular Technology",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1168",
+      "pgreat": "416",
+      "great": "336",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1168,
+      "bestMissCount": 59,
+      "lastExScore": 1168,
+      "lastMissCount": 59,
+      "lastPlayedAt": "2026-11-07T14:34:13+09:00",
+      "notes": 1006,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
+      "title": "NEW SENSATION -もう、あなたしか見えない-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1280",
+      "pgreat": "478",
+      "great": "324",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1280,
+      "bestMissCount": 58,
+      "lastExScore": 1280,
+      "lastMissCount": 58,
+      "lastPlayedAt": "2026-11-07T14:24:23+09:00",
+      "notes": 1045,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "NOMAD (feat. らっぷびと)",
@@ -3201,7 +3726,8 @@
       "ex_score": "1185",
       "pgreat": "425",
       "great": "335",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1185
     },
     {
       "title": "NPC World",
@@ -3211,7 +3737,8 @@
       "ex_score": "1228",
       "pgreat": "423",
       "great": "382",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1228
     },
     {
       "title": "Narcissus At Oasis",
@@ -3221,7 +3748,8 @@
       "ex_score": "887",
       "pgreat": "323",
       "great": "241",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 887
     },
     {
       "title": "New Castle Legions",
@@ -3231,7 +3759,8 @@
       "ex_score": "942",
       "pgreat": "342",
       "great": "258",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 942
     },
     {
       "title": "Nightmare before oversleep",
@@ -3241,7 +3770,8 @@
       "ex_score": "1067",
       "pgreat": "393",
       "great": "281",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1067
     },
     {
       "title": "No Border",
@@ -3251,7 +3781,8 @@
       "ex_score": "1199",
       "pgreat": "435",
       "great": "329",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1199
     },
     {
       "title": "No Day But Today!",
@@ -3261,7 +3792,8 @@
       "ex_score": "1152",
       "pgreat": "403",
       "great": "346",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1152
     },
     {
       "title": "No.13",
@@ -3271,7 +3803,8 @@
       "ex_score": "1543",
       "pgreat": "563",
       "great": "417",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1543
     },
     {
       "title": "NoN-Fiction Story!",
@@ -3281,7 +3814,8 @@
       "ex_score": "1241",
       "pgreat": "448",
       "great": "345",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1241
     },
     {
       "title": "Nowhere",
@@ -3291,7 +3825,8 @@
       "ex_score": "1226",
       "pgreat": "456",
       "great": "314",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1226
     },
     {
       "title": "Nyan Nyan University",
@@ -3301,7 +3836,8 @@
       "ex_score": "1430",
       "pgreat": "536",
       "great": "358",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1430
     },
     {
       "title": "O/D*20",
@@ -3311,7 +3847,26 @@
       "ex_score": "1339",
       "pgreat": "519",
       "great": "301",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1339
+    },
+    {
+      "title": "ONIGOROSHI",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1220",
+      "pgreat": "437",
+      "great": "346",
+      "dj_level": "C",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1220,
+      "bestMissCount": 88,
+      "lastExScore": 1220,
+      "lastMissCount": 88,
+      "lastPlayedAt": "2026-11-07T14:46:45+09:00",
+      "notes": 1107,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "OOO",
@@ -3321,7 +3876,8 @@
       "ex_score": "1312",
       "pgreat": "506",
       "great": "300",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1312
     },
     {
       "title": "OUTER PLANETS",
@@ -3331,7 +3887,8 @@
       "ex_score": "1310",
       "pgreat": "494",
       "great": "322",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1310
     },
     {
       "title": "OVER TIME",
@@ -3341,7 +3898,8 @@
       "ex_score": "1112",
       "pgreat": "390",
       "great": "332",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1112
     },
     {
       "title": "Odin",
@@ -3351,7 +3909,8 @@
       "ex_score": "1263",
       "pgreat": "452",
       "great": "359",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1263
     },
     {
       "title": "Only for now",
@@ -3361,7 +3920,8 @@
       "ex_score": "1509",
       "pgreat": "580",
       "great": "349",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1509
     },
     {
       "title": "PALETTE",
@@ -3371,7 +3931,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "PIT A PAT",
@@ -3381,7 +3942,8 @@
       "ex_score": "1498",
       "pgreat": "529",
       "great": "440",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1498
     },
     {
       "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
@@ -3391,7 +3953,8 @@
       "ex_score": "1509",
       "pgreat": "557",
       "great": "395",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1509
     },
     {
       "title": "Pink Rose",
@@ -3401,7 +3964,8 @@
       "ex_score": "982",
       "pgreat": "351",
       "great": "280",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 982
     },
     {
       "title": "Praludium",
@@ -3411,7 +3975,8 @@
       "ex_score": "1292",
       "pgreat": "468",
       "great": "356",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1292
     },
     {
       "title": "Primitive Vibes",
@@ -3421,7 +3986,8 @@
       "ex_score": "1263",
       "pgreat": "468",
       "great": "327",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1263
     },
     {
       "title": "QUANTUM TELEPORTATION",
@@ -3431,7 +3997,8 @@
       "ex_score": "1268",
       "pgreat": "447",
       "great": "374",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1268
     },
     {
       "title": "Quakes",
@@ -3441,7 +4008,8 @@
       "ex_score": "1163",
       "pgreat": "412",
       "great": "339",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1163
     },
     {
       "title": "Queen's Tragedy",
@@ -3451,7 +4019,8 @@
       "ex_score": "1283",
       "pgreat": "480",
       "great": "323",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1283
     },
     {
       "title": "RALLY '25",
@@ -3461,7 +4030,8 @@
       "ex_score": "1367",
       "pgreat": "506",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1367
     },
     {
       "title": "REMINISCENCE",
@@ -3471,7 +4041,8 @@
       "ex_score": "1467",
       "pgreat": "552",
       "great": "363",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1467
     },
     {
       "title": "Rainbow after snow",
@@ -3481,7 +4052,8 @@
       "ex_score": "1347",
       "pgreat": "513",
       "great": "321",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1347
     },
     {
       "title": "Rainstorm",
@@ -3491,7 +4063,8 @@
       "ex_score": "1226",
       "pgreat": "445",
       "great": "336",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1226
     },
     {
       "title": "Raspberry Railgun",
@@ -3501,7 +4074,8 @@
       "ex_score": "1291",
       "pgreat": "452",
       "great": "387",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1291
     },
     {
       "title": "Re:GENERATION",
@@ -3511,7 +4085,8 @@
       "ex_score": "1323",
       "pgreat": "483",
       "great": "357",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1323
     },
     {
       "title": "Red. by Full Metal Jacket",
@@ -3521,7 +4096,26 @@
       "ex_score": "1075",
       "pgreat": "363",
       "great": "349",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1075
+    },
+    {
+      "title": "Reflection Into the EDEN",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1313",
+      "pgreat": "498",
+      "great": "317",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1313,
+      "bestMissCount": 49,
+      "lastExScore": 1313,
+      "lastMissCount": 49,
+      "lastPlayedAt": "2026-11-07T14:49:42+09:00",
+      "notes": 1100,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Regulus",
@@ -3531,7 +4125,8 @@
       "ex_score": "930",
       "pgreat": "329",
       "great": "272",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 930
     },
     {
       "title": "Release The Music",
@@ -3541,7 +4136,8 @@
       "ex_score": "1177",
       "pgreat": "417",
       "great": "343",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1177
     },
     {
       "title": "Remedy feat. Kanae Asaba",
@@ -3551,7 +4147,8 @@
       "ex_score": "1343",
       "pgreat": "490",
       "great": "363",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1343
     },
     {
       "title": "Rewind Time",
@@ -3561,7 +4158,8 @@
       "ex_score": "1427",
       "pgreat": "536",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1427
     },
     {
       "title": "Rise Beyond",
@@ -3571,7 +4169,8 @@
       "ex_score": "1262",
       "pgreat": "460",
       "great": "342",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1262
     },
     {
       "title": "Roar of Chronos",
@@ -3581,7 +4180,8 @@
       "ex_score": "1418",
       "pgreat": "534",
       "great": "350",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1418
     },
     {
       "title": "Roulette",
@@ -3591,7 +4191,8 @@
       "ex_score": "1148",
       "pgreat": "409",
       "great": "330",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1148
     },
     {
       "title": "Rowdy",
@@ -3601,7 +4202,8 @@
       "ex_score": "1404",
       "pgreat": "510",
       "great": "384",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1404
     },
     {
       "title": "SA.YO.NA.RA. SUPER STAR",
@@ -3611,7 +4213,8 @@
       "ex_score": "943",
       "pgreat": "344",
       "great": "255",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 943
     },
     {
       "title": "SAMSARA",
@@ -3621,7 +4224,8 @@
       "ex_score": "1176",
       "pgreat": "421",
       "great": "334",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1176
     },
     {
       "title": "SCORE",
@@ -3631,7 +4235,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "SCREAM SQUAD",
@@ -3641,7 +4246,8 @@
       "ex_score": "1001",
       "pgreat": "376",
       "great": "249",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1001
     },
     {
       "title": "SHINING☆DANCE",
@@ -3651,7 +4257,8 @@
       "ex_score": "1427",
       "pgreat": "512",
       "great": "403",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1427
     },
     {
       "title": "SHION",
@@ -3661,7 +4268,8 @@
       "ex_score": "1667",
       "pgreat": "640",
       "great": "387",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1667
     },
     {
       "title": "SNOW",
@@ -3671,7 +4279,8 @@
       "ex_score": "1058",
       "pgreat": "384",
       "great": "290",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1058
     },
     {
       "title": "SOLID STATE SQUAD",
@@ -3681,7 +4290,8 @@
       "ex_score": "1216",
       "pgreat": "413",
       "great": "390",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1216
     },
     {
       "title": "SOLITON BEAM",
@@ -3691,7 +4301,8 @@
       "ex_score": "1127",
       "pgreat": "402",
       "great": "323",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1127
     },
     {
       "title": "SOUND OF GIALLARHORN",
@@ -3701,7 +4312,8 @@
       "ex_score": "1630",
       "pgreat": "578",
       "great": "474",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1630
     },
     {
       "title": "SPLASH!!!!!!!!!",
@@ -3711,7 +4323,8 @@
       "ex_score": "1324",
       "pgreat": "467",
       "great": "390",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1324
     },
     {
       "title": "STAR BEAT",
@@ -3721,7 +4334,8 @@
       "ex_score": "1391",
       "pgreat": "507",
       "great": "377",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1391
     },
     {
       "title": "STEEL NEEDLE",
@@ -3731,7 +4345,8 @@
       "ex_score": "1306",
       "pgreat": "483",
       "great": "340",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1306
     },
     {
       "title": "Samurai Sword",
@@ -3741,7 +4356,8 @@
       "ex_score": "1163",
       "pgreat": "429",
       "great": "305",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1163
     },
     {
       "title": "Satellite Burst",
@@ -3751,7 +4367,8 @@
       "ex_score": "1311",
       "pgreat": "478",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1311
     },
     {
       "title": "Scripted Connection⇒ H mix",
@@ -3761,7 +4378,8 @@
       "ex_score": "1113",
       "pgreat": "393",
       "great": "327",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1113
     },
     {
       "title": "Secret Rouge",
@@ -3771,7 +4389,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Several Words",
@@ -3781,7 +4400,8 @@
       "ex_score": "1381",
       "pgreat": "529",
       "great": "323",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1381
     },
     {
       "title": "Shamshir",
@@ -3791,17 +4411,19 @@
       "ex_score": "1091",
       "pgreat": "354",
       "great": "383",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1091
     },
     {
       "title": "Shapeshifter",
       "difficulty": "A",
       "level": 10,
-      "lamp": "UNKNOWN",
-      "ex_score": "1368",
-      "pgreat": "495",
-      "great": "378",
-      "dj_level": "C"
+      "lamp": "FAILED",
+      "ex_score": "1382",
+      "pgreat": "512",
+      "great": "358",
+      "dj_level": "C",
+      "bestExScore": 1382
     },
     {
       "title": "Shooting Star",
@@ -3811,7 +4433,8 @@
       "ex_score": "1360",
       "pgreat": "476",
       "great": "408",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1360
     },
     {
       "title": "Show Time",
@@ -3821,7 +4444,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "SigSig",
@@ -3831,7 +4455,8 @@
       "ex_score": "1479",
       "pgreat": "557",
       "great": "365",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1479
     },
     {
       "title": "Silver Bullet",
@@ -3841,7 +4466,8 @@
       "ex_score": "1045",
       "pgreat": "368",
       "great": "309",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1045
     },
     {
       "title": "Sky High",
@@ -3851,7 +4477,8 @@
       "ex_score": "1272",
       "pgreat": "463",
       "great": "346",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1272
     },
     {
       "title": "Sorrows",
@@ -3861,7 +4488,8 @@
       "ex_score": "1769",
       "pgreat": "624",
       "great": "521",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1769
     },
     {
       "title": "Star Trail",
@@ -3871,7 +4499,8 @@
       "ex_score": "1121",
       "pgreat": "420",
       "great": "281",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1121
     },
     {
       "title": "Static State",
@@ -3881,7 +4510,8 @@
       "ex_score": "1292",
       "pgreat": "454",
       "great": "384",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1292
     },
     {
       "title": "Sugarplum",
@@ -3891,7 +4521,8 @@
       "ex_score": "1440",
       "pgreat": "510",
       "great": "420",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1440
     },
     {
       "title": "Summerblue",
@@ -3901,7 +4532,8 @@
       "ex_score": "1378",
       "pgreat": "493",
       "great": "392",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1378
     },
     {
       "title": "Super Duper Racers",
@@ -3911,7 +4543,8 @@
       "ex_score": "1383",
       "pgreat": "525",
       "great": "333",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1383
     },
     {
       "title": "Surf on the Light",
@@ -3921,7 +4554,8 @@
       "ex_score": "1303",
       "pgreat": "483",
       "great": "337",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1303
     },
     {
       "title": "Sweet Radar",
@@ -3931,7 +4565,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Sweet Sweet Magic",
@@ -3941,7 +4576,8 @@
       "ex_score": "1106",
       "pgreat": "394",
       "great": "318",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1106
     },
     {
       "title": "Symmetry",
@@ -3951,7 +4587,8 @@
       "ex_score": "1203",
       "pgreat": "431",
       "great": "341",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1203
     },
     {
       "title": "TEKNO KEISER",
@@ -3961,7 +4598,8 @@
       "ex_score": "1230",
       "pgreat": "471",
       "great": "288",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1230
     },
     {
       "title": "THANK YOU FOR PLAYING",
@@ -3971,7 +4609,8 @@
       "ex_score": "1245",
       "pgreat": "474",
       "great": "297",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1245
     },
     {
       "title": "THE DAY OF JUBILATIONS",
@@ -3981,7 +4620,8 @@
       "ex_score": "1573",
       "pgreat": "595",
       "great": "383",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1573
     },
     {
       "title": "THE F∀UST",
@@ -3991,17 +4631,19 @@
       "ex_score": "1160",
       "pgreat": "424",
       "great": "312",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1160
     },
     {
       "title": "THE SAFARI",
       "difficulty": "H",
       "level": 10,
       "lamp": "FAILED",
-      "ex_score": "916",
-      "pgreat": "328",
-      "great": "260",
-      "dj_level": "C"
+      "ex_score": "998",
+      "pgreat": "378",
+      "great": "242",
+      "dj_level": "C",
+      "bestExScore": 998
     },
     {
       "title": "TITANIUM RIDERS",
@@ -4011,7 +4653,19 @@
       "ex_score": "1295",
       "pgreat": "486",
       "great": "323",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1295
+    },
+    {
+      "title": "TOGAKUSHI",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1038",
+      "pgreat": "399",
+      "great": "240",
+      "dj_level": "C",
+      "bestExScore": 1038
     },
     {
       "title": "TOXIC VIBRATION",
@@ -4021,7 +4675,8 @@
       "ex_score": "1452",
       "pgreat": "554",
       "great": "344",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1452
     },
     {
       "title": "Take It Easy",
@@ -4031,7 +4686,8 @@
       "ex_score": "1390",
       "pgreat": "497",
       "great": "396",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1390
     },
     {
       "title": "The Story Begins",
@@ -4041,7 +4697,8 @@
       "ex_score": "1268",
       "pgreat": "454",
       "great": "360",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1268
     },
     {
       "title": "The Wind of China Express(The 4th Mashup)",
@@ -4051,7 +4708,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Thor's Hammer",
@@ -4061,7 +4719,30 @@
       "ex_score": "1079",
       "pgreat": "398",
       "great": "283",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1079
+    },
+    {
+      "title": "Time To Empress",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1289",
+      "pgreat": "463",
+      "great": "363",
+      "dj_level": "C",
+      "bestExScore": 1289
+    },
+    {
+      "title": "Time to Air",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1359",
+      "pgreat": "519",
+      "great": "321",
+      "dj_level": "B",
+      "bestExScore": 1359
     },
     {
       "title": "Timepiece phase II",
@@ -4071,7 +4752,8 @@
       "ex_score": "1119",
       "pgreat": "411",
       "great": "297",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1119
     },
     {
       "title": "Tori-no-kimochi",
@@ -4081,7 +4763,8 @@
       "ex_score": "1133",
       "pgreat": "420",
       "great": "293",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1133
     },
     {
       "title": "Triple Counter",
@@ -4091,7 +4774,8 @@
       "ex_score": "1408",
       "pgreat": "547",
       "great": "314",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1408
     },
     {
       "title": "Triple Cross",
@@ -4101,7 +4785,8 @@
       "ex_score": "1401",
       "pgreat": "509",
       "great": "383",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1401
     },
     {
       "title": "Tripping Jumping",
@@ -4117,9 +4802,9 @@
       "bestMissCount": 94,
       "lastExScore": 1146,
       "lastMissCount": 119,
+      "lastPlayedAt": "2026-11-07T14:27:27+09:00",
       "notes": 1166,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:27:27+09:00"
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Turii ～Panta rhei～",
@@ -4129,7 +4814,8 @@
       "ex_score": "1491",
       "pgreat": "542",
       "great": "407",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1491
     },
     {
       "title": "Ubertreffen",
@@ -4139,7 +4825,8 @@
       "ex_score": "1046",
       "pgreat": "362",
       "great": "322",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1046
     },
     {
       "title": "V",
@@ -4149,7 +4836,8 @@
       "ex_score": "1226",
       "pgreat": "434",
       "great": "358",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1226
     },
     {
       "title": "V2",
@@ -4159,7 +4847,8 @@
       "ex_score": "1594",
       "pgreat": "601",
       "great": "392",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1594
     },
     {
       "title": "Verflucht",
@@ -4169,7 +4858,8 @@
       "ex_score": "1243",
       "pgreat": "461",
       "great": "321",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1243
     },
     {
       "title": "Vermilion",
@@ -4179,7 +4869,8 @@
       "ex_score": "1088",
       "pgreat": "380",
       "great": "328",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1088
     },
     {
       "title": "Vermillion",
@@ -4189,7 +4880,26 @@
       "ex_score": "1165",
       "pgreat": "434",
       "great": "297",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1165
+    },
+    {
+      "title": "Violet Pulse",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1484",
+      "pgreat": "554",
+      "great": "376",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1484,
+      "bestMissCount": 43,
+      "lastExScore": 1484,
+      "lastMissCount": 43,
+      "lastPlayedAt": "2026-11-07T14:44:03+09:00",
+      "notes": 1252,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Voo Doo Bamboleo",
@@ -4199,7 +4909,8 @@
       "ex_score": "1518",
       "pgreat": "563",
       "great": "392",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1518
     },
     {
       "title": "WAR GAME",
@@ -4209,7 +4920,8 @@
       "ex_score": "1256",
       "pgreat": "464",
       "great": "328",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1256
     },
     {
       "title": "When I Met U",
@@ -4219,7 +4931,8 @@
       "ex_score": "1330",
       "pgreat": "492",
       "great": "346",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1330
     },
     {
       "title": "Why did you go away",
@@ -4229,7 +4942,8 @@
       "ex_score": "1390",
       "pgreat": "527",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1390
     },
     {
       "title": "Without Heaven",
@@ -4239,7 +4953,8 @@
       "ex_score": "1257",
       "pgreat": "444",
       "great": "369",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1257
     },
     {
       "title": "Wizards!",
@@ -4249,7 +4964,8 @@
       "ex_score": "1448",
       "pgreat": "543",
       "great": "362",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1448
     },
     {
       "title": "Wonderful Escape",
@@ -4259,7 +4975,8 @@
       "ex_score": "1267",
       "pgreat": "464",
       "great": "339",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1267
     },
     {
       "title": "Wuv U",
@@ -4269,7 +4986,8 @@
       "ex_score": "1062",
       "pgreat": "400",
       "great": "262",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1062
     },
     {
       "title": "X",
@@ -4279,7 +4997,8 @@
       "ex_score": "1436",
       "pgreat": "530",
       "great": "376",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1436
     },
     {
       "title": "XANADU OF TWO",
@@ -4289,7 +5008,8 @@
       "ex_score": "1552",
       "pgreat": "597",
       "great": "358",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1552
     },
     {
       "title": "YAKSHA",
@@ -4299,7 +5019,8 @@
       "ex_score": "1380",
       "pgreat": "511",
       "great": "358",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1380
     },
     {
       "title": "Yellow Sunrise",
@@ -4309,7 +5030,8 @@
       "ex_score": "1436",
       "pgreat": "545",
       "great": "346",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1436
     },
     {
       "title": "ZEROIN ON THE LIGHT",
@@ -4319,7 +5041,8 @@
       "ex_score": "1750",
       "pgreat": "679",
       "great": "392",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1750
     },
     {
       "title": "ZZ",
@@ -4329,7 +5052,8 @@
       "ex_score": "1165",
       "pgreat": "423",
       "great": "319",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1165
     },
     {
       "title": "Zenius -I- vanisher",
@@ -4339,7 +5063,19 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
+    },
+    {
+      "title": "alla turca con passione",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1269",
+      "pgreat": "484",
+      "great": "301",
+      "dj_level": "B",
+      "bestExScore": 1269
     },
     {
       "title": "awakening",
@@ -4349,7 +5085,8 @@
       "ex_score": "903",
       "pgreat": "339",
       "great": "225",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 903
     },
     {
       "title": "bag",
@@ -4359,7 +5096,8 @@
       "ex_score": "1225",
       "pgreat": "404",
       "great": "417",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1225
     },
     {
       "title": "bass 2 bass",
@@ -4369,7 +5107,8 @@
       "ex_score": "1030",
       "pgreat": "361",
       "great": "308",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1030
     },
     {
       "title": "being torn the sky",
@@ -4379,7 +5118,8 @@
       "ex_score": "1180",
       "pgreat": "430",
       "great": "320",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1180
     },
     {
       "title": "chrono diver -fragment-",
@@ -4389,7 +5129,8 @@
       "ex_score": "1383",
       "pgreat": "514",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1383
     },
     {
       "title": "dAuntl3ss",
@@ -4399,7 +5140,8 @@
       "ex_score": "1103",
       "pgreat": "398",
       "great": "307",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1103
     },
     {
       "title": "dica dica",
@@ -4409,7 +5151,8 @@
       "ex_score": "1391",
       "pgreat": "491",
       "great": "409",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1391
     },
     {
       "title": "do the thing feat. Kanae Asaba",
@@ -4419,7 +5162,8 @@
       "ex_score": "1323",
       "pgreat": "466",
       "great": "391",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1323
     },
     {
       "title": "double thrash",
@@ -4429,7 +5173,8 @@
       "ex_score": "1189",
       "pgreat": "453",
       "great": "283",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1189
     },
     {
       "title": "end of world",
@@ -4439,7 +5184,8 @@
       "ex_score": "1201",
       "pgreat": "428",
       "great": "345",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1201
     },
     {
       "title": "fallen leaves -IIDX edition-",
@@ -4449,7 +5195,8 @@
       "ex_score": "1174",
       "pgreat": "433",
       "great": "308",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1174
     },
     {
       "title": "fffff",
@@ -4459,7 +5206,8 @@
       "ex_score": "1252",
       "pgreat": "446",
       "great": "360",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1252
     },
     {
       "title": "four pieces of heaven",
@@ -4469,7 +5217,8 @@
       "ex_score": "956",
       "pgreat": "336",
       "great": "284",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 956
     },
     {
       "title": "frequent",
@@ -4479,7 +5228,8 @@
       "ex_score": "1350",
       "pgreat": "503",
       "great": "344",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1350
     },
     {
       "title": "fun",
@@ -4489,7 +5239,8 @@
       "ex_score": "900",
       "pgreat": "313",
       "great": "274",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 900
     },
     {
       "title": "garden",
@@ -4499,7 +5250,8 @@
       "ex_score": "1230",
       "pgreat": "445",
       "great": "340",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1230
     },
     {
       "title": "get set mind",
@@ -4509,7 +5261,8 @@
       "ex_score": "1690",
       "pgreat": "660",
       "great": "370",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1690
     },
     {
       "title": "gigadelic (WILD STYLE)",
@@ -4519,7 +5272,8 @@
       "ex_score": "1118",
       "pgreat": "417",
       "great": "284",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1118
     },
     {
       "title": "innocent revolver",
@@ -4529,7 +5283,26 @@
       "ex_score": "1440",
       "pgreat": "515",
       "great": "410",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1440
+    },
+    {
+      "title": "kors k's How to make OTOGE CORE 「LONG」",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1370",
+      "pgreat": "503",
+      "great": "364",
+      "dj_level": "B",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1370,
+      "bestMissCount": 77,
+      "lastExScore": 1370,
+      "lastMissCount": 77,
+      "lastPlayedAt": "2026-11-07T13:53:02+09:00",
+      "notes": 1218,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "lower world",
@@ -4539,7 +5312,8 @@
       "ex_score": "1188",
       "pgreat": "440",
       "great": "308",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1188
     },
     {
       "title": "moon_child",
@@ -4549,7 +5323,8 @@
       "ex_score": "1189",
       "pgreat": "376",
       "great": "437",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1189
     },
     {
       "title": "mosaic",
@@ -4559,7 +5334,8 @@
       "ex_score": "1350",
       "pgreat": "517",
       "great": "316",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1350
     },
     {
       "title": "rainbow rainbow",
@@ -4569,7 +5345,8 @@
       "ex_score": "1532",
       "pgreat": "606",
       "great": "320",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1532
     },
     {
       "title": "rottel-da-sun",
@@ -4579,7 +5356,8 @@
       "ex_score": "1050",
       "pgreat": "382",
       "great": "286",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1050
     },
     {
       "title": "rottel-the-Mercury",
@@ -4589,7 +5367,8 @@
       "ex_score": "1430",
       "pgreat": "545",
       "great": "340",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1430
     },
     {
       "title": "rumrum triplets",
@@ -4599,7 +5378,8 @@
       "ex_score": "1347",
       "pgreat": "523",
       "great": "301",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1347
     },
     {
       "title": "smooooch・∀・",
@@ -4615,9 +5395,9 @@
       "bestMissCount": 80,
       "lastExScore": 1350,
       "lastMissCount": 80,
+      "lastPlayedAt": "2026-11-07T14:14:16+09:00",
       "notes": 1089,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:14:16+09:00"
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "snow storm",
@@ -4627,7 +5407,8 @@
       "ex_score": "1420",
       "pgreat": "528",
       "great": "364",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1420
     },
     {
       "title": "traces",
@@ -4637,7 +5418,19 @@
       "ex_score": "1302",
       "pgreat": "411",
       "great": "480",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1302
+    },
+    {
+      "title": "u gotta beat",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1323",
+      "pgreat": "490",
+      "great": "343",
+      "dj_level": "B",
+      "bestExScore": 1323
     },
     {
       "title": "vault of heaven",
@@ -4647,7 +5440,8 @@
       "ex_score": "1047",
       "pgreat": "375",
       "great": "297",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1047
     },
     {
       "title": "yellow head joe",
@@ -4657,7 +5451,8 @@
       "ex_score": "1310",
       "pgreat": "481",
       "great": "348",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1310
     },
     {
       "title": "ΛИ0MΛLY",
@@ -4667,7 +5462,8 @@
       "ex_score": "1204",
       "pgreat": "432",
       "great": "340",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1204
     },
     {
       "title": "ιgniЯRuina",
@@ -4677,7 +5473,8 @@
       "ex_score": "1290",
       "pgreat": "457",
       "great": "376",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1290
     },
     {
       "title": "⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾ beyond reason",
@@ -4687,7 +5484,8 @@
       "ex_score": "1202",
       "pgreat": "442",
       "great": "318",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1202
     },
     {
       "title": "∀",
@@ -4697,7 +5495,8 @@
       "ex_score": "1365",
       "pgreat": "508",
       "great": "349",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1365
     },
     {
       "title": "■□模様",
@@ -4707,7 +5506,8 @@
       "ex_score": "1610",
       "pgreat": "604",
       "great": "402",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1610
     },
     {
       "title": "おとせサンダー",
@@ -4717,7 +5517,8 @@
       "ex_score": "1397",
       "pgreat": "531",
       "great": "335",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1397
     },
     {
       "title": "お菓子の王国",
@@ -4727,7 +5528,8 @@
       "ex_score": "1304",
       "pgreat": "481",
       "great": "342",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1304
     },
     {
       "title": "お願いアインシュタイン",
@@ -4737,7 +5539,8 @@
       "ex_score": "1243",
       "pgreat": "465",
       "great": "313",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1243
     },
     {
       "title": "かわいいだけじゃだめですか？",
@@ -4747,7 +5550,8 @@
       "ex_score": "1293",
       "pgreat": "466",
       "great": "361",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1293
     },
     {
       "title": "きゅんです。",
@@ -4757,7 +5561,8 @@
       "ex_score": "1601",
       "pgreat": "619",
       "great": "363",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1601
     },
     {
       "title": "ここからよろしく大作戦143",
@@ -4767,7 +5572,8 @@
       "ex_score": "1567",
       "pgreat": "592",
       "great": "383",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1567
     },
     {
       "title": "それが、ボクの使命～レスキュー隊長 メンキュー～",
@@ -4777,7 +5583,8 @@
       "ex_score": "1242",
       "pgreat": "472",
       "great": "298",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1242
     },
     {
       "title": "それは花火のような恋",
@@ -4787,7 +5594,8 @@
       "ex_score": "1549",
       "pgreat": "566",
       "great": "417",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1549
     },
     {
       "title": "ぞうしょく！？マイデンティティ",
@@ -4797,7 +5605,8 @@
       "ex_score": "1353",
       "pgreat": "508",
       "great": "337",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1353
     },
     {
       "title": "たまゆら",
@@ -4807,7 +5616,8 @@
       "ex_score": "1173",
       "pgreat": "445",
       "great": "283",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1173
     },
     {
       "title": "ちょえちょえまぎか",
@@ -4817,7 +5627,8 @@
       "ex_score": "1463",
       "pgreat": "560",
       "great": "343",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1463
     },
     {
       "title": "でぃすこみゅーたんと！",
@@ -4827,7 +5638,8 @@
       "ex_score": "1344",
       "pgreat": "485",
       "great": "374",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1344
     },
     {
       "title": "めいさいアイドル☆あいむちゃん♪",
@@ -4837,7 +5649,8 @@
       "ex_score": "1226",
       "pgreat": "444",
       "great": "338",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1226
     },
     {
       "title": "めでてえ",
@@ -4847,7 +5660,8 @@
       "ex_score": "1452",
       "pgreat": "511",
       "great": "430",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1452
     },
     {
       "title": "もんめためたもん",
@@ -4857,7 +5671,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "アイドル",
@@ -4867,7 +5682,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "アクマフカ",
@@ -4877,7 +5693,8 @@
       "ex_score": "1262",
       "pgreat": "446",
       "great": "370",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1262
     },
     {
       "title": "アタシ完全絶対正義ちゃん！",
@@ -4887,7 +5704,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "アラビアン ハイパー ナイト",
@@ -4897,7 +5715,8 @@
       "ex_score": "1175",
       "pgreat": "441",
       "great": "293",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1175
     },
     {
       "title": "エクスプロウル",
@@ -4907,7 +5726,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "エディブルフラワーの独白",
@@ -4917,7 +5737,8 @@
       "ex_score": "1325",
       "pgreat": "491",
       "great": "343",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1325
     },
     {
       "title": "オッドラヴィ",
@@ -4927,7 +5748,8 @@
       "ex_score": "1533",
       "pgreat": "581",
       "great": "371",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1533
     },
     {
       "title": "オドループ",
@@ -4937,7 +5759,8 @@
       "ex_score": "1548",
       "pgreat": "590",
       "great": "368",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1548
     },
     {
       "title": "オブソミート",
@@ -4947,7 +5770,8 @@
       "ex_score": "1481",
       "pgreat": "563",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1481
     },
     {
       "title": "オルタネイトβ",
@@ -4957,7 +5781,19 @@
       "ex_score": "1233",
       "pgreat": "443",
       "great": "347",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1233
+    },
+    {
+      "title": "キスキツネ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1330",
+      "pgreat": "487",
+      "great": "356",
+      "dj_level": "B",
+      "bestExScore": 1330
     },
     {
       "title": "キャトられ恋はモ～モク",
@@ -4967,7 +5803,8 @@
       "ex_score": "1635",
       "pgreat": "610",
       "great": "415",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1635
     },
     {
       "title": "ギミギミエンターテイメント",
@@ -4977,7 +5814,8 @@
       "ex_score": "1645",
       "pgreat": "583",
       "great": "479",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1645
     },
     {
       "title": "ギャ・ギャ・ギャ・ギャラクシー！",
@@ -4987,7 +5825,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ギョギョっと人魚 爆婚ブライダル",
@@ -4997,7 +5836,8 @@
       "ex_score": "1342",
       "pgreat": "486",
       "great": "370",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1342
     },
     {
       "title": "グラナダの風",
@@ -5007,7 +5847,8 @@
       "ex_score": "1131",
       "pgreat": "426",
       "great": "279",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1131
     },
     {
       "title": "ゲシュタルト",
@@ -5017,7 +5858,8 @@
       "ex_score": "1371",
       "pgreat": "493",
       "great": "385",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1371
     },
     {
       "title": "シムルグの目醒め",
@@ -5027,7 +5869,8 @@
       "ex_score": "1208",
       "pgreat": "421",
       "great": "366",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1208
     },
     {
       "title": "シュッパツシンコウ・シサカンコ",
@@ -5037,7 +5880,8 @@
       "ex_score": "1316",
       "pgreat": "470",
       "great": "376",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1316
     },
     {
       "title": "スキッテイエェエエェ!!!!",
@@ -5047,7 +5891,8 @@
       "ex_score": "1483",
       "pgreat": "549",
       "great": "385",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1483
     },
     {
       "title": "スーパー戦湯ババンバーン",
@@ -5057,7 +5902,8 @@
       "ex_score": "1408",
       "pgreat": "539",
       "great": "330",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1408
     },
     {
       "title": "セピアの軌跡 ft. 天宮みや(少女フラクタル)",
@@ -5067,7 +5913,8 @@
       "ex_score": "1501",
       "pgreat": "573",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1501
     },
     {
       "title": "デラむぅのでらっくす☆どり～むぅ",
@@ -5077,7 +5924,8 @@
       "ex_score": "1262",
       "pgreat": "462",
       "great": "338",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1262
     },
     {
       "title": "ドリムチウ",
@@ -5087,7 +5935,8 @@
       "ex_score": "1566",
       "pgreat": "560",
       "great": "446",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1566
     },
     {
       "title": "ドーナツホール 2024",
@@ -5097,7 +5946,8 @@
       "ex_score": "1450",
       "pgreat": "539",
       "great": "372",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1450
     },
     {
       "title": "ハイ*ビスカス ft. Kanae Asaba",
@@ -5107,7 +5957,8 @@
       "ex_score": "1461",
       "pgreat": "553",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1461
     },
     {
       "title": "ハリツヤランデヴー",
@@ -5117,7 +5968,8 @@
       "ex_score": "1220",
       "pgreat": "431",
       "great": "358",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1220
     },
     {
       "title": "ハルイロメロディー",
@@ -5127,7 +5979,8 @@
       "ex_score": "1265",
       "pgreat": "446",
       "great": "373",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1265
     },
     {
       "title": "バブリン",
@@ -5137,7 +5990,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ヒマワリ",
@@ -5147,7 +6001,8 @@
       "ex_score": "1301",
       "pgreat": "496",
       "great": "309",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1301
     },
     {
       "title": "ビビデバ",
@@ -5157,7 +6012,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ビューティフルレシート",
@@ -5167,7 +6023,8 @@
       "ex_score": "1313",
       "pgreat": "526",
       "great": "261",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1313
     },
     {
       "title": "ベィスドロップ・フリークス",
@@ -5177,7 +6034,8 @@
       "ex_score": "1113",
       "pgreat": "382",
       "great": "349",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1113
     },
     {
       "title": "ポラリスノウタ",
@@ -5187,7 +6045,8 @@
       "ex_score": "1456",
       "pgreat": "551",
       "great": "354",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1456
     },
     {
       "title": "ミラージュ・レジデンス",
@@ -5197,7 +6056,8 @@
       "ex_score": "1362",
       "pgreat": "482",
       "great": "398",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1362
     },
     {
       "title": "メイメツ、フラグメンツ",
@@ -5207,7 +6067,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ラキラキ",
@@ -5217,7 +6078,8 @@
       "ex_score": "1034",
       "pgreat": "367",
       "great": "300",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1034
     },
     {
       "title": "ラストセンチュリーメランコリック",
@@ -5227,7 +6089,8 @@
       "ex_score": "1107",
       "pgreat": "413",
       "great": "281",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1107
     },
     {
       "title": "ラブキラ☆スプラッシュ",
@@ -5237,7 +6100,8 @@
       "ex_score": "1380",
       "pgreat": "496",
       "great": "388",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1380
     },
     {
       "title": "ラブパラ",
@@ -5247,7 +6111,8 @@
       "ex_score": "1412",
       "pgreat": "525",
       "great": "362",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1412
     },
     {
       "title": "リグレット",
@@ -5257,7 +6122,8 @@
       "ex_score": "1481",
       "pgreat": "540",
       "great": "401",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1481
     },
     {
       "title": "リリーゼと炎龍レーヴァテイン",
@@ -5267,7 +6133,8 @@
       "ex_score": "1278",
       "pgreat": "459",
       "great": "360",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1278
     },
     {
       "title": "レシピのリドル",
@@ -5277,7 +6144,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ワルツ第17番 ト短調”大犬のワルツ”",
@@ -5287,7 +6155,8 @@
       "ex_score": "1242",
       "pgreat": "435",
       "great": "372",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1242
     },
     {
       "title": "不死身ごっこ",
@@ -5297,7 +6166,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "中華急行",
@@ -5307,7 +6177,8 @@
       "ex_score": "1388",
       "pgreat": "526",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1388
     },
     {
       "title": "伐折羅-vajra-",
@@ -5317,7 +6188,8 @@
       "ex_score": "1347",
       "pgreat": "492",
       "great": "363",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1347
     },
     {
       "title": "倍倍FIGHT!",
@@ -5327,7 +6199,8 @@
       "ex_score": "1422",
       "pgreat": "526",
       "great": "370",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1422
     },
     {
       "title": "冥",
@@ -5337,7 +6210,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "冬椿 ft. Kanae Asaba",
@@ -5347,7 +6221,8 @@
       "ex_score": "1316",
       "pgreat": "488",
       "great": "340",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1316
     },
     {
       "title": "凛として咲く花の如く",
@@ -5357,7 +6232,8 @@
       "ex_score": "1761",
       "pgreat": "555",
       "great": "651",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1761
     },
     {
       "title": "刃図羅",
@@ -5367,7 +6243,8 @@
       "ex_score": "1182",
       "pgreat": "432",
       "great": "318",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1182
     },
     {
       "title": "即席！脳直★ミュージックシステム",
@@ -5377,7 +6254,19 @@
       "ex_score": "1205",
       "pgreat": "423",
       "great": "359",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1205
+    },
+    {
+      "title": "可愛くてごめん",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1726",
+      "pgreat": "663",
+      "great": "400",
+      "dj_level": "B",
+      "bestExScore": 1726
     },
     {
       "title": "夏の匂い。キミの残像。 ft. Kanae Asaba",
@@ -5387,7 +6276,19 @@
       "ex_score": "1559",
       "pgreat": "575",
       "great": "409",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1559
+    },
+    {
+      "title": "夏色DIARY - L.E.D.-G STYLE MIX -",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1088",
+      "pgreat": "398",
+      "great": "292",
+      "dj_level": "C",
+      "bestExScore": 1088
     },
     {
       "title": "夏色のセレナーデ",
@@ -5397,7 +6298,8 @@
       "ex_score": "1402",
       "pgreat": "522",
       "great": "358",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1402
     },
     {
       "title": "夢縁",
@@ -5407,7 +6309,8 @@
       "ex_score": "1255",
       "pgreat": "450",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1255
     },
     {
       "title": "天空の夜明け",
@@ -5417,7 +6320,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "子供の落書き帳",
@@ -5427,7 +6331,8 @@
       "ex_score": "975",
       "pgreat": "348",
       "great": "279",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 975
     },
     {
       "title": "少年A",
@@ -5437,7 +6342,8 @@
       "ex_score": "1084",
       "pgreat": "397",
       "great": "290",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1084
     },
     {
       "title": "山岡晃の「クイズ！家事都合！」",
@@ -5447,7 +6353,8 @@
       "ex_score": "1104",
       "pgreat": "402",
       "great": "300",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1104
     },
     {
       "title": "廿",
@@ -5457,7 +6364,8 @@
       "ex_score": "1387",
       "pgreat": "506",
       "great": "375",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1387
     },
     {
       "title": "恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)",
@@ -5467,7 +6375,8 @@
       "ex_score": "1301",
       "pgreat": "446",
       "great": "409",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1301
     },
     {
       "title": "恋はどう？モロ◎波動OK☆方程式!!",
@@ -5477,7 +6386,8 @@
       "ex_score": "1404",
       "pgreat": "517",
       "great": "370",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1404
     },
     {
       "title": "恋愛＝精度×認識力",
@@ -5487,7 +6397,8 @@
       "ex_score": "1238",
       "pgreat": "435",
       "great": "368",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1238
     },
     {
       "title": "愛しくてラヴィンユー ft. マナ",
@@ -5497,7 +6408,8 @@
       "ex_score": "1392",
       "pgreat": "516",
       "great": "360",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1392
     },
     {
       "title": "愛包ダンスホール",
@@ -5507,7 +6419,8 @@
       "ex_score": "1624",
       "pgreat": "619",
       "great": "386",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1624
     },
     {
       "title": "我ら完全無敵のアイドル!!",
@@ -5517,7 +6430,8 @@
       "ex_score": "1593",
       "pgreat": "602",
       "great": "389",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1593
     },
     {
       "title": "斎戒",
@@ -5527,7 +6441,8 @@
       "ex_score": "1154",
       "pgreat": "432",
       "great": "290",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1154
     },
     {
       "title": "旋律のドグマ～Miserables～",
@@ -5537,7 +6452,8 @@
       "ex_score": "1704",
       "pgreat": "660",
       "great": "384",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1704
     },
     {
       "title": "昏き甲鉄のヴェルガ",
@@ -5547,7 +6463,8 @@
       "ex_score": "1585",
       "pgreat": "595",
       "great": "395",
-      "dj_level": "A"
+      "dj_level": "A",
+      "bestExScore": 1585
     },
     {
       "title": "星をこの手に",
@@ -5557,7 +6474,8 @@
       "ex_score": "1166",
       "pgreat": "412",
       "great": "342",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1166
     },
     {
       "title": "星屑ディスタンシア",
@@ -5567,7 +6485,8 @@
       "ex_score": "1208",
       "pgreat": "448",
       "great": "312",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1208
     },
     {
       "title": "映夢雪花抄",
@@ -5577,7 +6496,8 @@
       "ex_score": "1248",
       "pgreat": "442",
       "great": "364",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1248
     },
     {
       "title": "最強頂戴girl",
@@ -5587,7 +6507,8 @@
       "ex_score": "1296",
       "pgreat": "480",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1296
     },
     {
       "title": "月下散刄",
@@ -5597,7 +6518,8 @@
       "ex_score": "1075",
       "pgreat": "393",
       "great": "289",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1075
     },
     {
       "title": "月光",
@@ -5607,7 +6529,8 @@
       "ex_score": "1378",
       "pgreat": "511",
       "great": "356",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1378
     },
     {
       "title": "月雪に舞う華のように",
@@ -5617,7 +6540,8 @@
       "ex_score": "1305",
       "pgreat": "473",
       "great": "359",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1305
     },
     {
       "title": "朧",
@@ -5627,7 +6551,8 @@
       "ex_score": "1253",
       "pgreat": "462",
       "great": "329",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1253
     },
     {
       "title": "未完成ノ蒸氣驅動乙女",
@@ -5637,7 +6562,8 @@
       "ex_score": "1332",
       "pgreat": "505",
       "great": "322",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1332
     },
     {
       "title": "楽園追放",
@@ -5647,7 +6573,8 @@
       "ex_score": "1311",
       "pgreat": "457",
       "great": "397",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1311
     },
     {
       "title": "次葉 -turn the page-",
@@ -5657,7 +6584,8 @@
       "ex_score": "1200",
       "pgreat": "437",
       "great": "326",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1200
     },
     {
       "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
@@ -5667,7 +6595,8 @@
       "ex_score": "1383",
       "pgreat": "504",
       "great": "375",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1383
     },
     {
       "title": "水無月の雫 ft. 小林まな",
@@ -5677,7 +6606,8 @@
       "ex_score": "1529",
       "pgreat": "582",
       "great": "365",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1529
     },
     {
       "title": "泡沫と月",
@@ -5687,7 +6617,8 @@
       "ex_score": "1472",
       "pgreat": "532",
       "great": "408",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1472
     },
     {
       "title": "津軽雪",
@@ -5697,7 +6628,8 @@
       "ex_score": "1213",
       "pgreat": "430",
       "great": "353",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1213
     },
     {
       "title": "流桜ノ門",
@@ -5707,7 +6639,8 @@
       "ex_score": "1176",
       "pgreat": "417",
       "great": "342",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1176
     },
     {
       "title": "海神",
@@ -5717,7 +6650,8 @@
       "ex_score": "1125",
       "pgreat": "406",
       "great": "313",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1125
     },
     {
       "title": "深愛のリグレット",
@@ -5727,7 +6661,8 @@
       "ex_score": "1291",
       "pgreat": "450",
       "great": "391",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1291
     },
     {
       "title": "灼熱 Lost Summer Dayz",
@@ -5737,7 +6672,8 @@
       "ex_score": "1068",
       "pgreat": "362",
       "great": "344",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1068
     },
     {
       "title": "灼熱Beach Side Bunny",
@@ -5747,7 +6683,8 @@
       "ex_score": "922",
       "pgreat": "264",
       "great": "394",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 922
     },
     {
       "title": "灼熱Beach Side Bunny (Masayoshi Iimori Remix)",
@@ -5757,7 +6694,8 @@
       "ex_score": "875",
       "pgreat": "267",
       "great": "341",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 875
     },
     {
       "title": "烽火連天の刃",
@@ -5767,7 +6705,8 @@
       "ex_score": "1358",
       "pgreat": "511",
       "great": "336",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1358
     },
     {
       "title": "煉獄のエルフェリア",
@@ -5777,7 +6716,8 @@
       "ex_score": "1287",
       "pgreat": "467",
       "great": "353",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1287
     },
     {
       "title": "異心前進♪ぴょんぴょんぴょん",
@@ -5787,7 +6727,8 @@
       "ex_score": "1502",
       "pgreat": "568",
       "great": "366",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1502
     },
     {
       "title": "百恋ラブラスター",
@@ -5797,7 +6738,8 @@
       "ex_score": "1531",
       "pgreat": "544",
       "great": "443",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1531
     },
     {
       "title": "神っぽいな",
@@ -5807,7 +6749,8 @@
       "ex_score": "1274",
       "pgreat": "476",
       "great": "322",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1274
     },
     {
       "title": "神様、つれない。",
@@ -5817,7 +6760,8 @@
       "ex_score": "1433",
       "pgreat": "549",
       "great": "335",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1433
     },
     {
       "title": "禊",
@@ -5827,7 +6771,8 @@
       "ex_score": "1246",
       "pgreat": "436",
       "great": "374",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1246
     },
     {
       "title": "突撃!ガラスのニーソ姫!",
@@ -5837,7 +6782,8 @@
       "ex_score": "1313",
       "pgreat": "493",
       "great": "327",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1313
     },
     {
       "title": "純真可憐デザイア",
@@ -5847,7 +6793,8 @@
       "ex_score": "1550",
       "pgreat": "599",
       "great": "352",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1550
     },
     {
       "title": "罠",
@@ -5857,7 +6804,8 @@
       "ex_score": "1418",
       "pgreat": "529",
       "great": "360",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1418
     },
     {
       "title": "罪過の聖堂",
@@ -5867,7 +6815,8 @@
       "ex_score": "726",
       "pgreat": "257",
       "great": "212",
-      "dj_level": "D"
+      "dj_level": "D",
+      "bestExScore": 726
     },
     {
       "title": "翼",
@@ -5877,7 +6826,8 @@
       "ex_score": "1452",
       "pgreat": "519",
       "great": "414",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1452
     },
     {
       "title": "聖人の塔",
@@ -5887,7 +6837,8 @@
       "ex_score": "1239",
       "pgreat": "492",
       "great": "255",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1239
     },
     {
       "title": "草原の王女-軌跡を辿って-",
@@ -5897,7 +6848,8 @@
       "ex_score": "1318",
       "pgreat": "479",
       "great": "360",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1318
     },
     {
       "title": "華爛漫 -Flowers-",
@@ -5907,7 +6859,8 @@
       "ex_score": "1249",
       "pgreat": "477",
       "great": "295",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1249
     },
     {
       "title": "表裏一体！？怪盗いいんちょの悩み",
@@ -5917,7 +6870,8 @@
       "ex_score": "1268",
       "pgreat": "451",
       "great": "366",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1268
     },
     {
       "title": "衰色小町メランコリア",
@@ -5927,7 +6881,8 @@
       "ex_score": "1305",
       "pgreat": "483",
       "great": "339",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1305
     },
     {
       "title": "轟け！恋のビーンボール！！",
@@ -5937,7 +6892,8 @@
       "ex_score": "1198",
       "pgreat": "432",
       "great": "334",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1198
     },
     {
       "title": "進捗ダメダメです",
@@ -5947,7 +6903,8 @@
       "ex_score": "1315",
       "pgreat": "488",
       "great": "339",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1315
     },
     {
       "title": "酔いどれ知らず",
@@ -5957,7 +6914,8 @@
       "ex_score": "1373",
       "pgreat": "498",
       "great": "377",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1373
     },
     {
       "title": "金野火織の金色提言",
@@ -5967,7 +6925,8 @@
       "ex_score": "1317",
       "pgreat": "481",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1317
     },
     {
       "title": "閉塞的フレーション",
@@ -5977,7 +6936,8 @@
       "ex_score": "1591",
       "pgreat": "618",
       "great": "355",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1591
     },
     {
       "title": "雪上断火",
@@ -5987,7 +6947,8 @@
       "ex_score": "933",
       "pgreat": "317",
       "great": "299",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 933
     },
     {
       "title": "雪月花",
@@ -5997,7 +6958,8 @@
       "ex_score": "1089",
       "pgreat": "400",
       "great": "289",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1089
     },
     {
       "title": "電人、暁に斃れる。",
@@ -6007,7 +6969,8 @@
       "ex_score": "1208",
       "pgreat": "430",
       "great": "348",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1208
     },
     {
       "title": "電腦都市",
@@ -6017,7 +6980,8 @@
       "ex_score": "1294",
       "pgreat": "473",
       "great": "348",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1294
     },
     {
       "title": "霧幻メモリア",
@@ -6027,7 +6991,8 @@
       "ex_score": "1179",
       "pgreat": "445",
       "great": "289",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1179
     },
     {
       "title": "霹靂",
@@ -6037,7 +7002,8 @@
       "ex_score": "1112",
       "pgreat": "393",
       "great": "326",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1112
     },
     {
       "title": "革命",
@@ -6047,7 +7013,8 @@
       "ex_score": "1125",
       "pgreat": "418",
       "great": "289",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1125
     },
     {
       "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
@@ -6057,7 +7024,8 @@
       "ex_score": "1238",
       "pgreat": "464",
       "great": "310",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1238
     },
     {
       "title": "ＰＡＳＴＥＬＩＳＭ",
@@ -6067,7 +7035,8 @@
       "ex_score": "1288",
       "pgreat": "480",
       "great": "328",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1288
     },
     {
       "title": "(This Is Not) The Angels",
@@ -6077,7 +7046,8 @@
       "ex_score": "1444",
       "pgreat": "519",
       "great": "406",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1444
     },
     {
       "title": "AMRITA -不滅ノ花-",
@@ -6087,7 +7057,8 @@
       "ex_score": "1459",
       "pgreat": "535",
       "great": "389",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1459
     },
     {
       "title": "ATHER",
@@ -6097,7 +7068,8 @@
       "ex_score": "1351",
       "pgreat": "477",
       "great": "397",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1351
     },
     {
       "title": "Amor De Verao",
@@ -6107,7 +7079,8 @@
       "ex_score": "1297",
       "pgreat": "458",
       "great": "381",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1297
     },
     {
       "title": "Angelic Jelly",
@@ -6117,7 +7090,8 @@
       "ex_score": "1498",
       "pgreat": "553",
       "great": "392",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1498
     },
     {
       "title": "Aurora",
@@ -6127,7 +7101,8 @@
       "ex_score": "1352",
       "pgreat": "492",
       "great": "368",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1352
     },
     {
       "title": "BROKEN EDEN",
@@ -6137,7 +7112,8 @@
       "ex_score": "1238",
       "pgreat": "440",
       "great": "358",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1238
     },
     {
       "title": "Be quiet",
@@ -6147,7 +7123,8 @@
       "ex_score": "1190",
       "pgreat": "419",
       "great": "352",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1190
     },
     {
       "title": "Blind Justice ～Torn souls, Hurt Faiths ～",
@@ -6157,7 +7134,8 @@
       "ex_score": "1497",
       "pgreat": "577",
       "great": "343",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1497
     },
     {
       "title": "Blue Rain",
@@ -6167,7 +7145,8 @@
       "ex_score": "1197",
       "pgreat": "430",
       "great": "337",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1197
     },
     {
       "title": "Chrono Diver -PENDULUMs-",
@@ -6177,7 +7156,8 @@
       "ex_score": "1351",
       "pgreat": "474",
       "great": "403",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1351
     },
     {
       "title": "Cosmic Cat",
@@ -6187,7 +7167,8 @@
       "ex_score": "1291",
       "pgreat": "478",
       "great": "335",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1291
     },
     {
       "title": "Destiny Sword",
@@ -6197,7 +7178,8 @@
       "ex_score": "1188",
       "pgreat": "424",
       "great": "340",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1188
     },
     {
       "title": "ESPRIT ONE",
@@ -6207,7 +7189,8 @@
       "ex_score": "1638",
       "pgreat": "594",
       "great": "450",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1638
     },
     {
       "title": "Empire State Glory",
@@ -6217,7 +7200,8 @@
       "ex_score": "1271",
       "pgreat": "435",
       "great": "401",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1271
     },
     {
       "title": "Energy Drive",
@@ -6227,7 +7211,8 @@
       "ex_score": "1102",
       "pgreat": "403",
       "great": "296",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1102
     },
     {
       "title": "Exhaust Hype",
@@ -6237,7 +7222,8 @@
       "ex_score": "1508",
       "pgreat": "541",
       "great": "426",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1508
     },
     {
       "title": "Explorer feat. ぷにぷに電機",
@@ -6247,7 +7233,8 @@
       "ex_score": "1504",
       "pgreat": "543",
       "great": "418",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1504
     },
     {
       "title": "Farewell to Marrakech",
@@ -6257,7 +7244,8 @@
       "ex_score": "1367",
       "pgreat": "511",
       "great": "345",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1367
     },
     {
       "title": "Fiery Stallion",
@@ -6267,7 +7255,8 @@
       "ex_score": "1145",
       "pgreat": "399",
       "great": "347",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1145
     },
     {
       "title": "GENERATED GRID",
@@ -6277,7 +7266,8 @@
       "ex_score": "1795",
       "pgreat": "662",
       "great": "471",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1795
     },
     {
       "title": "Globe Glitter",
@@ -6287,7 +7277,26 @@
       "ex_score": "1497",
       "pgreat": "525",
       "great": "447",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1497
+    },
+    {
+      "title": "Honey Trap",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1372",
+      "pgreat": "498",
+      "great": "376",
+      "dj_level": "C",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1372,
+      "bestMissCount": 91,
+      "lastExScore": 1372,
+      "lastMissCount": 91,
+      "lastPlayedAt": "2026-11-07T13:59:28+09:00",
+      "notes": 1284,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "KING",
@@ -6297,7 +7306,8 @@
       "ex_score": "1685",
       "pgreat": "615",
       "great": "455",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1685
     },
     {
       "title": "LASER CRUSTER",
@@ -6307,7 +7317,8 @@
       "ex_score": "1299",
       "pgreat": "460",
       "great": "379",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1299
     },
     {
       "title": "Lawes's Parotia",
@@ -6317,7 +7328,8 @@
       "ex_score": "1346",
       "pgreat": "484",
       "great": "378",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1346
     },
     {
       "title": "Line 4 Ruin",
@@ -6327,7 +7339,8 @@
       "ex_score": "1441",
       "pgreat": "509",
       "great": "423",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1441
     },
     {
       "title": "MIRACLE MEETS",
@@ -6337,7 +7350,8 @@
       "ex_score": "1397",
       "pgreat": "550",
       "great": "297",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1397
     },
     {
       "title": "PENDUAL TALISMAN",
@@ -6347,7 +7361,8 @@
       "ex_score": "1392",
       "pgreat": "514",
       "great": "364",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1392
     },
     {
       "title": "Plea Per Phase",
@@ -6357,7 +7372,8 @@
       "ex_score": "1519",
       "pgreat": "547",
       "great": "425",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1519
     },
     {
       "title": "PopなEDEN",
@@ -6367,7 +7383,8 @@
       "ex_score": "1397",
       "pgreat": "514",
       "great": "369",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1397
     },
     {
       "title": "Programmed Genom",
@@ -6377,7 +7394,8 @@
       "ex_score": "1340",
       "pgreat": "482",
       "great": "376",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1340
     },
     {
       "title": "Psychedelic Intelligence",
@@ -6387,7 +7405,8 @@
       "ex_score": "1577",
       "pgreat": "591",
       "great": "395",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1577
     },
     {
       "title": "Rejection Girl",
@@ -6397,7 +7416,8 @@
       "ex_score": "1363",
       "pgreat": "509",
       "great": "345",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1363
     },
     {
       "title": "Rock Da House",
@@ -6407,7 +7427,8 @@
       "ex_score": "1322",
       "pgreat": "477",
       "great": "368",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1322
     },
     {
       "title": "Romanticが止まらない",
@@ -6417,7 +7438,8 @@
       "ex_score": "1484",
       "pgreat": "536",
       "great": "412",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1484
     },
     {
       "title": "STARLIGHT DANCEHALL",
@@ -6427,7 +7449,8 @@
       "ex_score": "1428",
       "pgreat": "502",
       "great": "424",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1428
     },
     {
       "title": "Sakura Reflection",
@@ -6437,7 +7460,8 @@
       "ex_score": "1337",
       "pgreat": "511",
       "great": "315",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1337
     },
     {
       "title": "Shiva",
@@ -6447,7 +7471,8 @@
       "ex_score": "1361",
       "pgreat": "510",
       "great": "341",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1361
     },
     {
       "title": "Shogun's Last Dawn ft. Kanae Asaba",
@@ -6457,7 +7482,8 @@
       "ex_score": "1491",
       "pgreat": "529",
       "great": "433",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1491
     },
     {
       "title": "Spark Rush",
@@ -6467,7 +7493,8 @@
       "ex_score": "1383",
       "pgreat": "491",
       "great": "401",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1383
     },
     {
       "title": "Sparkle Smilin'",
@@ -6477,7 +7504,8 @@
       "ex_score": "1351",
       "pgreat": "496",
       "great": "359",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1351
     },
     {
       "title": "Stargazing Trip ～星 探す旅～ ft. 小林マナ",
@@ -6487,7 +7515,8 @@
       "ex_score": "1683",
       "pgreat": "636",
       "great": "411",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1683
     },
     {
       "title": "Swarm Of Scarabs",
@@ -6497,7 +7526,8 @@
       "ex_score": "849",
       "pgreat": "297",
       "great": "255",
-      "dj_level": "D"
+      "dj_level": "D",
+      "bestExScore": 849
     },
     {
       "title": "Tell me what you wish feat.らっぷびと",
@@ -6507,7 +7537,8 @@
       "ex_score": "1766",
       "pgreat": "656",
       "great": "454",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1766
     },
     {
       "title": "Ventriloquist",
@@ -6517,7 +7548,8 @@
       "ex_score": "1333",
       "pgreat": "481",
       "great": "371",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1333
     },
     {
       "title": "Vitamin",
@@ -6527,7 +7559,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "Wanna Party?",
@@ -6537,7 +7570,8 @@
       "ex_score": "1167",
       "pgreat": "422",
       "great": "323",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1167
     },
     {
       "title": "crew",
@@ -6553,9 +7587,9 @@
       "bestMissCount": 116,
       "lastExScore": 1626,
       "lastMissCount": 116,
+      "lastPlayedAt": "2026-11-07T14:52:33+09:00",
       "notes": 1480,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:52:33+09:00"
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "moffing 猫叉Master meets β2 黒パカミックス",
@@ -6565,7 +7599,8 @@
       "ex_score": "1460",
       "pgreat": "534",
       "great": "392",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1460
     },
     {
       "title": "quasar",
@@ -6575,7 +7610,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "refractive index",
@@ -6585,7 +7621,8 @@
       "ex_score": "1423",
       "pgreat": "517",
       "great": "389",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1423
     },
     {
       "title": "えだまめカレークッキング",
@@ -6595,7 +7632,19 @@
       "ex_score": "1189",
       "pgreat": "435",
       "great": "319",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1189
+    },
+    {
+      "title": "きみのせかい",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1362",
+      "pgreat": "502",
+      "great": "358",
+      "dj_level": "C",
+      "bestExScore": 1362
     },
     {
       "title": "ここからよろしく大作戦143",
@@ -6605,7 +7654,8 @@
       "ex_score": "1906",
       "pgreat": "729",
       "great": "448",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1906
     },
     {
       "title": "でんぱ どりる わんにゃー☆三",
@@ -6615,7 +7665,8 @@
       "ex_score": "1955",
       "pgreat": "729",
       "great": "497",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1955
     },
     {
       "title": "ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！",
@@ -6625,7 +7676,8 @@
       "ex_score": "1294",
       "pgreat": "451",
       "great": "392",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1294
     },
     {
       "title": "オーバーライド",
@@ -6635,7 +7687,8 @@
       "ex_score": "1935",
       "pgreat": "724",
       "great": "487",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1935
     },
     {
       "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
@@ -6645,7 +7698,8 @@
       "ex_score": "1307",
       "pgreat": "478",
       "great": "351",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1307
     },
     {
       "title": "ハオ",
@@ -6655,7 +7709,8 @@
       "ex_score": "1529",
       "pgreat": "561",
       "great": "407",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1529
     },
     {
       "title": "フォニイ",
@@ -6665,7 +7720,8 @@
       "ex_score": "1653",
       "pgreat": "611",
       "great": "431",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1653
     },
     {
       "title": "マーシャル・マキシマイザー",
@@ -6675,7 +7731,8 @@
       "ex_score": "1254",
       "pgreat": "447",
       "great": "360",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1254
     },
     {
       "title": "ミッドナイト☆WAR",
@@ -6685,7 +7742,8 @@
       "ex_score": "1453",
       "pgreat": "547",
       "great": "359",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1453
     },
     {
       "title": "メズマライザー",
@@ -6695,7 +7753,8 @@
       "ex_score": "1662",
       "pgreat": "642",
       "great": "378",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1662
     },
     {
       "title": "メテオラ-meteor-",
@@ -6705,7 +7764,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "ユミル",
@@ -6715,7 +7775,8 @@
       "ex_score": "1421",
       "pgreat": "506",
       "great": "409",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1421
     },
     {
       "title": "ラビットホール",
@@ -6725,7 +7786,8 @@
       "ex_score": "1456",
       "pgreat": "502",
       "great": "452",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1456
     },
     {
       "title": "九十九ノ恋結ビ",
@@ -6735,7 +7797,19 @@
       "ex_score": "1426",
       "pgreat": "514",
       "great": "398",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1426
+    },
+    {
+      "title": "仮想空間の旅人たち",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1451",
+      "pgreat": "528",
+      "great": "395",
+      "dj_level": "C",
+      "bestExScore": 1451
     },
     {
       "title": "勇者",
@@ -6745,7 +7819,8 @@
       "ex_score": "1401",
       "pgreat": "514",
       "great": "373",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1401
     },
     {
       "title": "泰東ノ翠霞",
@@ -6755,7 +7830,8 @@
       "ex_score": "1038",
       "pgreat": "347",
       "great": "344",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1038
     },
     {
       "title": "煉獄コンフィチュール",
@@ -6765,7 +7841,8 @@
       "ex_score": "1512",
       "pgreat": "553",
       "great": "406",
-      "dj_level": "B"
+      "dj_level": "B",
+      "bestExScore": 1512
     },
     {
       "title": "牧神笛吹きて",
@@ -6775,7 +7852,8 @@
       "ex_score": "1062",
       "pgreat": "380",
       "great": "302",
-      "dj_level": "C"
+      "dj_level": "C",
+      "bestExScore": 1062
     },
     {
       "title": "華麗なる！音戯探偵ひなビタ",
@@ -6785,7 +7863,8 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
     },
     {
       "title": "閃と雷管とロープ",
@@ -6795,7 +7874,26 @@
       "ex_score": "0",
       "pgreat": "0",
       "great": "0",
-      "dj_level": "---"
+      "dj_level": "---",
+      "bestExScore": 0
+    },
+    {
+      "title": "麗 ～うらら～",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1346",
+      "pgreat": "498",
+      "great": "350",
+      "dj_level": "C",
+      "baselineLamp": "NOPLAY",
+      "bestExScore": 1346,
+      "bestMissCount": 132,
+      "lastExScore": 1346,
+      "lastMissCount": 132,
+      "lastPlayedAt": "2026-11-07T14:39:55+09:00",
+      "notes": 1329,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "龍と少女とデコヒーレンス",
@@ -6805,313 +7903,8 @@
       "ex_score": "1465",
       "pgreat": "531",
       "great": "403",
-      "dj_level": "C"
-    },
-    {
-      "title": "abstract",
-      "difficulty": "A",
-      "level": 9,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1048",
-      "pgreat": "336",
-      "great": "376",
       "dj_level": "C",
-      "bestExScore": 1048,
-      "bestMissCount": 78,
-      "lastExScore": 1048,
-      "lastMissCount": 78,
-      "notes": 960,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T13:49:35+09:00"
-    },
-    {
-      "title": "kors k's How to make OTOGE CORE 「LONG」",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1370",
-      "pgreat": "503",
-      "great": "364",
-      "dj_level": "B",
-      "bestExScore": 1370,
-      "bestMissCount": 77,
-      "lastExScore": 1370,
-      "lastMissCount": 77,
-      "notes": 1218,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T13:53:02+09:00"
-    },
-    {
-      "title": "Million Dollar",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1248",
-      "pgreat": "466",
-      "great": "316",
-      "dj_level": "B",
-      "bestExScore": 1248,
-      "bestMissCount": 48,
-      "lastExScore": 1248,
-      "lastMissCount": 48,
-      "notes": 1028,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T13:56:14+09:00"
-    },
-    {
-      "title": "Honey Trap",
-      "difficulty": "A",
-      "level": 11,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1372",
-      "pgreat": "498",
-      "great": "376",
-      "dj_level": "C",
-      "bestExScore": 1372,
-      "bestMissCount": 91,
-      "lastExScore": 1372,
-      "lastMissCount": 91,
-      "notes": 1284,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T13:59:28+09:00"
-    },
-    {
-      "title": "夏色DIARY -L.E.D.-G STYLE MIX-",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1088",
-      "pgreat": "398",
-      "great": "292",
-      "dj_level": "C",
-      "bestExScore": 1088,
-      "bestMissCount": 87,
-      "lastExScore": 1088,
-      "lastMissCount": 87,
-      "notes": 1031,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:05:56+09:00"
-    },
-    {
-      "title": "MINT",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "949",
-      "pgreat": "338",
-      "great": "273",
-      "dj_level": "C",
-      "bestExScore": 949,
-      "bestMissCount": 70,
-      "lastExScore": 949,
-      "lastMissCount": 70,
-      "notes": 917,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:08:41+09:00"
-    },
-    {
-      "title": "Lucky Days",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1278",
-      "pgreat": "470",
-      "great": "338",
-      "dj_level": "B",
-      "bestExScore": 1278,
-      "bestMissCount": 49,
-      "lastExScore": 1278,
-      "lastMissCount": 49,
-      "notes": 1111,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:11:15+09:00"
-    },
-    {
-      "title": "With your Smile",
-      "difficulty": "A",
-      "level": 8,
-      "lamp": "HARD",
-      "baselineLamp": "FAILED",
-      "ex_score": "1011",
-      "pgreat": "385",
-      "great": "241",
-      "dj_level": "B",
-      "bestExScore": 1011,
-      "bestMissCount": 30,
-      "lastExScore": 1011,
-      "lastMissCount": 30,
-      "notes": 788,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:18:21+09:00"
-    },
-    {
-      "title": "Miracle Sympho X",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "FAILED",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1386",
-      "pgreat": "516",
-      "great": "354",
-      "dj_level": "C",
-      "bestExScore": 1386,
-      "bestMissCount": 131,
-      "lastExScore": 1386,
-      "lastMissCount": 131,
-      "notes": 1325,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:21:27+09:00"
-    },
-    {
-      "title": "NEW SENSATION -もう、あなたしか見えない-",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1280",
-      "pgreat": "478",
-      "great": "324",
-      "dj_level": "B",
-      "bestExScore": 1280,
-      "bestMissCount": 58,
-      "lastExScore": 1280,
-      "lastMissCount": 58,
-      "notes": 1045,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:24:23+09:00"
-    },
-    {
-      "title": "HAMSTER",
-      "difficulty": "H",
-      "level": 9,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "973",
-      "pgreat": "347",
-      "great": "279",
-      "dj_level": "B",
-      "bestExScore": 973,
-      "bestMissCount": 68,
-      "lastExScore": 973,
-      "lastMissCount": 68,
-      "notes": 838,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:31:42+09:00"
-    },
-    {
-      "title": "Modular Technology",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1168",
-      "pgreat": "416",
-      "great": "336",
-      "dj_level": "B",
-      "bestExScore": 1168,
-      "bestMissCount": 59,
-      "lastExScore": 1168,
-      "lastMissCount": 59,
-      "notes": 1006,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:34:13+09:00"
-    },
-    {
-      "title": "Broken Sword",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1180",
-      "pgreat": "428",
-      "great": "324",
-      "dj_level": "B",
-      "bestExScore": 1180,
-      "bestMissCount": 46,
-      "lastExScore": 1180,
-      "lastMissCount": 46,
-      "notes": 1054,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:36:53+09:00"
-    },
-    {
-      "title": "麗 ～うらら～",
-      "difficulty": "A",
-      "level": 11,
-      "lamp": "FAILED",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1346",
-      "pgreat": "498",
-      "great": "350",
-      "dj_level": "C",
-      "bestExScore": 1346,
-      "bestMissCount": 132,
-      "lastExScore": 1346,
-      "lastMissCount": 132,
-      "notes": 1329,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:39:55+09:00"
-    },
-    {
-      "title": "Violet Pulse",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1484",
-      "pgreat": "554",
-      "great": "376",
-      "dj_level": "B",
-      "bestExScore": 1484,
-      "bestMissCount": 43,
-      "lastExScore": 1484,
-      "lastMissCount": 43,
-      "notes": 1252,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:44:03+09:00"
-    },
-    {
-      "title": "ONIGOROSHI",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1220",
-      "pgreat": "437",
-      "great": "346",
-      "dj_level": "C",
-      "bestExScore": 1220,
-      "bestMissCount": 88,
-      "lastExScore": 1220,
-      "lastMissCount": 88,
-      "notes": 1107,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:46:45+09:00"
-    },
-    {
-      "title": "Reflection Into the EDEN",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "baselineLamp": "NOPLAY",
-      "ex_score": "1313",
-      "pgreat": "498",
-      "great": "317",
-      "dj_level": "B",
-      "bestExScore": 1313,
-      "bestMissCount": 49,
-      "lastExScore": 1313,
-      "lastMissCount": 49,
-      "notes": 1100,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-07T14:49:42+09:00"
+      "bestExScore": 1465
     }
   ],
   "results": [
@@ -7245,7 +8038,7 @@
     },
     {
       "id": "play-20261107-117025247d088ecc",
-      "title": "夏色DIARY -L.E.D.-G STYLE MIX-",
+      "title": "夏色DIARY - L.E.D.-G STYLE MIX -",
       "difficulty": "H",
       "level": 10,
       "date": "2026-11-07",
@@ -7405,7 +8198,7 @@
     },
     {
       "id": "play-20261107-a1bcd74ec8e500e5",
-      "title": "Miracle Sympho X",
+      "title": "Miracle 5ympho X",
       "difficulty": "A",
       "level": 10,
       "date": "2026-11-07",
@@ -7756,6 +8549,6 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "baselineAsOf": "2026-11-04",
-  "dataVersion": "2026-11-07.20782944bd94"
+  "dataVersion": "2026-11-07.6702cc215d2d",
+  "baselineAsOf": "2026-11-04"
 }
