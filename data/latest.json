@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-08",
-  "generatedAt": "2026-11-07T14:37:35.369759+00:00",
+  "snapshotAsOf": "2026-11-09",
+  "generatedAt": "2026-11-09T03:20:53.099940+00:00",
   "charts": [
     {
       "title": "With your Smile",
@@ -480,6 +480,17 @@
       "bestExScore": 1474
     },
     {
+      "title": "Hurry Hurry",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1073",
+      "pgreat": "381",
+      "great": "311",
+      "dj_level": "C",
+      "bestExScore": 1073
+    },
+    {
       "title": "I FIGHT ME",
       "difficulty": "A",
       "level": 9,
@@ -588,6 +599,17 @@
       "great": "218",
       "dj_level": "A",
       "bestExScore": 1312
+    },
+    {
+      "title": "Mel",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1307",
+      "pgreat": "492",
+      "great": "323",
+      "dj_level": "B",
+      "bestExScore": 1307
     },
     {
       "title": "Memorylust",
@@ -1840,6 +1862,17 @@
       "bestExScore": 1167
     },
     {
+      "title": "Akatsuki",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1563",
+      "pgreat": "602",
+      "great": "359",
+      "dj_level": "A",
+      "bestExScore": 1563
+    },
+    {
       "title": "Almace",
       "difficulty": "A",
       "level": 10,
@@ -2859,6 +2892,17 @@
       "bestExScore": 1374
     },
     {
+      "title": "Follow Tomorrow",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1306",
+      "pgreat": "475",
+      "great": "356",
+      "dj_level": "B",
+      "bestExScore": 1306
+    },
+    {
       "title": "Forgetting Machine",
       "difficulty": "A",
       "level": 10,
@@ -3046,6 +3090,17 @@
       "bestExScore": 1129
     },
     {
+      "title": "HAPPY☆ANGEL",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1329",
+      "pgreat": "504",
+      "great": "321",
+      "dj_level": "B",
+      "bestExScore": 1329
+    },
+    {
       "title": "HEARTACHE",
       "difficulty": "A",
       "level": 10,
@@ -3090,6 +3145,17 @@
       "bestExScore": 1339
     },
     {
+      "title": "Hat Surprise (Season 3)",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1385",
+      "pgreat": "521",
+      "great": "343",
+      "dj_level": "B",
+      "bestExScore": 1385
+    },
+    {
       "title": "Here We Are",
       "difficulty": "A",
       "level": 10,
@@ -3110,6 +3176,17 @@
       "great": "436",
       "dj_level": "B",
       "bestExScore": 1582
+    },
+    {
+      "title": "Hold My Hand",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1607",
+      "pgreat": "619",
+      "great": "369",
+      "dj_level": "B",
+      "bestExScore": 1607
     },
     {
       "title": "Hollywood Galaxy",
@@ -3752,6 +3829,17 @@
       "bestExScore": 887
     },
     {
+      "title": "Neonlights",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1225",
+      "pgreat": "465",
+      "great": "295",
+      "dj_level": "C",
+      "bestExScore": 1225
+    },
+    {
       "title": "New Castle Legions",
       "difficulty": "H",
       "level": 10,
@@ -3880,6 +3968,17 @@
       "bestExScore": 1312
     },
     {
+      "title": "OTENAMI Hurricane",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1243",
+      "pgreat": "447",
+      "great": "349",
+      "dj_level": "C",
+      "bestExScore": 1243
+    },
+    {
       "title": "OUTER PLANETS",
       "difficulty": "A",
       "level": 10,
@@ -3900,6 +3999,17 @@
       "great": "332",
       "dj_level": "C",
       "bestExScore": 1112
+    },
+    {
+      "title": "Ocean Blue feat. Luschel",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1490",
+      "pgreat": "549",
+      "great": "392",
+      "dj_level": "B",
+      "bestExScore": 1490
     },
     {
       "title": "Odin",
@@ -3955,6 +4065,28 @@
       "great": "395",
       "dj_level": "B",
       "bestExScore": 1509
+    },
+    {
+      "title": "POODLE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1247",
+      "pgreat": "458",
+      "great": "331",
+      "dj_level": "C",
+      "bestExScore": 1247
+    },
+    {
+      "title": "Piano Samurai",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1526",
+      "pgreat": "578",
+      "great": "370",
+      "dj_level": "B",
+      "bestExScore": 1526
     },
     {
       "title": "Pink Rose",
@@ -4043,6 +4175,17 @@
       "great": "363",
       "dj_level": "B",
       "bestExScore": 1467
+    },
+    {
+      "title": "RINNE",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1395",
+      "pgreat": "522",
+      "great": "351",
+      "dj_level": "B",
+      "bestExScore": 1395
     },
     {
       "title": "Rainbow after snow",
@@ -4638,12 +4781,12 @@
       "title": "THE SAFARI",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "998",
-      "pgreat": "378",
-      "great": "242",
-      "dj_level": "C",
-      "bestExScore": 998
+      "lamp": "EASY",
+      "ex_score": "1005",
+      "pgreat": "372",
+      "great": "261",
+      "dj_level": "B",
+      "bestExScore": 1005
     },
     {
       "title": "TITANIUM RIDERS",
@@ -4851,6 +4994,17 @@
       "bestExScore": 1594
     },
     {
+      "title": "Vairocana",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "990",
+      "pgreat": "353",
+      "great": "284",
+      "dj_level": "C",
+      "bestExScore": 990
+    },
+    {
       "title": "Verflucht",
       "difficulty": "H",
       "level": 10,
@@ -5012,6 +5166,17 @@
       "bestExScore": 1552
     },
     {
+      "title": "Xperanza",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1444",
+      "pgreat": "515",
+      "great": "414",
+      "dj_level": "B",
+      "bestExScore": 1444
+    },
+    {
       "title": "YAKSHA",
       "difficulty": "H",
       "level": 10,
@@ -5109,6 +5274,17 @@
       "great": "308",
       "dj_level": "C",
       "bestExScore": 1030
+    },
+    {
+      "title": "beatAffection",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1532",
+      "pgreat": "568",
+      "great": "396",
+      "dj_level": "B",
+      "bestExScore": 1532
     },
     {
       "title": "being torn the sky",
@@ -5338,6 +5514,28 @@
       "bestExScore": 1350
     },
     {
+      "title": "oratio",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1086",
+      "pgreat": "402",
+      "great": "282",
+      "dj_level": "C",
+      "bestExScore": 1086
+    },
+    {
+      "title": "ra'am",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "986",
+      "pgreat": "352",
+      "great": "282",
+      "dj_level": "C",
+      "bestExScore": 986
+    },
+    {
       "title": "rainbow rainbow",
       "difficulty": "H",
       "level": 10,
@@ -5409,6 +5607,17 @@
       "great": "364",
       "dj_level": "C",
       "bestExScore": 1420
+    },
+    {
+      "title": "suspicions",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1347",
+      "pgreat": "505",
+      "great": "337",
+      "dj_level": "B",
+      "bestExScore": 1347
     },
     {
       "title": "traces",
@@ -5882,6 +6091,17 @@
       "great": "376",
       "dj_level": "C",
       "bestExScore": 1316
+    },
+    {
+      "title": "シル・ヴ・プレジデント",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1272",
+      "pgreat": "501",
+      "great": "270",
+      "dj_level": "A",
+      "bestExScore": 1272
     },
     {
       "title": "スキッテイエェエエェ!!!!",
@@ -6366,6 +6586,17 @@
       "great": "375",
       "dj_level": "B",
       "bestExScore": 1387
+    },
+    {
+      "title": "弾幕信仰",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1510",
+      "pgreat": "567",
+      "great": "376",
+      "dj_level": "B",
+      "bestExScore": 1510
     },
     {
       "title": "恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)",
@@ -7365,6 +7596,17 @@
       "bestExScore": 1392
     },
     {
+      "title": "PILGRIM",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1506",
+      "pgreat": "546",
+      "great": "414",
+      "dj_level": "C",
+      "bestExScore": 1506
+    },
+    {
       "title": "Plea Per Phase",
       "difficulty": "A",
       "level": 11,
@@ -7451,6 +7693,17 @@
       "great": "424",
       "dj_level": "C",
       "bestExScore": 1428
+    },
+    {
+      "title": "STOIC HYPOTHESIS",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1466",
+      "pgreat": "549",
+      "great": "368",
+      "dj_level": "C",
+      "bestExScore": 1466
     },
     {
       "title": "Sakura Reflection",
@@ -7768,6 +8021,17 @@
       "bestExScore": 0
     },
     {
+      "title": "メルト CPK! Remix (初音ミク ver.)",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1713",
+      "pgreat": "651",
+      "great": "411",
+      "dj_level": "B",
+      "bestExScore": 1713
+    },
+    {
       "title": "ユミル",
       "difficulty": "A",
       "level": 11,
@@ -7788,6 +8052,17 @@
       "great": "452",
       "dj_level": "C",
       "bestExScore": 1456
+    },
+    {
+      "title": "ランカーキラーガール",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1640",
+      "pgreat": "614",
+      "great": "412",
+      "dj_level": "C",
+      "bestExScore": 1640
     },
     {
       "title": "九十九ノ恋結ビ",
@@ -7905,138 +8180,6 @@
       "great": "403",
       "dj_level": "C",
       "bestExScore": 1465
-    },
-    {
-      "title": "HAPPY☆ANGEL",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1329",
-      "pgreat": "504",
-      "great": "321",
-      "dj_level": "B",
-      "bestExScore": 1329
-    },
-    {
-      "title": "Hold My Hand",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1607",
-      "pgreat": "619",
-      "great": "369",
-      "dj_level": "B",
-      "bestExScore": 1607
-    },
-    {
-      "title": "シル・ヴ・プレジデント",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1272",
-      "pgreat": "501",
-      "great": "270",
-      "dj_level": "A",
-      "bestExScore": 1272
-    },
-    {
-      "title": "メルト CPK! Remix (初音ミク ver.)",
-      "difficulty": "A",
-      "level": 11,
-      "lamp": "EASY",
-      "ex_score": "1713",
-      "pgreat": "651",
-      "great": "411",
-      "dj_level": "B",
-      "bestExScore": 1713
-    },
-    {
-      "title": "Akatsuki",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1563",
-      "pgreat": "602",
-      "great": "359",
-      "dj_level": "A",
-      "bestExScore": 1563
-    },
-    {
-      "title": "suspicions",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1347",
-      "pgreat": "505",
-      "great": "337",
-      "dj_level": "B",
-      "bestExScore": 1347
-    },
-    {
-      "title": "STOIC HYPOTHESIS",
-      "difficulty": "A",
-      "level": 11,
-      "lamp": "FAILED",
-      "ex_score": "1466",
-      "pgreat": "549",
-      "great": "368",
-      "dj_level": "C",
-      "bestExScore": 1466
-    },
-    {
-      "title": "Follow Tomorrow",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1306",
-      "pgreat": "475",
-      "great": "356",
-      "dj_level": "B",
-      "bestExScore": 1306
-    },
-    {
-      "title": "Piano Samurai",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1526",
-      "pgreat": "578",
-      "great": "370",
-      "dj_level": "B",
-      "bestExScore": 1526
-    },
-    {
-      "title": "PILGRIM",
-      "difficulty": "A",
-      "level": 11,
-      "lamp": "EASY",
-      "ex_score": "1506",
-      "pgreat": "546",
-      "great": "414",
-      "dj_level": "C",
-      "bestExScore": 1506
-    },
-    {
-      "title": "Vairocana",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "990",
-      "pgreat": "353",
-      "great": "284",
-      "dj_level": "C",
-      "bestExScore": 990
-    },
-    {
-      "title": "ランカーキラーガール",
-      "difficulty": "A",
-      "level": 11,
-      "lamp": "FAILED",
-      "ex_score": "1640",
-      "pgreat": "614",
-      "great": "412",
-      "dj_level": "C",
-      "bestExScore": 1640
     }
   ],
   "results": [
@@ -9225,6 +9368,6 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-08.994475b14096",
+  "dataVersion": "2026-11-09.3c0820c4eb89",
   "baselineAsOf": "2026-11-04"
 }
