@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-09",
-  "generatedAt": "2026-11-09T09:28:38.804817+00:00",
+  "snapshotAsOf": "2026-11-10",
+  "generatedAt": "2026-11-09T18:11:21.271813+00:00",
   "charts": [
     {
       "title": "With your Smile",
@@ -874,6 +874,23 @@
       "great": "272",
       "dj_level": "B",
       "bestExScore": 1102
+    },
+    {
+      "title": "Voxane",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1219",
+      "pgreat": "470",
+      "great": "279",
+      "dj_level": "A",
+      "bestExScore": 1219,
+      "bestMissCount": 23,
+      "lastExScore": 1219,
+      "lastMissCount": 23,
+      "lastPlayedAt": "2026-11-09T18:03:22+09:00",
+      "notes": 881,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Watch out!!",
@@ -2428,6 +2445,23 @@
       "great": "329",
       "dj_level": "A",
       "bestExScore": 1549
+    },
+    {
+      "title": "Colors -Y&Co. Eurobeat Remix-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1158",
+      "pgreat": "429",
+      "great": "300",
+      "dj_level": "C",
+      "bestExScore": 1158,
+      "bestMissCount": 84,
+      "lastExScore": 1158,
+      "lastMissCount": 84,
+      "lastPlayedAt": "2026-11-09T18:06:08+09:00",
+      "notes": 1100,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Concertino in Blue",
@@ -4292,6 +4326,17 @@
       "great": "363",
       "dj_level": "B",
       "bestExScore": 1343
+    },
+    {
+      "title": "Resonant",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1409",
+      "pgreat": "528",
+      "great": "353",
+      "dj_level": "B",
+      "bestExScore": 1409
     },
     {
       "title": "Rewind Time",
@@ -8180,40 +8225,6 @@
       "great": "403",
       "dj_level": "C",
       "bestExScore": 1465
-    },
-    {
-      "title": "Voxane",
-      "difficulty": "A",
-      "level": 9,
-      "lamp": "EASY",
-      "ex_score": "1219",
-      "pgreat": "470",
-      "great": "279",
-      "dj_level": "A",
-      "bestExScore": 1219,
-      "bestMissCount": 23,
-      "lastExScore": 1219,
-      "lastMissCount": 23,
-      "lastPlayedAt": "2026-11-09T18:03:22+09:00",
-      "notes": 881,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
-    },
-    {
-      "title": "Colors -Y&Co. Eurobeat Remix-",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1158",
-      "pgreat": "429",
-      "great": "300",
-      "dj_level": "C",
-      "bestExScore": 1158,
-      "bestMissCount": 84,
-      "lastExScore": 1158,
-      "lastMissCount": 84,
-      "lastPlayedAt": "2026-11-09T18:06:08+09:00",
-      "notes": 1100,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     }
   ],
   "results": [
@@ -9466,6 +9477,6 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-09.013e7a52162f",
+  "dataVersion": "2026-11-10.2cb48652b29d",
   "baselineAsOf": "2026-11-04"
 }
