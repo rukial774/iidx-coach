@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-10",
-  "generatedAt": "2026-11-10T11:52:53.196816+00:00",
+  "snapshotAsOf": "2026-11-11",
+  "generatedAt": "2026-11-10T18:22:50.414263+00:00",
   "charts": [
     {
       "title": "With your Smile",
@@ -438,6 +438,17 @@
       "great": "246",
       "dj_level": "B",
       "bestExScore": 1106
+    },
+    {
+      "title": "Freezing atmosphere",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "922",
+      "pgreat": "338",
+      "great": "246",
+      "dj_level": "B",
+      "bestExScore": 922
     },
     {
       "title": "GENERATED GRID",
@@ -1714,6 +1725,22 @@
       "bestExScore": 1494
     },
     {
+      "title": "AKASHIC BREAK",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1378",
+      "pgreat": "500",
+      "great": "378",
+      "dj_level": "C",
+      "bestExScore": 1378,
+      "bestMissCount": 106,
+      "lastExScore": 1378,
+      "lastMissCount": 106,
+      "notes": 1243,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
       "title": "ALBIDA",
       "difficulty": "H",
       "level": 10,
@@ -1800,6 +1827,20 @@
       "great": "0",
       "dj_level": "---",
       "bestExScore": 0
+    },
+    {
+      "title": "AO-1",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1165",
+      "pgreat": "424",
+      "great": "317",
+      "dj_level": "B",
+      "bestExScore": 1165,
+      "bestMissCount": 62,
+      "lastExScore": 1165,
+      "lastMissCount": 62
     },
     {
       "title": "AWA AWA",
@@ -3818,6 +3859,50 @@
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
+      "title": "Music is The Answer",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1079",
+      "pgreat": "401",
+      "great": "277",
+      "dj_level": "C",
+      "bestExScore": 1079,
+      "bestMissCount": 84,
+      "lastExScore": 1079,
+      "lastMissCount": 84
+    },
+    {
+      "title": "NEBULA GRASPER",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1412",
+      "pgreat": "530",
+      "great": "352",
+      "dj_level": "B",
+      "bestExScore": 1412,
+      "bestMissCount": 64,
+      "lastExScore": 1412,
+      "lastMissCount": 64
+    },
+    {
+      "title": "NEEDLESS MY LOVE FOR YOU",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1606",
+      "pgreat": "614",
+      "great": "378",
+      "dj_level": "B",
+      "bestExScore": 1606,
+      "bestMissCount": 45,
+      "lastExScore": 1606,
+      "lastMissCount": 45,
+      "notes": 1224,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
       "title": "NEW SENSATION -もう、あなたしか見えない-",
       "difficulty": "H",
       "level": 10,
@@ -4140,6 +4225,20 @@
       "bestExScore": 982
     },
     {
+      "title": "Power of Love",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1320",
+      "pgreat": "491",
+      "great": "338",
+      "dj_level": "B",
+      "bestExScore": 1320,
+      "bestMissCount": 33,
+      "lastExScore": 1320,
+      "lastMissCount": 33
+    },
+    {
       "title": "Praludium",
       "difficulty": "A",
       "level": 10,
@@ -4259,6 +4358,22 @@
       "great": "387",
       "dj_level": "B",
       "bestExScore": 1291
+    },
+    {
+      "title": "Rave Patroller",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1378",
+      "pgreat": "491",
+      "great": "396",
+      "dj_level": "B",
+      "bestExScore": 1378,
+      "bestMissCount": 57,
+      "lastExScore": 1378,
+      "lastMissCount": 57,
+      "notes": 1189,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "Re:GENERATION",
@@ -4570,6 +4685,20 @@
       "bestExScore": 1311
     },
     {
+      "title": "Saturn",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1168",
+      "pgreat": "429",
+      "great": "310",
+      "dj_level": "B",
+      "bestExScore": 1168,
+      "bestMissCount": 84,
+      "lastExScore": 1168,
+      "lastMissCount": 84
+    },
+    {
       "title": "Scripted Connection⇒ H mix",
       "difficulty": "H",
       "level": 10,
@@ -4812,6 +4941,20 @@
       "bestExScore": 1245
     },
     {
+      "title": "THE CANNONBALLER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1523",
+      "pgreat": "572",
+      "great": "379",
+      "dj_level": "B",
+      "bestExScore": 1523,
+      "bestMissCount": 32,
+      "lastExScore": 1523,
+      "lastMissCount": 32
+    },
+    {
       "title": "THE DAY OF JUBILATIONS",
       "difficulty": "H",
       "level": 10,
@@ -4891,6 +5034,22 @@
       "lastExScore": 1458,
       "lastMissCount": 44,
       "notes": 1229,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
+      "title": "The Last Apocalypse",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1573",
+      "pgreat": "589",
+      "great": "395",
+      "dj_level": "B",
+      "bestExScore": 1573,
+      "bestMissCount": 44,
+      "lastExScore": 1573,
+      "lastMissCount": 44,
+      "notes": 1276,
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
@@ -5728,6 +5887,20 @@
       "bestExScore": 1310
     },
     {
+      "title": "ΕΛΠΙΣ",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1223",
+      "pgreat": "454",
+      "great": "315",
+      "dj_level": "B",
+      "bestExScore": 1223,
+      "bestMissCount": 70,
+      "lastExScore": 1223,
+      "lastMissCount": 70
+    },
+    {
       "title": "ΛИ0MΛLY",
       "difficulty": "H",
       "level": 10,
@@ -5825,6 +5998,22 @@
       "great": "361",
       "dj_level": "B",
       "bestExScore": 1293
+    },
+    {
+      "title": "きゅうくらりん",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1552",
+      "pgreat": "587",
+      "great": "378",
+      "dj_level": "B",
+      "bestExScore": 1552,
+      "bestMissCount": 19,
+      "lastExScore": 1552,
+      "lastMissCount": 19,
+      "notes": 1203,
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "きゅんです。",
@@ -8271,184 +8460,6 @@
       "great": "403",
       "dj_level": "C",
       "bestExScore": 1465
-    },
-    {
-      "title": "AKASHIC BREAK",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1378",
-      "pgreat": "500",
-      "great": "378",
-      "dj_level": "C",
-      "bestExScore": 1378,
-      "bestMissCount": 106,
-      "lastExScore": 1378,
-      "lastMissCount": 106,
-      "notes": 1243,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
-    },
-    {
-      "title": "The Last Apocalypse",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1573",
-      "pgreat": "589",
-      "great": "395",
-      "dj_level": "B",
-      "bestExScore": 1573,
-      "bestMissCount": 44,
-      "lastExScore": 1573,
-      "lastMissCount": 44,
-      "notes": 1276,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
-    },
-    {
-      "title": "Music is The Answer",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1079",
-      "pgreat": "401",
-      "great": "277",
-      "dj_level": "C",
-      "bestExScore": 1079,
-      "bestMissCount": 84,
-      "lastExScore": 1079,
-      "lastMissCount": 84
-    },
-    {
-      "title": "Saturn",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1168",
-      "pgreat": "429",
-      "great": "310",
-      "dj_level": "B",
-      "bestExScore": 1168,
-      "bestMissCount": 84,
-      "lastExScore": 1168,
-      "lastMissCount": 84
-    },
-    {
-      "title": "きゅうくらりん",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1552",
-      "pgreat": "587",
-      "great": "378",
-      "dj_level": "B",
-      "bestExScore": 1552,
-      "bestMissCount": 19,
-      "lastExScore": 1552,
-      "lastMissCount": 19,
-      "notes": 1203,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
-    },
-    {
-      "title": "Power of Love",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1320",
-      "pgreat": "491",
-      "great": "338",
-      "dj_level": "B",
-      "bestExScore": 1320,
-      "bestMissCount": 33,
-      "lastExScore": 1320,
-      "lastMissCount": 33
-    },
-    {
-      "title": "Rave Patroller",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1378",
-      "pgreat": "491",
-      "great": "396",
-      "dj_level": "B",
-      "bestExScore": 1378,
-      "bestMissCount": 57,
-      "lastExScore": 1378,
-      "lastMissCount": 57,
-      "notes": 1189,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
-    },
-    {
-      "title": "NEEDLESS MY LOVE FOR YOU",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1606",
-      "pgreat": "614",
-      "great": "378",
-      "dj_level": "B",
-      "bestExScore": 1606,
-      "bestMissCount": 45,
-      "lastExScore": 1606,
-      "lastMissCount": 45,
-      "notes": 1224,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
-    },
-    {
-      "title": "THE CANNONBALLER",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1523",
-      "pgreat": "572",
-      "great": "379",
-      "dj_level": "B",
-      "bestExScore": 1523,
-      "bestMissCount": 32,
-      "lastExScore": 1523,
-      "lastMissCount": 32
-    },
-    {
-      "title": "ΕΛΠΙΣ",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1223",
-      "pgreat": "454",
-      "great": "315",
-      "dj_level": "B",
-      "bestExScore": 1223,
-      "bestMissCount": 70,
-      "lastExScore": 1223,
-      "lastMissCount": 70
-    },
-    {
-      "title": "NEBULA GRASPER",
-      "difficulty": "A",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1412",
-      "pgreat": "530",
-      "great": "352",
-      "dj_level": "B",
-      "bestExScore": 1412,
-      "bestMissCount": 64,
-      "lastExScore": 1412,
-      "lastMissCount": 64
-    },
-    {
-      "title": "AO-1",
-      "difficulty": "H",
-      "level": 10,
-      "lamp": "EASY",
-      "ex_score": "1165",
-      "pgreat": "424",
-      "great": "317",
-      "dj_level": "B",
-      "bestExScore": 1165,
-      "bestMissCount": 62,
-      "lastExScore": 1165,
-      "lastMissCount": 62
     }
   ],
   "results": [
@@ -10437,6 +10448,6 @@
       "memo": "撮影リザルトを本人依頼により反映。曲名は本人確認済み。"
     }
   ],
-  "dataVersion": "2026-11-10.5dead3446324",
+  "dataVersion": "2026-11-11.066cbdbc64a9",
   "baselineAsOf": "2026-11-04"
 }
