@@ -3,7 +3,7 @@
   "profile": {
     "style": "SP",
     "side": "1P",
-    "rank": "七段",
+    "rank": "八段",
     "target": "九段",
     "version": "IIDX 34 ZINRAI",
     "defaultOption": "正規",
@@ -11448,6 +11448,40 @@
       "targetMax": 55
     }
   },
+  "danAttempts": [
+    {
+      "course": "九段",
+      "date": "2026-11-14",
+      "result": "不合格",
+      "rate": 25,
+      "stages": [
+        {
+          "title": "20XX",
+          "difficulty": "A",
+          "gauge": 10,
+          "clearRate": 40
+        },
+        {
+          "title": "TRIP THE DEEP",
+          "difficulty": "A",
+          "gauge": 6,
+          "clearRate": 40
+        },
+        {
+          "title": "旅人リラン",
+          "difficulty": "A",
+          "gauge": 0,
+          "clearRate": 23
+        },
+        {
+          "title": "The Sampling Paradise",
+          "difficulty": "A",
+          "gauge": 0,
+          "clearRate": 0
+        }
+      ]
+    }
+  ],
   "results": [
     {
       "id": "seed-1",
