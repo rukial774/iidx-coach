@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-16",
-  "generatedAt": "2026-11-16T13:05:26.800070+00:00",
+  "snapshotAsOf": "2026-11-17",
+  "generatedAt": "2026-11-17T03:37:24.607045+00:00",
   "charts": [
     {
       "title": "With your Smile",
@@ -2074,6 +2074,17 @@
       "bestExScore": 1312
     },
     {
+      "title": "BABY LOVE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1392",
+      "pgreat": "548",
+      "great": "296",
+      "dj_level": "B",
+      "bestExScore": 1392
+    },
+    {
       "title": "BEAUTIFUL ANGEL",
       "difficulty": "A",
       "level": 10,
@@ -2665,6 +2676,17 @@
       "bestExScore": 1243
     },
     {
+      "title": "Dances with Snow Fairies",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1308",
+      "pgreat": "494",
+      "great": "320",
+      "dj_level": "B",
+      "bestExScore": 1308
+    },
+    {
       "title": "Dazzlin' Darlin",
       "difficulty": "A",
       "level": 10,
@@ -3039,6 +3061,17 @@
       "bestExScore": 988
     },
     {
+      "title": "Freeway Shuffle",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1009",
+      "pgreat": "364",
+      "great": "281",
+      "dj_level": "C",
+      "bestExScore": 1009
+    },
+    {
       "title": "Frisk And Squeak",
       "difficulty": "A",
       "level": 10,
@@ -3279,6 +3312,17 @@
       "great": "343",
       "dj_level": "B",
       "bestExScore": 1385
+    },
+    {
+      "title": "Heavenly Sun (IIDX VERSION)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1281",
+      "pgreat": "480",
+      "great": "321",
+      "dj_level": "B",
+      "bestExScore": 1281
     },
     {
       "title": "Here We Are",
@@ -4371,6 +4415,17 @@
       "bestExScore": 1467
     },
     {
+      "title": "RESISTANCE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1590",
+      "pgreat": "631",
+      "great": "328",
+      "dj_level": "B",
+      "bestExScore": 1590
+    },
+    {
       "title": "RINNE",
       "difficulty": "H",
       "level": 10,
@@ -4542,6 +4597,17 @@
       "bestExScore": 1262
     },
     {
+      "title": "Rise'n Beauty",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1307",
+      "pgreat": "496",
+      "great": "315",
+      "dj_level": "B",
+      "bestExScore": 1307
+    },
+    {
       "title": "Roar of Chronos",
       "difficulty": "H",
       "level": 10,
@@ -4672,6 +4738,17 @@
       "great": "323",
       "dj_level": "C",
       "bestExScore": 1127
+    },
+    {
+      "title": "SOMETHING WONDERFUL",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1174",
+      "pgreat": "432",
+      "great": "310",
+      "dj_level": "B",
+      "bestExScore": 1174
     },
     {
       "title": "SOUND OF GIALLARHORN",
@@ -4919,6 +4996,17 @@
       "bestExScore": 1292
     },
     {
+      "title": "Stereo Beasts",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1577",
+      "pgreat": "598",
+      "great": "381",
+      "dj_level": "B",
+      "bestExScore": 1577
+    },
+    {
       "title": "Sugarplum",
       "difficulty": "A",
       "level": 10,
@@ -5041,6 +5129,17 @@
       "great": "383",
       "dj_level": "B",
       "bestExScore": 1573
+    },
+    {
+      "title": "THE DETONATOR",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1577",
+      "pgreat": "595",
+      "great": "387",
+      "dj_level": "B",
+      "bestExScore": 1577
     },
     {
       "title": "THE F∀UST",
@@ -5207,6 +5306,17 @@
       "bestExScore": 1119
     },
     {
+      "title": "Tizona d'El Cid",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1301",
+      "pgreat": "469",
+      "great": "363",
+      "dj_level": "C",
+      "bestExScore": 1301
+    },
+    {
       "title": "Tori-no-kimochi",
       "difficulty": "A",
       "level": 10,
@@ -5322,11 +5432,11 @@
       "difficulty": "H",
       "level": 10,
       "lamp": "EASY",
-      "ex_score": "1243",
-      "pgreat": "461",
-      "great": "321",
+      "ex_score": "1255",
+      "pgreat": "469",
+      "great": "317",
       "dj_level": "B",
-      "bestExScore": 1243
+      "bestExScore": 1255
     },
     {
       "title": "Vermilion",
@@ -5910,13 +6020,13 @@
       "title": "smooooch・∀・",
       "difficulty": "A",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1350",
+      "lamp": "EASY",
+      "ex_score": "1362",
       "pgreat": "517",
-      "great": "316",
+      "great": "328",
       "dj_level": "B",
       "baselineLamp": "FAILED",
-      "bestExScore": 1350,
+      "bestExScore": 1362,
       "bestMissCount": 80,
       "lastExScore": 1350,
       "lastMissCount": 80,
@@ -6494,6 +6604,17 @@
       "bestExScore": 1501
     },
     {
+      "title": "デビルじゃないもん",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1275",
+      "pgreat": "474",
+      "great": "327",
+      "dj_level": "B",
+      "bestExScore": 1275
+    },
+    {
       "title": "デラむぅのでらっくす☆どり～むぅ",
       "difficulty": "A",
       "level": 10,
@@ -6901,6 +7022,17 @@
       "bestExScore": 1402
     },
     {
+      "title": "夏風邪デスコ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1563",
+      "pgreat": "568",
+      "great": "427",
+      "dj_level": "B",
+      "bestExScore": 1563
+    },
+    {
       "title": "夢縁",
       "difficulty": "H",
       "level": 10,
@@ -6932,6 +7064,17 @@
       "great": "279",
       "dj_level": "C",
       "bestExScore": 975
+    },
+    {
+      "title": "少女アリスと箱庭幻想コンチェルト",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1154",
+      "pgreat": "438",
+      "great": "278",
+      "dj_level": "C",
+      "bestExScore": 1154
     },
     {
       "title": "少年A",
@@ -7179,6 +7322,17 @@
       "great": "322",
       "dj_level": "B",
       "bestExScore": 1332
+    },
+    {
+      "title": "朱と碧のランページ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1608",
+      "pgreat": "613",
+      "great": "382",
+      "dj_level": "B",
+      "bestExScore": 1608
     },
     {
       "title": "楽園追放",
@@ -7588,6 +7742,17 @@
       "bestExScore": 1208
     },
     {
+      "title": "電子になりたい",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1211",
+      "pgreat": "451",
+      "great": "309",
+      "dj_level": "B",
+      "bestExScore": 1211
+    },
+    {
       "title": "電腦都市",
       "difficulty": "H",
       "level": 10,
@@ -7608,6 +7773,17 @@
       "great": "289",
       "dj_level": "B",
       "bestExScore": 1179
+    },
+    {
+      "title": "露照陀仏",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1395",
+      "pgreat": "521",
+      "great": "353",
+      "dj_level": "B",
+      "bestExScore": 1395
     },
     {
       "title": "霹靂",
@@ -7729,11 +7905,11 @@
       "difficulty": "A",
       "level": 11,
       "lamp": "FAILED",
-      "ex_score": "1352",
-      "pgreat": "492",
-      "great": "368",
-      "dj_level": "C",
-      "bestExScore": 1352
+      "ex_score": "1432",
+      "pgreat": "536",
+      "great": "360",
+      "dj_level": "B",
+      "bestExScore": 1432
     },
     {
       "title": "BROKEN EDEN",
@@ -8165,11 +8341,11 @@
       "difficulty": "A",
       "level": 11,
       "lamp": "FAILED",
-      "ex_score": "1466",
-      "pgreat": "549",
-      "great": "368",
+      "ex_score": "1559",
+      "pgreat": "588",
+      "great": "383",
       "dj_level": "C",
-      "bestExScore": 1466
+      "bestExScore": 1559
     },
     {
       "title": "Sakura Reflection",
@@ -10992,6 +11168,6 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-16.c73f6908bd01",
+  "dataVersion": "2026-11-17.d23136dda7aa",
   "baselineAsOf": "2026-11-04"
 }
