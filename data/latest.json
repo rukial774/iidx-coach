@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-18",
-  "generatedAt": "2026-11-18T12:44:45.106230+00:00",
+  "snapshotAsOf": "2026-11-19",
+  "generatedAt": "2026-11-18T18:20:11.446806+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -1654,6 +1654,17 @@
       "bestExScore": 926
     },
     {
+      "title": "8bit Princess",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1839",
+      "pgreat": "735",
+      "great": "369",
+      "dj_level": "A",
+      "bestExScore": 1839
+    },
+    {
       "title": "A",
       "difficulty": "H",
       "level": 10,
@@ -2133,7 +2144,7 @@
       "title": "BLACK.by X-Cross Fade",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
+      "lamp": "EASY",
       "ex_score": "1267",
       "pgreat": "444",
       "great": "379",
@@ -2328,6 +2339,17 @@
       "bestExScore": 1135
     },
     {
+      "title": "Bloody Tears(IIDX EDITION)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1409",
+      "pgreat": "534",
+      "great": "341",
+      "dj_level": "B",
+      "bestExScore": 1409
+    },
+    {
       "title": "Blue Spring Express",
       "difficulty": "H",
       "level": 10,
@@ -2471,6 +2493,17 @@
       "great": "353",
       "dj_level": "C",
       "bestExScore": 1255
+    },
+    {
+      "title": "Central Station",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1313",
+      "pgreat": "459",
+      "great": "395",
+      "dj_level": "C",
+      "bestExScore": 1313
     },
     {
       "title": "Chasing After YOU ～夢の欠片～ ft. 小林マナ",
@@ -3283,6 +3316,17 @@
       "bestExScore": 1129
     },
     {
+      "title": "Good Looking",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1158",
+      "pgreat": "400",
+      "great": "358",
+      "dj_level": "C",
+      "bestExScore": 1158
+    },
+    {
       "title": "HAPPY☆ANGEL",
       "difficulty": "A",
       "level": 10,
@@ -3569,6 +3613,17 @@
       "bestExScore": 1406
     },
     {
+      "title": "Kung-fu Empire",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1518",
+      "pgreat": "536",
+      "great": "446",
+      "dj_level": "B",
+      "bestExScore": 1518
+    },
+    {
       "title": "LADS",
       "difficulty": "A",
       "level": 10,
@@ -3727,6 +3782,17 @@
       "great": "354",
       "dj_level": "B",
       "bestExScore": 1430
+    },
+    {
+      "title": "Light Shine",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1228",
+      "pgreat": "462",
+      "great": "304",
+      "dj_level": "B",
+      "bestExScore": 1228
     },
     {
       "title": "Lisa-RICCIA",
@@ -4470,6 +4536,17 @@
       "great": "351",
       "dj_level": "B",
       "bestExScore": 1395
+    },
+    {
+      "title": "RISE",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1109",
+      "pgreat": "416",
+      "great": "277",
+      "dj_level": "B",
+      "bestExScore": 1109
     },
     {
       "title": "Rainbow after snow",
@@ -5425,6 +5502,17 @@
       "bestExScore": 1046
     },
     {
+      "title": "Umbral",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1220",
+      "pgreat": "454",
+      "great": "312",
+      "dj_level": "B",
+      "bestExScore": 1220
+    },
+    {
       "title": "V",
       "difficulty": "H",
       "level": 10,
@@ -5518,6 +5606,17 @@
       "lastPlayedAt": "2026-11-07T14:44:03+09:00",
       "notes": 1252,
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
+      "title": "Visterhv",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1484",
+      "pgreat": "570",
+      "great": "344",
+      "dj_level": "B",
+      "bestExScore": 1484
     },
     {
       "title": "Voo Doo Bamboleo",
@@ -5628,6 +5727,17 @@
       "great": "358",
       "dj_level": "B",
       "bestExScore": 1552
+    },
+    {
+      "title": "Xb10r",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1494",
+      "pgreat": "574",
+      "great": "346",
+      "dj_level": "B",
+      "bestExScore": 1494
     },
     {
       "title": "Xperanza",
@@ -6964,6 +7074,17 @@
       "bestExScore": 1422
     },
     {
+      "title": "儚キ戀ノ幻想譚",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1353",
+      "pgreat": "484",
+      "great": "385",
+      "dj_level": "B",
+      "bestExScore": 1353
+    },
+    {
       "title": "冥",
       "difficulty": "H",
       "level": 10,
@@ -7611,11 +7732,11 @@
       "difficulty": "A",
       "level": 10,
       "lamp": "FAILED",
-      "ex_score": "1418",
-      "pgreat": "529",
-      "great": "360",
+      "ex_score": "1572",
+      "pgreat": "611",
+      "great": "350",
       "dj_level": "B",
-      "bestExScore": 1418
+      "bestExScore": 1572
     },
     {
       "title": "罪過の聖堂",
@@ -7864,6 +7985,17 @@
       "great": "289",
       "dj_level": "B",
       "bestExScore": 1125
+    },
+    {
+      "title": "鴉",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1535",
+      "pgreat": "586",
+      "great": "363",
+      "dj_level": "A",
+      "bestExScore": 1535
     },
     {
       "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
@@ -8696,9 +8828,9 @@
       "bestMissCount": 113,
       "lastExScore": 1528,
       "lastMissCount": 113,
+      "lastPlayedAt": "2026-11-18T20:46:08+09:00",
       "notes": 1529,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-18T20:46:08+09:00"
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "でんぱ どりる わんにゃー☆三",
@@ -8945,9 +9077,9 @@
       "bestMissCount": 82,
       "lastExScore": 1074,
       "lastMissCount": 86,
+      "lastPlayedAt": "2026-11-18T20:34:18+09:00",
       "notes": 1044,
-      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み",
-      "lastPlayedAt": "2026-11-18T20:34:18+09:00"
+      "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
       "title": "華麗なる！音戯探偵ひなビタ",
@@ -11772,6 +11904,6 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-18.d62919403d20",
+  "dataVersion": "2026-11-19.0f950007b730",
   "baselineAsOf": "2026-11-04"
 }
