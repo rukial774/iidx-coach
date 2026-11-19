@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-19",
-  "generatedAt": "2026-11-19T13:01:17.418891+00:00",
+  "snapshotAsOf": "2026-11-20",
+  "generatedAt": "2026-11-19T18:19:46.913308+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -1577,6 +1577,17 @@
       "bestExScore": 1346
     },
     {
+      "title": "1001 -ESCAPE-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1599",
+      "pgreat": "582",
+      "great": "435",
+      "dj_level": "B",
+      "bestExScore": 1599
+    },
+    {
       "title": "1st Samurai",
       "difficulty": "H",
       "level": 10,
@@ -1635,7 +1646,7 @@
       "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
       "difficulty": "A",
       "level": 10,
-      "lamp": "FAILED",
+      "lamp": "EASY",
       "ex_score": "1585",
       "pgreat": "609",
       "great": "367",
@@ -1880,6 +1891,17 @@
       "bestMissCount": 62,
       "lastExScore": 1165,
       "lastMissCount": 62
+    },
+    {
+      "title": "AO-∞",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1607",
+      "pgreat": "587",
+      "great": "433",
+      "dj_level": "B",
+      "bestExScore": 1607
     },
     {
       "title": "AWA AWA",
@@ -2271,6 +2293,17 @@
       "great": "385",
       "dj_level": "B",
       "bestExScore": 1661
+    },
+    {
+      "title": "Battle Train -IIDX Edition-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1493",
+      "pgreat": "549",
+      "great": "395",
+      "dj_level": "B",
+      "bestExScore": 1493
     },
     {
       "title": "Be OK",
@@ -3239,6 +3272,17 @@
       "bestExScore": 1269
     },
     {
+      "title": "Galaxy Collapse",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1164",
+      "pgreat": "437",
+      "great": "290",
+      "dj_level": "B",
+      "bestExScore": 1164
+    },
+    {
       "title": "Geirskogul",
       "difficulty": "A",
       "level": 10,
@@ -3283,6 +3327,17 @@
       "bestExScore": 1283
     },
     {
+      "title": "GiGaGaHell",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1281",
+      "pgreat": "464",
+      "great": "353",
+      "dj_level": "B",
+      "bestExScore": 1281
+    },
+    {
       "title": "Go Ahead!!",
       "difficulty": "H",
       "level": 10,
@@ -3303,6 +3358,28 @@
       "great": "292",
       "dj_level": "B",
       "bestExScore": 1106
+    },
+    {
+      "title": "Go Faraway",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1550",
+      "pgreat": "575",
+      "great": "400",
+      "dj_level": "B",
+      "bestExScore": 1550
+    },
+    {
+      "title": "God Mind",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1433",
+      "pgreat": "501",
+      "great": "431",
+      "dj_level": "C",
+      "bestExScore": 1433
     },
     {
       "title": "Godspeed",
@@ -3746,6 +3823,17 @@
       "bestExScore": 1063
     },
     {
+      "title": "Let me be your cure",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1577",
+      "pgreat": "552",
+      "great": "473",
+      "dj_level": "B",
+      "bestExScore": 1577
+    },
+    {
       "title": "Level 3",
       "difficulty": "H",
       "level": 10,
@@ -4120,6 +4208,17 @@
       "lastPlayedAt": "2026-11-07T14:24:23+09:00",
       "notes": 1045,
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
+      "title": "NOIXIA",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1422",
+      "pgreat": "531",
+      "great": "360",
+      "dj_level": "B",
+      "bestExScore": 1422
     },
     {
       "title": "NOMAD (feat. らっぷびと)",
@@ -4839,12 +4938,12 @@
       "title": "SOLID STATE SQUAD",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1216",
-      "pgreat": "413",
-      "great": "390",
+      "lamp": "EASY",
+      "ex_score": "1305",
+      "pgreat": "450",
+      "great": "405",
       "dj_level": "C",
-      "bestExScore": 1216
+      "bestExScore": 1305
     },
     {
       "title": "SOLITON BEAM",
@@ -5247,6 +5346,17 @@
       "great": "383",
       "dj_level": "B",
       "bestExScore": 1573
+    },
+    {
+      "title": "THE DEEP STRIKER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1361",
+      "pgreat": "488",
+      "great": "385",
+      "dj_level": "B",
+      "bestExScore": 1361
     },
     {
       "title": "THE DETONATOR",
@@ -5744,6 +5854,17 @@
       "great": "346",
       "dj_level": "B",
       "bestExScore": 1494
+    },
+    {
+      "title": "Xepher",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1328",
+      "pgreat": "501",
+      "great": "326",
+      "dj_level": "B",
+      "bestExScore": 1328
     },
     {
       "title": "Xperanza",
@@ -7146,6 +7267,17 @@
       "bestExScore": 1205
     },
     {
+      "title": "口カラ凸ゲキ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1453",
+      "pgreat": "554",
+      "great": "345",
+      "dj_level": "B",
+      "bestExScore": 1453
+    },
+    {
       "title": "可愛くてごめん",
       "difficulty": "L",
       "level": 10,
@@ -7210,6 +7342,17 @@
       "great": "355",
       "dj_level": "B",
       "bestExScore": 1255
+    },
+    {
+      "title": "天使のカンタータ -Cantata of Angels-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1327",
+      "pgreat": "512",
+      "great": "303",
+      "dj_level": "B",
+      "bestExScore": 1327
     },
     {
       "title": "天空の夜明け",
@@ -7534,6 +7677,17 @@
       "great": "375",
       "dj_level": "B",
       "bestExScore": 1383
+    },
+    {
+      "title": "水上の提督(Short mix from \"幻想水滸伝V\")",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1130",
+      "pgreat": "405",
+      "great": "320",
+      "dj_level": "C",
+      "bestExScore": 1130
     },
     {
       "title": "水無月の雫 ft. 小林まな",
@@ -8573,6 +8727,17 @@
       "great": "376",
       "dj_level": "C",
       "bestExScore": 1340
+    },
+    {
+      "title": "Programmed World",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1162",
+      "pgreat": "421",
+      "great": "320",
+      "dj_level": "C",
+      "bestExScore": 1162
     },
     {
       "title": "Psychedelic Intelligence",
@@ -12138,7 +12303,7 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-19.850aa6d9eb73",
+  "dataVersion": "2026-11-20.f8210674a7b3",
   "baselineAsOf": "2026-11-04",
   "dailyActivity": [
     {
