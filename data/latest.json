@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-20",
-  "generatedAt": "2026-11-20T15:08:59.908055+00:00",
+  "snapshotAsOf": "2026-11-21",
+  "generatedAt": "2026-11-20T18:11:32.780939+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -2064,6 +2064,17 @@
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
+      "title": "Arabian Rave Night",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1437",
+      "pgreat": "530",
+      "great": "377",
+      "dj_level": "B",
+      "bestExScore": 1437
+    },
+    {
       "title": "Arcana",
       "difficulty": "A",
       "level": 10,
@@ -2465,6 +2476,17 @@
       "great": "344",
       "dj_level": "C",
       "bestExScore": 1152
+    },
+    {
+      "title": "COUNTING SHEEP ft. Kanae Asaba",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1462",
+      "pgreat": "586",
+      "great": "290",
+      "dj_level": "B",
+      "bestExScore": 1462
     },
     {
       "title": "CROSSROAD ～Left Story～",
@@ -4508,6 +4530,17 @@
       "bestExScore": 1247
     },
     {
+      "title": "Papilio ulysses",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1358",
+      "pgreat": "508",
+      "great": "342",
+      "dj_level": "B",
+      "bestExScore": 1358
+    },
+    {
       "title": "Piano Samurai",
       "difficulty": "A",
       "level": 10,
@@ -5213,6 +5246,17 @@
       "bestExScore": 1292
     },
     {
+      "title": "Stepper",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1301",
+      "pgreat": "471",
+      "great": "359",
+      "dj_level": "B",
+      "bestExScore": 1301
+    },
+    {
       "title": "Stereo Beasts",
       "difficulty": "H",
       "level": 10,
@@ -5594,6 +5638,17 @@
       "lastPlayedAt": "2026-11-07T14:27:27+09:00",
       "notes": 1166,
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
+    },
+    {
+      "title": "Tropical April",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1497",
+      "pgreat": "569",
+      "great": "359",
+      "dj_level": "B",
+      "bestExScore": 1497
     },
     {
       "title": "Turii ～Panta rhei～",
@@ -8310,6 +8365,17 @@
       "great": "337",
       "dj_level": "C",
       "bestExScore": 1197
+    },
+    {
+      "title": "Chemical Colours",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1573",
+      "pgreat": "572",
+      "great": "429",
+      "dj_level": "C",
+      "bestExScore": 1573
     },
     {
       "title": "Chrono Diver -PENDULUMs-",
@@ -12352,7 +12418,7 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-20.0e4cd5e4c7ca",
+  "dataVersion": "2026-11-21.8ecdb9758a91",
   "baselineAsOf": "2026-11-04",
   "dailyActivity": [
     {
