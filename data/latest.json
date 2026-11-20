@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "snapshotAsOf": "2026-11-20",
-  "generatedAt": "2026-11-19T18:19:46.913308+00:00",
+  "generatedAt": "2026-11-20T15:08:59.908055+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -8751,6 +8751,23 @@
       "bestExScore": 1577
     },
     {
+      "title": "RAVE SYNDROME",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1541",
+      "pgreat": "544",
+      "great": "453",
+      "dj_level": "C",
+      "bestExScore": 1541,
+      "bestMissCount": 74,
+      "lastExScore": 1541,
+      "lastMissCount": 74,
+      "lastPlayedAt": "2026-11-20T19:14:20+09:00",
+      "notes": 1402,
+      "notesSource": "TexTage / BEMANIWiki 2nd（撮影リザルトはレベル表示が欠けていたため公式ノーツ数で補完・コーチ確認済み）"
+    },
+    {
       "title": "Rejection Girl",
       "difficulty": "A",
       "level": 11,
@@ -12301,9 +12318,41 @@
       "source": "verified-photo-transcription",
       "createdAt": "2026-11-19T19:01:01+09:00",
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
+    },
+    {
+      "id": "play-20261120-df659b99a89555a9",
+      "title": "RAVE SYNDROME",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-20",
+      "playedAt": "2026-11-20T19:14:20+09:00",
+      "knownAsOf": "2026-11-20",
+      "datePrecision": "day",
+      "dateSource": "EXIF DateTimeOriginal +09:00",
+      "lamp": "EASY",
+      "previousLamp": "NOPLAY",
+      "exScore": 1541,
+      "djLevel": "C",
+      "bp": 74,
+      "pgreat": 544,
+      "great": 453,
+      "good": 358,
+      "bad": 23,
+      "poor": 51,
+      "fast": 546,
+      "slow": 265,
+      "comboBreak": 47,
+      "option": "正規",
+      "timingMetric": "ALL",
+      "plays": 1,
+      "notes": 1402,
+      "notesSource": "TexTage / BEMANIWiki 2nd（撮影リザルトはレベル表示が欠けていたため公式ノーツ数で補完・コーチ確認済み）",
+      "source": "verified-photo-transcription",
+      "createdAt": "2026-11-20T19:14:20+09:00",
+      "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-20.f8210674a7b3",
+  "dataVersion": "2026-11-20.0e4cd5e4c7ca",
   "baselineAsOf": "2026-11-04",
   "dailyActivity": [
     {
@@ -12315,6 +12364,17 @@
       "keyNotes": 24917,
       "scratchNotes": 1625,
       "totalNotes": 26542,
+      "source": "筐体マイアクティビティ（基本データ）"
+    },
+    {
+      "date": "2026-11-20",
+      "plays": 8,
+      "playTime": "0:16:33",
+      "clearUpdates": 7,
+      "scoreUpdates": 9,
+      "keyNotes": 8442,
+      "scratchNotes": 572,
+      "totalNotes": 9014,
       "source": "筐体マイアクティビティ（基本データ）"
     }
   ]
