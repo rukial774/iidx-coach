@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-21",
-  "generatedAt": "2026-11-20T18:11:32.780939+00:00",
+  "snapshotAsOf": "2026-11-22",
+  "generatedAt": "2026-11-21T18:35:03.612039+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -1588,6 +1588,17 @@
       "bestExScore": 1599
     },
     {
+      "title": "100％ minimoo-G",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1016",
+      "pgreat": "366",
+      "great": "284",
+      "dj_level": "B",
+      "bestExScore": 1016
+    },
+    {
       "title": "1st Samurai",
       "difficulty": "H",
       "level": 10,
@@ -2416,6 +2427,17 @@
       "bestExScore": 1237
     },
     {
+      "title": "Breakin' Chain",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1414",
+      "pgreat": "513",
+      "great": "388",
+      "dj_level": "B",
+      "bestExScore": 1414
+    },
+    {
       "title": "Broken Sword",
       "difficulty": "H",
       "level": 10,
@@ -2548,6 +2570,17 @@
       "great": "353",
       "dj_level": "C",
       "bestExScore": 1255
+    },
+    {
+      "title": "Caterpillar",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1377",
+      "pgreat": "513",
+      "great": "351",
+      "dj_level": "B",
+      "bestExScore": 1377
     },
     {
       "title": "Central Station",
@@ -3099,6 +3132,17 @@
       "great": "277",
       "dj_level": "B",
       "bestExScore": 1209
+    },
+    {
+      "title": "Fegrix",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1377",
+      "pgreat": "502",
+      "great": "373",
+      "dj_level": "B",
+      "bestExScore": 1377
     },
     {
       "title": "Fire Beat",
@@ -4523,11 +4567,11 @@
       "difficulty": "A",
       "level": 10,
       "lamp": "FAILED",
-      "ex_score": "1247",
-      "pgreat": "458",
-      "great": "331",
-      "dj_level": "C",
-      "bestExScore": 1247
+      "ex_score": "1333",
+      "pgreat": "485",
+      "great": "363",
+      "dj_level": "B",
+      "bestExScore": 1333
     },
     {
       "title": "Papilio ulysses",
@@ -5032,6 +5076,17 @@
       "great": "364",
       "dj_level": "B",
       "bestExScore": 1434
+    },
+    {
+      "title": "STARLIGHT JUNCTION",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1343",
+      "pgreat": "489",
+      "great": "365",
+      "dj_level": "B",
+      "bestExScore": 1343
     },
     {
       "title": "STEEL NEEDLE",
@@ -5728,6 +5783,17 @@
       "bestExScore": 990
     },
     {
+      "title": "Venom",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1289",
+      "pgreat": "487",
+      "great": "315",
+      "dj_level": "B",
+      "bestExScore": 1289
+    },
+    {
       "title": "Verflucht",
       "difficulty": "H",
       "level": 10,
@@ -5810,6 +5876,17 @@
       "great": "328",
       "dj_level": "B",
       "bestExScore": 1256
+    },
+    {
+      "title": "WaterCube Pf.(RX-Ver.S.P.L.)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1210",
+      "pgreat": "413",
+      "great": "384",
+      "dj_level": "C",
+      "bestExScore": 1210
     },
     {
       "title": "When I Met U",
@@ -5953,6 +6030,17 @@
       "great": "346",
       "dj_level": "B",
       "bestExScore": 1436
+    },
+    {
+      "title": "You'll say \"Now!\"",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "996",
+      "pgreat": "357",
+      "great": "282",
+      "dj_level": "C",
+      "bestExScore": 996
     },
     {
       "title": "ZEROIN ON THE LIGHT",
@@ -7487,6 +7575,17 @@
       "bestExScore": 1510
     },
     {
+      "title": "怪物",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1645",
+      "pgreat": "635",
+      "great": "375",
+      "dj_level": "A",
+      "bestExScore": 1645
+    },
+    {
       "title": "恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)",
       "difficulty": "H",
       "level": 10,
@@ -8090,6 +8189,17 @@
       "great": "355",
       "dj_level": "B",
       "bestExScore": 1317
+    },
+    {
+      "title": "鉄甲乙女-under the steel-",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1229",
+      "pgreat": "444",
+      "great": "341",
+      "dj_level": "B",
+      "bestExScore": 1229
     },
     {
       "title": "閉塞的フレーション",
@@ -8762,6 +8872,17 @@
       "bestExScore": 1506
     },
     {
+      "title": "Pharaoh",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1314",
+      "pgreat": "475",
+      "great": "364",
+      "dj_level": "C",
+      "bestExScore": 1314
+    },
+    {
       "title": "Plea Per Phase",
       "difficulty": "A",
       "level": 11,
@@ -9352,6 +9473,17 @@
       "great": "373",
       "dj_level": "B",
       "bestExScore": 1401
+    },
+    {
+      "title": "夢色ワンダー",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1769",
+      "pgreat": "638",
+      "great": "493",
+      "dj_level": "C",
+      "bestExScore": 1769
     },
     {
       "title": "旅人リラン",
@@ -12418,7 +12550,7 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-21.8ecdb9758a91",
+  "dataVersion": "2026-11-22.4f0fa04fcc3e",
   "baselineAsOf": "2026-11-04",
   "dailyActivity": [
     {
