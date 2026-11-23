@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-22",
-  "generatedAt": "2026-11-21T18:35:03.612039+00:00",
+  "snapshotAsOf": "2026-11-24",
+  "generatedAt": "2026-11-23T18:18:59.153462+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -530,6 +530,17 @@
       "bestExScore": 1426
     },
     {
+      "title": "I know You know",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1315",
+      "pgreat": "491",
+      "great": "333",
+      "dj_level": "A",
+      "bestExScore": 1315
+    },
+    {
       "title": "IN THE NAME OF LOVE",
       "difficulty": "A",
       "level": 9,
@@ -742,12 +753,12 @@
       "title": "Riff//rain",
       "difficulty": "A",
       "level": 9,
-      "lamp": "EASY",
-      "ex_score": "1267",
-      "pgreat": "492",
-      "great": "283",
+      "lamp": "HARD_UNVERIFIED",
+      "ex_score": "1355",
+      "pgreat": "540",
+      "great": "275",
       "dj_level": "A",
-      "bestExScore": 1267
+      "bestExScore": 1355
     },
     {
       "title": "S-Bahn",
@@ -1368,6 +1379,17 @@
       "bestExScore": 1228
     },
     {
+      "title": "世界の果てに約束の凱歌を -ReUnion-",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "HARD_UNVERIFIED",
+      "ex_score": "1263",
+      "pgreat": "468",
+      "great": "327",
+      "dj_level": "B",
+      "bestExScore": 1263
+    },
+    {
       "title": "九十九ノ恋結ビ",
       "difficulty": "H",
       "level": 9,
@@ -1487,6 +1509,17 @@
       "great": "258",
       "dj_level": "B",
       "bestExScore": 1054
+    },
+    {
+      "title": "真夏の花・真夏の夢",
+      "difficulty": "A",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1022",
+      "pgreat": "350",
+      "great": "322",
+      "dj_level": "A",
+      "bestExScore": 1022
     },
     {
       "title": "真夜中のバベル",
@@ -2036,6 +2069,17 @@
       "bestExScore": 1218
     },
     {
+      "title": "Anisakis -somatic mutation type\"Forza\"-",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1254",
+      "pgreat": "459",
+      "great": "336",
+      "dj_level": "B",
+      "bestExScore": 1254
+    },
+    {
       "title": "Answer",
       "difficulty": "A",
       "level": 10,
@@ -2260,6 +2304,17 @@
       "great": "419",
       "dj_level": "B",
       "bestExScore": 1453
+    },
+    {
+      "title": "BRAVE OUT",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1324",
+      "pgreat": "493",
+      "great": "338",
+      "dj_level": "B",
+      "bestExScore": 1324
     },
     {
       "title": "BabeL ～Grand Story～",
@@ -2493,11 +2548,11 @@
       "difficulty": "H",
       "level": 10,
       "lamp": "FAILED",
-      "ex_score": "1152",
-      "pgreat": "404",
-      "great": "344",
+      "ex_score": "1175",
+      "pgreat": "418",
+      "great": "339",
       "dj_level": "C",
-      "bestExScore": 1152
+      "bestExScore": 1175
     },
     {
       "title": "COUNTING SHEEP ft. Kanae Asaba",
@@ -2727,6 +2782,17 @@
       "bestExScore": 1390
     },
     {
+      "title": "Cross Fire",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1371",
+      "pgreat": "502",
+      "great": "367",
+      "dj_level": "B",
+      "bestExScore": 1371
+    },
+    {
       "title": "Cult Invitation",
       "difficulty": "H",
       "level": 10,
@@ -2796,12 +2862,12 @@
       "title": "DRUNK MONKY",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "718",
-      "pgreat": "252",
-      "great": "214",
-      "dj_level": "D",
-      "bestExScore": 718
+      "lamp": "EASY",
+      "ex_score": "823",
+      "pgreat": "299",
+      "great": "225",
+      "dj_level": "C",
+      "bestExScore": 823
     },
     {
       "title": "DUAL STRIKER",
@@ -2824,6 +2890,17 @@
       "great": "485",
       "dj_level": "C",
       "bestExScore": 1243
+    },
+    {
+      "title": "Damage Per Second",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1424",
+      "pgreat": "532",
+      "great": "360",
+      "dj_level": "B",
+      "bestExScore": 1424
     },
     {
       "title": "Dances with Snow Fairies",
@@ -3393,6 +3470,17 @@
       "bestExScore": 1283
     },
     {
+      "title": "Get'em up to R.A.V.E",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1239",
+      "pgreat": "452",
+      "great": "335",
+      "dj_level": "C",
+      "bestExScore": 1239
+    },
+    {
       "title": "GiGaGaHell",
       "difficulty": "H",
       "level": 10,
@@ -3828,6 +3916,28 @@
       "bestExScore": 1186
     },
     {
+      "title": "LOVE B.B.B",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1199",
+      "pgreat": "442",
+      "great": "315",
+      "dj_level": "B",
+      "bestExScore": 1199
+    },
+    {
+      "title": "LOVE IS ORANGE",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1247",
+      "pgreat": "390",
+      "great": "467",
+      "dj_level": "B",
+      "bestExScore": 1247
+    },
+    {
       "title": "LOVE SHINE",
       "difficulty": "A",
       "level": 10,
@@ -3892,12 +4002,12 @@
       "title": "Let me be your cure",
       "difficulty": "A",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1577",
-      "pgreat": "552",
-      "great": "473",
+      "lamp": "EASY",
+      "ex_score": "1696",
+      "pgreat": "634",
+      "great": "428",
       "dj_level": "B",
-      "bestExScore": 1577
+      "bestExScore": 1696
     },
     {
       "title": "Level 3",
@@ -4342,6 +4452,17 @@
       "bestExScore": 942
     },
     {
+      "title": "Next Level",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1329",
+      "pgreat": "512",
+      "great": "305",
+      "dj_level": "B",
+      "bestExScore": 1329
+    },
+    {
       "title": "Nightmare before oversleep",
       "difficulty": "H",
       "level": 10,
@@ -4536,6 +4657,17 @@
       "bestExScore": 0
     },
     {
+      "title": "PHOTONGENIC",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1513",
+      "pgreat": "594",
+      "great": "325",
+      "dj_level": "B",
+      "bestExScore": 1513
+    },
+    {
       "title": "PIT A PAT",
       "difficulty": "A",
       "level": 10,
@@ -4566,12 +4698,12 @@
       "title": "POODLE",
       "difficulty": "A",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1333",
-      "pgreat": "485",
-      "great": "363",
+      "lamp": "EASY",
+      "ex_score": "1338",
+      "pgreat": "496",
+      "great": "346",
       "dj_level": "B",
-      "bestExScore": 1333
+      "bestExScore": 1338
     },
     {
       "title": "Papilio ulysses",
@@ -5257,6 +5389,17 @@
       "bestExScore": 1272
     },
     {
+      "title": "So Fabulous !!",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1360",
+      "pgreat": "490",
+      "great": "380",
+      "dj_level": "B",
+      "bestExScore": 1360
+    },
+    {
       "title": "Sorrows",
       "difficulty": "A",
       "level": 10,
@@ -5343,6 +5486,17 @@
       "great": "392",
       "dj_level": "B",
       "bestExScore": 1378
+    },
+    {
+      "title": "Sunny Day Vibes",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1447",
+      "pgreat": "554",
+      "great": "339",
+      "dj_level": "B",
+      "bestExScore": 1447
     },
     {
       "title": "Super Duper Racers",
@@ -5772,6 +5926,17 @@
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
+      "title": "VOLAQUAS",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1370",
+      "pgreat": "514",
+      "great": "342",
+      "dj_level": "B",
+      "bestExScore": 1370
+    },
+    {
       "title": "Vairocana",
       "difficulty": "H",
       "level": 10,
@@ -5865,6 +6030,17 @@
       "great": "392",
       "dj_level": "B",
       "bestExScore": 1518
+    },
+    {
+      "title": "Votum stellarum",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "843",
+      "pgreat": "292",
+      "great": "259",
+      "dj_level": "D",
+      "bestExScore": 843
     },
     {
       "title": "WAR GAME",
@@ -6079,12 +6255,12 @@
       "title": "alla turca con passione",
       "difficulty": "A",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1269",
-      "pgreat": "484",
-      "great": "301",
+      "lamp": "EASY",
+      "ex_score": "1316",
+      "pgreat": "487",
+      "great": "342",
       "dj_level": "B",
-      "bestExScore": 1269
+      "bestExScore": 1316
     },
     {
       "title": "awakening",
@@ -6113,11 +6289,11 @@
       "difficulty": "A",
       "level": 10,
       "lamp": "FAILED",
-      "ex_score": "1030",
-      "pgreat": "361",
-      "great": "308",
-      "dj_level": "C",
-      "bestExScore": 1030
+      "ex_score": "1097",
+      "pgreat": "398",
+      "great": "301",
+      "dj_level": "B",
+      "bestExScore": 1097
     },
     {
       "title": "beatAffection",
@@ -6350,7 +6526,7 @@
       "title": "moon_child",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
+      "lamp": "EASY",
       "ex_score": "1295",
       "pgreat": "461",
       "great": "373",
@@ -6375,12 +6551,12 @@
       "title": "oratio",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1086",
-      "pgreat": "402",
-      "great": "282",
-      "dj_level": "C",
-      "bestExScore": 1086
+      "lamp": "EASY",
+      "ex_score": "1210",
+      "pgreat": "446",
+      "great": "318",
+      "dj_level": "B",
+      "bestExScore": 1210
     },
     {
       "title": "ra'am",
@@ -6591,6 +6767,17 @@
       "bestExScore": 1610
     },
     {
+      "title": "おおきなこえで",
+      "difficulty": "L",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1321",
+      "pgreat": "480",
+      "great": "361",
+      "dj_level": "B",
+      "bestExScore": 1321
+    },
+    {
       "title": "おとせサンダー",
       "difficulty": "A",
       "level": 10,
@@ -6737,6 +6924,17 @@
       "great": "374",
       "dj_level": "B",
       "bestExScore": 1344
+    },
+    {
+      "title": "ないないルーティン",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1221",
+      "pgreat": "441",
+      "great": "339",
+      "dj_level": "B",
+      "bestExScore": 1221
     },
     {
       "title": "めいさいアイドル☆あいむちゃん♪",
@@ -6990,6 +7188,17 @@
       "great": "270",
       "dj_level": "A",
       "bestExScore": 1272
+    },
+    {
+      "title": "シンデレラ",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1325",
+      "pgreat": "485",
+      "great": "355",
+      "dj_level": "B",
+      "bestExScore": 1325
     },
     {
       "title": "スキッテイエェエエェ!!!!",
@@ -8053,6 +8262,17 @@
       "bestExScore": 1572
     },
     {
+      "title": "罪と罰",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1269",
+      "pgreat": "471",
+      "great": "327",
+      "dj_level": "B",
+      "bestExScore": 1269
+    },
+    {
       "title": "罪過の聖堂",
       "difficulty": "A",
       "level": 10,
@@ -8216,12 +8436,12 @@
       "title": "雪上断火",
       "difficulty": "H",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "933",
-      "pgreat": "317",
-      "great": "299",
-      "dj_level": "C",
-      "bestExScore": 933
+      "lamp": "EASY",
+      "ex_score": "1162",
+      "pgreat": "433",
+      "great": "296",
+      "dj_level": "B",
+      "bestExScore": 1162
     },
     {
       "title": "雪月花",
@@ -8475,6 +8695,17 @@
       "great": "337",
       "dj_level": "C",
       "bestExScore": 1197
+    },
+    {
+      "title": "Change Yourself",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1454",
+      "pgreat": "529",
+      "great": "396",
+      "dj_level": "B",
+      "bestExScore": 1454
     },
     {
       "title": "Chemical Colours",
@@ -9309,6 +9540,17 @@
       "bestExScore": 1935
     },
     {
+      "title": "タンポポ",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1583",
+      "pgreat": "581",
+      "great": "421",
+      "dj_level": "B",
+      "bestExScore": 1583
+    },
+    {
       "title": "デラむぅのでらっくす☆かるた ～NOTES・CHORD・PEAK編～",
       "difficulty": "A",
       "level": 11,
@@ -9580,11 +9822,11 @@
       "difficulty": "A",
       "level": 11,
       "lamp": "FAILED",
-      "ex_score": "1465",
-      "pgreat": "531",
-      "great": "403",
+      "ex_score": "1521",
+      "pgreat": "556",
+      "great": "409",
       "dj_level": "C",
-      "bestExScore": 1465
+      "bestExScore": 1521
     },
     {
       "title": "gigadelic",
@@ -12550,7 +12792,7 @@
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-22.4f0fa04fcc3e",
+  "dataVersion": "2026-11-24.0d2987c61bf9",
   "baselineAsOf": "2026-11-04",
   "dailyActivity": [
     {
