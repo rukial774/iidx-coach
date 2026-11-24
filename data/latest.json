@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "snapshotAsOf": "2026-11-25",
-  "generatedAt": "2026-11-24T21:25:47.363960+00:00",
+  "generatedAt": "2026-11-24T21:47:33.784533+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -388,7 +388,8 @@
       "pgreat": "481",
       "great": "283",
       "dj_level": "A",
-      "bestExScore": 1245
+      "bestExScore": 1245,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Dreamship",
@@ -1145,7 +1146,8 @@
       "pgreat": "464",
       "great": "256",
       "dj_level": "B",
-      "bestExScore": 1184
+      "bestExScore": 1184,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -1244,7 +1246,8 @@
       "pgreat": "549",
       "great": "296",
       "dj_level": "B",
-      "bestExScore": 1394
+      "bestExScore": 1394,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "セカンドピアス",
@@ -2110,7 +2113,8 @@
       "pgreat": "493",
       "great": "337",
       "dj_level": "B",
-      "bestExScore": 1323
+      "bestExScore": 1323,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Anisakis -somatic mutation type\"Forza\"-",
@@ -2215,7 +2219,8 @@
       "pgreat": "510",
       "great": "356",
       "dj_level": "C",
-      "bestExScore": 1376
+      "bestExScore": 1376,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "As You Want",
@@ -2259,7 +2264,8 @@
       "pgreat": "507",
       "great": "320",
       "dj_level": "B",
-      "bestExScore": 1334
+      "bestExScore": 1334,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "B4U",
@@ -2270,7 +2276,8 @@
       "pgreat": "389",
       "great": "314",
       "dj_level": "C",
-      "bestExScore": 1092
+      "bestExScore": 1092,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "BABY LOVE",
@@ -2314,7 +2321,8 @@
       "pgreat": "438",
       "great": "399",
       "dj_level": "C",
-      "bestExScore": 1275
+      "bestExScore": 1275,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "BLACK or WHITE?",
@@ -2325,7 +2333,8 @@
       "pgreat": "615",
       "great": "362",
       "dj_level": "B",
-      "bestExScore": 1592
+      "bestExScore": 1592,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "BLACK.by X-Cross Fade",
@@ -2468,7 +2477,8 @@
       "pgreat": "427",
       "great": "288",
       "dj_level": "B",
-      "bestExScore": 1142
+      "bestExScore": 1142,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Bahram Attack-猫叉Master Remix-",
@@ -2723,7 +2733,8 @@
       "pgreat": "569",
       "great": "370",
       "dj_level": "B",
-      "bestExScore": 1508
+      "bestExScore": 1508,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Candy Galy",
@@ -2966,7 +2977,8 @@
       "pgreat": "399",
       "great": "321",
       "dj_level": "C",
-      "bestExScore": 1119
+      "bestExScore": 1119,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "DIVINE JUDGEMENT",
@@ -3340,7 +3352,8 @@
       "pgreat": "601",
       "great": "399",
       "dj_level": "B",
-      "bestExScore": 1601
+      "bestExScore": 1601,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Fantasia",
@@ -5551,7 +5564,8 @@
       "pgreat": "479",
       "great": "346",
       "dj_level": "B",
-      "bestExScore": 1304
+      "bestExScore": 1304,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "So Fabulous !!",
@@ -5716,7 +5730,8 @@
       "pgreat": "506",
       "great": "351",
       "dj_level": "B",
-      "bestExScore": 1363
+      "bestExScore": 1363,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Symmetry",
@@ -6176,7 +6191,8 @@
       "pgreat": "606",
       "great": "347",
       "dj_level": "B",
-      "bestExScore": 1559
+      "bestExScore": 1559,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Violet Pulse",
@@ -6205,7 +6221,8 @@
       "pgreat": "495",
       "great": "349",
       "dj_level": "B",
-      "bestExScore": 1339
+      "bestExScore": 1339,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Visterhv",
@@ -6469,7 +6486,8 @@
       "pgreat": "406",
       "great": "283",
       "dj_level": "B",
-      "bestExScore": 1095
+      "bestExScore": 1095,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "awakening",
@@ -7231,7 +7249,8 @@
       "pgreat": "574",
       "great": "393",
       "dj_level": "B",
-      "bestExScore": 1541
+      "bestExScore": 1541,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "エクスプロウル",
@@ -8166,7 +8185,8 @@
       "pgreat": "599",
       "great": "389",
       "dj_level": "B",
-      "bestExScore": 1587
+      "bestExScore": 1587,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "月下散刄",
@@ -8457,7 +8477,8 @@
       "pgreat": "600",
       "great": "419",
       "dj_level": "B",
-      "bestExScore": 1619
+      "bestExScore": 1619,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "禊",
@@ -9525,7 +9546,8 @@
       "pgreat": "523",
       "great": "369",
       "dj_level": "B",
-      "bestExScore": 1415
+      "bestExScore": 1415,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Shiva",
@@ -9889,7 +9911,8 @@
       "pgreat": "557",
       "great": "412",
       "dj_level": "C",
-      "bestExScore": 1526
+      "bestExScore": 1526,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "メズマライザー",
@@ -13123,6 +13146,508 @@
       "source": "verified-photo-transcription",
       "createdAt": "2026-11-24T19:52:46+09:00",
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
+    },
+    {
+      "id": "eamu-lamp-20261125-c8dc3d757b31",
+      "title": "Double Loving Heart",
+      "difficulty": "A",
+      "level": 9,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785111+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1245,
+      "pgreat": 481,
+      "great": 283,
+      "djLevel": "A"
+    },
+    {
+      "id": "eamu-lamp-20261125-4593a946f336",
+      "title": "gentle stress",
+      "difficulty": "A",
+      "level": 9,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "HARD",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785154+00:00",
+      "previousLamp": "EASY",
+      "dateSource": "e-amusement 譜面一覧の差分（直前スナップショットのランプ → 2026-11-25 確認）",
+      "memo": "直前の公開スナップショットから EASY → HARD を 2026-11-25 に確認。プレー日は未確定。",
+      "exScore": 966,
+      "pgreat": 364,
+      "great": 238,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-e2f507f599c4",
+      "title": "with you…",
+      "difficulty": "A",
+      "level": 9,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "HARD",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785171+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1184,
+      "pgreat": 464,
+      "great": 256,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-c7a87b00078c",
+      "title": "コスモス",
+      "difficulty": "A",
+      "level": 9,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "HARD",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785184+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1394,
+      "pgreat": 549,
+      "great": 296,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-fa081e4190bb",
+      "title": "Angel's Ladder",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785215+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1323,
+      "pgreat": 493,
+      "great": 337,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-415f21ab9a29",
+      "title": "Artist",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785226+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1376,
+      "pgreat": 510,
+      "great": 356,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261125-c6da0e492373",
+      "title": "B.O.D.Y.",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785234+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1334,
+      "pgreat": 507,
+      "great": 320,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-09e388913a96",
+      "title": "B4U",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785241+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1092,
+      "pgreat": 389,
+      "great": 314,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261125-ee9a2eb55a0d",
+      "title": "BLACK JACKAL",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785250+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1275,
+      "pgreat": 438,
+      "great": 399,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261125-a2985c753c18",
+      "title": "BLACK or WHITE?",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785257+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1592,
+      "pgreat": 615,
+      "great": 362,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-be81b1295636",
+      "title": "Bad Maniacs",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785268+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1142,
+      "pgreat": 427,
+      "great": 288,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-8f6dde247877",
+      "title": "Calvados Queen",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785284+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1508,
+      "pgreat": 569,
+      "great": 370,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-3fb40ac1b6ca",
+      "title": "DIVE ～INTO YOUR HEART～",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785297+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1119,
+      "pgreat": 399,
+      "great": 321,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261125-4f75e35a637e",
+      "title": "Fading Stars",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785315+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1601,
+      "pgreat": 601,
+      "great": 399,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-b30cc10df608",
+      "title": "LAX5 feat.Ryota Yoshinari",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785339+00:00",
+      "previousLamp": "FAILED",
+      "dateSource": "e-amusement 譜面一覧の差分（直前スナップショットのランプ → 2026-11-25 確認）",
+      "memo": "直前の公開スナップショットから FAILED → EASY を 2026-11-25 に確認。プレー日は未確定。",
+      "exScore": 1764,
+      "pgreat": 682,
+      "great": 400,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-8a9611b23ac2",
+      "title": "Snakey Kung-fu",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785377+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1304,
+      "pgreat": 479,
+      "great": 346,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-039154e20dbe",
+      "title": "Sword of Vengeance",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785387+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1363,
+      "pgreat": 506,
+      "great": 351,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-9474672afbc7",
+      "title": "Vibing! Shake it!",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785404+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1559,
+      "pgreat": 606,
+      "great": 347,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-c7e3bcc005a8",
+      "title": "Viridian",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785411+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1339,
+      "pgreat": 495,
+      "great": 349,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-a926fa257658",
+      "title": "avant-guerre",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785425+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1095,
+      "pgreat": 406,
+      "great": 283,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-30bb1eceabd3",
+      "title": "アルストロメリア",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785448+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1541,
+      "pgreat": 574,
+      "great": 393,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-1fcea14bf58a",
+      "title": "月と夢の跡 ft. マナ",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785476+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1587,
+      "pgreat": 599,
+      "great": 389,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-6709c7bc3241",
+      "title": "神謳 -RESONANCE-",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785489+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1619,
+      "pgreat": 600,
+      "great": 419,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-31364fd772cf",
+      "title": "Seraph",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785514+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1415,
+      "pgreat": 523,
+      "great": 369,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261125-5adc2f09df1b",
+      "title": "ミッドナイト堕天使",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-25",
+      "knownAsOf": "2026-11-25",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-24T21:47:33.785529+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1526,
+      "pgreat": 557,
+      "great": 412,
+      "djLevel": "C"
     }
   ],
   "baselineAsOf": "2026-11-04",
@@ -13172,5 +13697,5 @@
       "source": "筐体マイアクティビティ（基本データ）"
     }
   ],
-  "dataVersion": "2026-11-25.0307d67c9d57"
+  "dataVersion": "2026-11-25.f7bf07af3222"
 }
