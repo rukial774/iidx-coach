@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "snapshotAsOf": "2026-11-24",
-  "generatedAt": "2026-11-23T18:18:59.153462+00:00",
+  "generatedAt": "2026-11-24T11:13:33.653053+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -9829,6 +9829,23 @@
       "bestExScore": 1521
     },
     {
+      "title": "The Sampling Paradise",
+      "difficulty": "A",
+      "level": 12,
+      "lamp": "FAILED",
+      "ex_score": "1380",
+      "pgreat": "466",
+      "great": "448",
+      "dj_level": "C",
+      "bestExScore": 1380,
+      "bestMissCount": 231,
+      "lastExScore": 1380,
+      "lastMissCount": 231,
+      "lastPlayedAt": "2026-11-24T19:52:46+09:00",
+      "notes": 1545,
+      "notesSource": "九段コース資料（atwiki、1545ノーツ）・コーチ確認済み"
+    },
+    {
       "title": "gigadelic",
       "difficulty": "H",
       "level": 12,
@@ -12790,9 +12807,39 @@
       "source": "verified-photo-transcription",
       "createdAt": "2026-11-20T19:14:20+09:00",
       "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
+    },
+    {
+      "id": "play-20261124-8f87a9fd68e53ba4",
+      "title": "The Sampling Paradise",
+      "difficulty": "A",
+      "level": 12,
+      "date": "2026-11-24",
+      "playedAt": "2026-11-24T19:52:46+09:00",
+      "knownAsOf": "2026-11-24",
+      "datePrecision": "day",
+      "dateSource": "EXIF DateTimeOriginal +09:00",
+      "lamp": "FAILED",
+      "previousLamp": "NOPLAY",
+      "exScore": 1380,
+      "djLevel": "C",
+      "bp": 231,
+      "pgreat": 466,
+      "great": 448,
+      "good": 466,
+      "bad": 76,
+      "poor": 155,
+      "fast": 515,
+      "option": "正規",
+      "timingMetric": "ALL",
+      "plays": 1,
+      "notes": 1545,
+      "notesSource": "九段コース資料（atwiki、1545ノーツ）・コーチ確認済み",
+      "source": "verified-photo-transcription",
+      "createdAt": "2026-11-24T19:52:46+09:00",
+      "memo": "撮影リザルトを本人依頼により反映。数値・譜面を確認済み。"
     }
   ],
-  "dataVersion": "2026-11-24.0d2987c61bf9",
+  "dataVersion": "2026-11-24.db2103ff1b41",
   "baselineAsOf": "2026-11-04",
   "dailyActivity": [
     {
@@ -12826,6 +12873,17 @@
       "keyNotes": 37708,
       "scratchNotes": 2352,
       "totalNotes": 40060,
+      "source": "筐体マイアクティビティ（基本データ）"
+    },
+    {
+      "date": "2026-11-24",
+      "plays": 27,
+      "playTime": "0:58:01",
+      "clearUpdates": 23,
+      "scoreUpdates": 27,
+      "keyNotes": 28471,
+      "scratchNotes": 1545,
+      "totalNotes": 30016,
       "source": "筐体マイアクティビティ（基本データ）"
     }
   ]
