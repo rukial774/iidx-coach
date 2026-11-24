@@ -1,5 +1,5 @@
 'use strict';
-const APP_BUILD='2026.11.24-1';
+const APP_BUILD='2026.11.25-1';
 const DATA=JSON.parse(document.getElementById('seed-data').textContent);
 const KEY='iidx-coach-v1';
 const INITIAL_SNAPSHOT={asOf:DATA.snapshotAsOf,charts:DATA.charts.map(x=>({...x}))};
