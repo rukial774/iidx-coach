@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "snapshotAsOf": "2026-11-26",
-  "generatedAt": "2026-11-25T18:19:10.368734+00:00",
+  "generatedAt": "2026-11-25T22:13:32.102123+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -13432,12 +13432,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785111+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1245,
       "pgreat": 481,
       "great": 283,
-      "djLevel": "A"
+      "djLevel": "A",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-4593a946f336",
@@ -13473,12 +13474,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785171+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1184,
       "pgreat": 464,
       "great": 256,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-c7a87b00078c",
@@ -13493,12 +13495,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785184+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1394,
       "pgreat": 549,
       "great": 296,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-fa081e4190bb",
@@ -13513,12 +13516,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785215+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1323,
       "pgreat": 493,
       "great": 337,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-415f21ab9a29",
@@ -13533,12 +13537,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785226+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1376,
       "pgreat": 510,
       "great": 356,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-c6da0e492373",
@@ -13553,12 +13558,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785234+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1334,
       "pgreat": 507,
       "great": 320,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-09e388913a96",
@@ -13573,12 +13579,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785241+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1092,
       "pgreat": 389,
       "great": 314,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-ee9a2eb55a0d",
@@ -13593,12 +13600,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785250+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1275,
       "pgreat": 438,
       "great": 399,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-a2985c753c18",
@@ -13613,12 +13621,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785257+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1592,
       "pgreat": 615,
       "great": 362,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-be81b1295636",
@@ -13633,12 +13642,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785268+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1142,
       "pgreat": 427,
       "great": 288,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-8f6dde247877",
@@ -13653,12 +13663,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785284+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1508,
       "pgreat": 569,
       "great": 370,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-3fb40ac1b6ca",
@@ -13673,12 +13684,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785297+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1119,
       "pgreat": 399,
       "great": 321,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-4f75e35a637e",
@@ -13693,12 +13705,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785315+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1601,
       "pgreat": 601,
       "great": 399,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-b30cc10df608",
@@ -13734,12 +13747,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785377+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1304,
       "pgreat": 479,
       "great": 346,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-039154e20dbe",
@@ -13754,12 +13768,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785387+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1363,
       "pgreat": 506,
       "great": 351,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-9474672afbc7",
@@ -13774,12 +13789,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785404+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1559,
       "pgreat": 606,
       "great": 347,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-c7e3bcc005a8",
@@ -13794,12 +13810,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785411+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1339,
       "pgreat": 495,
       "great": 349,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-a926fa257658",
@@ -13814,12 +13831,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785425+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1095,
       "pgreat": 406,
       "great": 283,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-30bb1eceabd3",
@@ -13834,12 +13852,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785448+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1541,
       "pgreat": 574,
       "great": 393,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-1fcea14bf58a",
@@ -13854,12 +13873,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785476+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1587,
       "pgreat": 599,
       "great": 389,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-6709c7bc3241",
@@ -13874,12 +13894,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785489+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1619,
       "pgreat": 600,
       "great": 419,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-31364fd772cf",
@@ -13894,12 +13915,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785514+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1415,
       "pgreat": 523,
       "great": 369,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261125-5adc2f09df1b",
@@ -13914,12 +13936,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-24T21:47:33.785529+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-25 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-25 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-25 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1526,
       "pgreat": 557,
       "great": 412,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-940c749c854f",
@@ -13934,12 +13957,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369337+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1290,
       "pgreat": 495,
       "great": 300,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-2264a5cb2ac1",
@@ -13954,12 +13978,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369384+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1396,
       "pgreat": 514,
       "great": 368,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-196acacc5f20",
@@ -13995,12 +14020,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369409+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 952,
       "pgreat": 333,
       "great": 286,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-d85d0ef5f1d3",
@@ -14015,12 +14041,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369421+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1190,
       "pgreat": 448,
       "great": 294,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-21150e0e06a2",
@@ -14035,12 +14062,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369430+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1455,
       "pgreat": 518,
       "great": 419,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-acab59666913",
@@ -14055,12 +14083,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369441+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1548,
       "pgreat": 554,
       "great": 440,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-fbd5eb18eeff",
@@ -14075,12 +14104,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369456+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1578,
       "pgreat": 588,
       "great": 402,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-fe2beb224579",
@@ -14095,12 +14125,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369470+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1459,
       "pgreat": 544,
       "great": 371,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-60c79839cef9",
@@ -14115,12 +14146,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369485+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1108,
       "pgreat": 424,
       "great": 260,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-51849e4dea0f",
@@ -14135,12 +14167,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369533+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1510,
       "pgreat": 589,
       "great": 332,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-0c09446a2645",
@@ -14155,12 +14188,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369543+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1319,
       "pgreat": 494,
       "great": 331,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-b07174d12d63",
@@ -14175,12 +14209,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369560+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1583,
       "pgreat": 584,
       "great": 415,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-9a376f0dca8a",
@@ -14195,12 +14230,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369569+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1464,
       "pgreat": 561,
       "great": 342,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-21f1e322d5b3",
@@ -14215,12 +14251,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369590+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1363,
       "pgreat": 499,
       "great": 365,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-72ab6f33b042",
@@ -14235,12 +14272,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369623+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1330,
       "pgreat": 447,
       "great": 436,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-cfcbd879e8be",
@@ -14255,12 +14293,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369641+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1559,
       "pgreat": 606,
       "great": 347,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-321866e61d56",
@@ -14275,12 +14314,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369654+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1579,
       "pgreat": 564,
       "great": 451,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-f51cbb7c52f0",
@@ -14295,12 +14335,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369664+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1711,
       "pgreat": 623,
       "great": 465,
-      "djLevel": "B"
+      "djLevel": "B",
+      "previousLamp": "UNKNOWN"
     },
     {
       "id": "eamu-lamp-20261126-5cd200793602",
@@ -14315,12 +14356,13 @@
       "plays": 1,
       "source": "e-amusement-snapshot-diff",
       "createdAt": "2026-11-25T18:19:10.369672+00:00",
-      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
-      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（確認日の新規ランプとして記録）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリアを、確認日の新規ランプとして記録。プレー日は未確定。",
       "exScore": 1273,
       "pgreat": 445,
       "great": 383,
-      "djLevel": "C"
+      "djLevel": "C",
+      "previousLamp": "UNKNOWN"
     }
   ],
   "baselineAsOf": "2026-11-04",
@@ -14381,5 +14423,5 @@
       "source": "筐体マイアクティビティ（基本データ）"
     }
   ],
-  "dataVersion": "2026-11-26.69334e859125"
+  "dataVersion": "2026-11-26.3deb37f74f05"
 }
