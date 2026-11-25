@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-25",
-  "generatedAt": "2026-11-25T11:55:37.057536+00:00",
+  "snapshotAsOf": "2026-11-26",
+  "generatedAt": "2026-11-25T18:19:10.368734+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -388,8 +388,8 @@
       "pgreat": "481",
       "great": "283",
       "dj_level": "A",
-      "bestExScore": 1245,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1245
     },
     {
       "title": "Dreamship",
@@ -1146,8 +1146,8 @@
       "pgreat": "464",
       "great": "256",
       "dj_level": "B",
-      "bestExScore": 1184,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1184
     },
     {
       "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -1246,8 +1246,8 @@
       "pgreat": "549",
       "great": "296",
       "dj_level": "B",
-      "bestExScore": 1394,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1394
     },
     {
       "title": "セカンドピアス",
@@ -1457,6 +1457,18 @@
       "great": "450",
       "dj_level": "A",
       "bestExScore": 1602
+    },
+    {
+      "title": "千年ノ理",
+      "difficulty": "H",
+      "level": 9,
+      "lamp": "EASY",
+      "ex_score": "1290",
+      "pgreat": "495",
+      "great": "300",
+      "dj_level": "B",
+      "bestExScore": 1290,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "夕焼け ～Fading Day～",
@@ -1771,11 +1783,11 @@
       "difficulty": "H",
       "level": 10,
       "lamp": "EASY",
-      "ex_score": "1363",
-      "pgreat": "483",
-      "great": "397",
+      "ex_score": "1424",
+      "pgreat": "514",
+      "great": "396",
       "dj_level": "C",
-      "bestExScore": 1363
+      "bestExScore": 1424
     },
     {
       "title": "AA -rebuild-",
@@ -2113,8 +2125,8 @@
       "pgreat": "493",
       "great": "337",
       "dj_level": "B",
-      "bestExScore": 1323,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1323
     },
     {
       "title": "Anisakis -somatic mutation type\"Forza\"-",
@@ -2219,8 +2231,8 @@
       "pgreat": "510",
       "great": "356",
       "dj_level": "C",
-      "bestExScore": 1376,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1376
     },
     {
       "title": "As You Want",
@@ -2264,8 +2276,8 @@
       "pgreat": "507",
       "great": "320",
       "dj_level": "B",
-      "bestExScore": 1334,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1334
     },
     {
       "title": "B4U",
@@ -2276,8 +2288,8 @@
       "pgreat": "389",
       "great": "314",
       "dj_level": "C",
-      "bestExScore": 1092,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1092
     },
     {
       "title": "BABY LOVE",
@@ -2321,8 +2333,8 @@
       "pgreat": "438",
       "great": "399",
       "dj_level": "C",
-      "bestExScore": 1275,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1275
     },
     {
       "title": "BLACK or WHITE?",
@@ -2333,8 +2345,8 @@
       "pgreat": "615",
       "great": "362",
       "dj_level": "B",
-      "bestExScore": 1592,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1592
     },
     {
       "title": "BLACK.by X-Cross Fade",
@@ -2346,6 +2358,18 @@
       "great": "379",
       "dj_level": "B",
       "bestExScore": 1267
+    },
+    {
+      "title": "BLAZING_LAZER",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1396",
+      "pgreat": "514",
+      "great": "368",
+      "dj_level": "B",
+      "bestExScore": 1396,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "BLOSSOM",
@@ -2362,12 +2386,12 @@
       "title": "BLUE STRAGGLER",
       "difficulty": "A",
       "level": 10,
-      "lamp": "FAILED",
-      "ex_score": "1308",
-      "pgreat": "473",
-      "great": "362",
+      "lamp": "EASY",
+      "ex_score": "1470",
+      "pgreat": "528",
+      "great": "414",
       "dj_level": "C",
-      "bestExScore": 1308
+      "bestExScore": 1470
     },
     {
       "title": "BLUST OF WIND",
@@ -2425,6 +2449,18 @@
       "bestExScore": 1324
     },
     {
+      "title": "BREATH",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "952",
+      "pgreat": "333",
+      "great": "286",
+      "dj_level": "C",
+      "bestExScore": 952,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "BabeL ～Grand Story～",
       "difficulty": "H",
       "level": 10,
@@ -2477,8 +2513,8 @@
       "pgreat": "427",
       "great": "288",
       "dj_level": "B",
-      "bestExScore": 1142,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1142
     },
     {
       "title": "Bahram Attack-猫叉Master Remix-",
@@ -2580,6 +2616,29 @@
       "bestExScore": 1472
     },
     {
+      "title": "Bitter & Lucky",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1424",
+      "pgreat": "515",
+      "great": "394",
+      "dj_level": "C",
+      "bestExScore": 1424
+    },
+    {
+      "title": "Bling-Bang-Bang-Born",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1190",
+      "pgreat": "448",
+      "great": "294",
+      "dj_level": "B",
+      "bestExScore": 1190,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "Bloody Tears(IIDX EDITION)",
       "difficulty": "A",
       "level": 10,
@@ -2622,6 +2681,18 @@
       "great": "388",
       "dj_level": "B",
       "bestExScore": 1414
+    },
+    {
+      "title": "Breaking the ground",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1455",
+      "pgreat": "518",
+      "great": "419",
+      "dj_level": "B",
+      "bestExScore": 1455,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Broken Sword",
@@ -2733,8 +2804,8 @@
       "pgreat": "569",
       "great": "370",
       "dj_level": "B",
-      "bestExScore": 1508,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1508
     },
     {
       "title": "Candy Galy",
@@ -2746,6 +2817,18 @@
       "great": "410",
       "dj_level": "B",
       "bestExScore": 1460
+    },
+    {
+      "title": "CaptivAte～裁き～(SUBLIME TECHNO MIX)",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1548",
+      "pgreat": "554",
+      "great": "440",
+      "dj_level": "B",
+      "bestExScore": 1548,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "CaptivAte～誓い～",
@@ -2977,8 +3060,8 @@
       "pgreat": "399",
       "great": "321",
       "dj_level": "C",
-      "bestExScore": 1119,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1119
     },
     {
       "title": "DIVINE JUDGEMENT",
@@ -3113,6 +3196,18 @@
       "bestExScore": 1104
     },
     {
+      "title": "Despair of ELFERIA",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1578",
+      "pgreat": "588",
+      "great": "402",
+      "dj_level": "B",
+      "bestExScore": 1578,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "Devilz Staircase",
       "difficulty": "H",
       "level": 10,
@@ -3161,11 +3256,11 @@
       "difficulty": "A",
       "level": 10,
       "lamp": "EASY",
-      "ex_score": "1450",
-      "pgreat": "526",
-      "great": "398",
-      "dj_level": "C",
-      "bestExScore": 1450
+      "ex_score": "1629",
+      "pgreat": "608",
+      "great": "413",
+      "dj_level": "B",
+      "bestExScore": 1629
     },
     {
       "title": "EMOTiON TRiPPER",
@@ -3352,8 +3447,8 @@
       "pgreat": "601",
       "great": "399",
       "dj_level": "B",
-      "bestExScore": 1601,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1601
     },
     {
       "title": "Fantasia",
@@ -3448,6 +3543,18 @@
       "great": "334",
       "dj_level": "B",
       "bestExScore": 1374
+    },
+    {
+      "title": "Flying Castle",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1459",
+      "pgreat": "544",
+      "great": "371",
+      "dj_level": "B",
+      "bestExScore": 1459,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Follow Tomorrow",
@@ -3811,6 +3918,18 @@
       "great": "365",
       "dj_level": "C",
       "bestExScore": 1369
+    },
+    {
+      "title": "Highcharge Divolt",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1108",
+      "pgreat": "424",
+      "great": "260",
+      "dj_level": "B",
+      "bestExScore": 1108,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "History of dj TAKA - single style collection -",
@@ -4612,11 +4731,11 @@
       "difficulty": "H",
       "level": 10,
       "lamp": "FAILED",
-      "ex_score": "942",
-      "pgreat": "342",
-      "great": "258",
-      "dj_level": "C",
-      "bestExScore": 942
+      "ex_score": "1203",
+      "pgreat": "450",
+      "great": "303",
+      "dj_level": "B",
+      "bestExScore": 1203
     },
     {
       "title": "Next Level",
@@ -5564,8 +5683,8 @@
       "pgreat": "479",
       "great": "346",
       "dj_level": "B",
-      "bestExScore": 1304,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1304
     },
     {
       "title": "So Fabulous !!",
@@ -5730,8 +5849,8 @@
       "pgreat": "506",
       "great": "351",
       "dj_level": "B",
-      "bestExScore": 1363,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1363
     },
     {
       "title": "Symmetry",
@@ -6172,6 +6291,18 @@
       "bestExScore": 1088
     },
     {
+      "title": "Vermilion Carol",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1510",
+      "pgreat": "589",
+      "great": "332",
+      "dj_level": "B",
+      "bestExScore": 1510,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "Vermillion",
       "difficulty": "A",
       "level": 10,
@@ -6191,8 +6322,8 @@
       "pgreat": "606",
       "great": "347",
       "dj_level": "B",
-      "bestExScore": 1559,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1559
     },
     {
       "title": "Violet Pulse",
@@ -6221,8 +6352,8 @@
       "pgreat": "495",
       "great": "349",
       "dj_level": "B",
-      "bestExScore": 1339,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1339
     },
     {
       "title": "Visterhv",
@@ -6300,6 +6431,29 @@
       "great": "336",
       "dj_level": "B",
       "bestExScore": 1390
+    },
+    {
+      "title": "Wing of Hearts",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "FAILED",
+      "ex_score": "1739",
+      "pgreat": "664",
+      "great": "411",
+      "dj_level": "B",
+      "bestExScore": 1739
+    },
+    {
+      "title": "Winner's Proof ft. KANASA from bless4",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1319",
+      "pgreat": "494",
+      "great": "331",
+      "dj_level": "B",
+      "bestExScore": 1319,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Without Heaven",
@@ -6486,8 +6640,8 @@
       "pgreat": "406",
       "great": "283",
       "dj_level": "B",
-      "bestExScore": 1095,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1095
     },
     {
       "title": "awakening",
@@ -6786,6 +6940,18 @@
       "bestExScore": 1210
     },
     {
+      "title": "planarian",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1583",
+      "pgreat": "584",
+      "great": "415",
+      "dj_level": "B",
+      "bestExScore": 1583,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "ra'am",
       "difficulty": "H",
       "level": 10,
@@ -6879,6 +7045,18 @@
       "great": "337",
       "dj_level": "B",
       "bestExScore": 1347
+    },
+    {
+      "title": "toy boxer",
+      "difficulty": "A",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1464",
+      "pgreat": "561",
+      "great": "342",
+      "dj_level": "B",
+      "bestExScore": 1464,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "traces",
@@ -7249,8 +7427,8 @@
       "pgreat": "574",
       "great": "393",
       "dj_level": "B",
-      "bestExScore": 1541,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1541
     },
     {
       "title": "エクスプロウル",
@@ -7471,6 +7649,18 @@
       "great": "355",
       "dj_level": "B",
       "bestExScore": 1501
+    },
+    {
+      "title": "ディスコルディア",
+      "difficulty": "H",
+      "level": 10,
+      "lamp": "EASY",
+      "ex_score": "1363",
+      "pgreat": "499",
+      "great": "365",
+      "dj_level": "C",
+      "bestExScore": 1363,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "デビルじゃないもん",
@@ -8185,8 +8375,8 @@
       "pgreat": "599",
       "great": "389",
       "dj_level": "B",
-      "bestExScore": 1587,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1587
     },
     {
       "title": "月下散刄",
@@ -8477,8 +8667,8 @@
       "pgreat": "600",
       "great": "419",
       "dj_level": "B",
-      "bestExScore": 1619,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1619
     },
     {
       "title": "禊",
@@ -8850,6 +9040,18 @@
       "bestExScore": 1363
     },
     {
+      "title": "AFRO KNUCKLE",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1330",
+      "pgreat": "447",
+      "great": "436",
+      "dj_level": "C",
+      "bestExScore": 1330,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "AMRITA -不滅ノ花-",
       "difficulty": "A",
       "level": 11,
@@ -9002,6 +9204,17 @@
       "great": "335",
       "dj_level": "C",
       "bestExScore": 1291
+    },
+    {
+      "title": "D.C.fish",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1265",
+      "pgreat": "448",
+      "great": "369",
+      "dj_level": "C",
+      "bestExScore": 1265
     },
     {
       "title": "Destiny Sword",
@@ -9298,6 +9511,18 @@
       "bestExScore": 1397
     },
     {
+      "title": "NEW SENSATION -もう、あなたしか見えない-",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1559",
+      "pgreat": "606",
+      "great": "347",
+      "dj_level": "B",
+      "bestExScore": 1559,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "Nothing but Theory",
       "difficulty": "A",
       "level": 11,
@@ -9546,7 +9771,19 @@
       "pgreat": "523",
       "great": "369",
       "dj_level": "B",
-      "bestExScore": 1415,
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1415
+    },
+    {
+      "title": "Shadow World",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1579",
+      "pgreat": "564",
+      "great": "451",
+      "dj_level": "B",
+      "bestExScore": 1579,
       "baselineLamp": "UNKNOWN"
     },
     {
@@ -9577,6 +9814,18 @@
       "notesSource": "撮影リザルトの表示ノーツ数・コーチ確認済み"
     },
     {
+      "title": "SnapSkipSpark",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1711",
+      "pgreat": "623",
+      "great": "465",
+      "dj_level": "B",
+      "bestExScore": 1711,
+      "baselineLamp": "UNKNOWN"
+    },
+    {
       "title": "Spark Rush",
       "difficulty": "A",
       "level": 11,
@@ -9597,6 +9846,18 @@
       "great": "359",
       "dj_level": "C",
       "bestExScore": 1351
+    },
+    {
+      "title": "Squeeze",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "EASY",
+      "ex_score": "1273",
+      "pgreat": "445",
+      "great": "383",
+      "dj_level": "C",
+      "bestExScore": 1273,
+      "baselineLamp": "UNKNOWN"
     },
     {
       "title": "Stargazing Trip ～星 探す旅～ ft. 小林マナ",
@@ -9679,6 +9940,17 @@
       "great": "0",
       "dj_level": "---",
       "bestExScore": 0
+    },
+    {
+      "title": "Volcanic Dragon",
+      "difficulty": "A",
+      "level": 11,
+      "lamp": "FAILED",
+      "ex_score": "1574",
+      "pgreat": "542",
+      "great": "490",
+      "dj_level": "C",
+      "bestExScore": 1574
     },
     {
       "title": "Wanna Party?",
@@ -9911,8 +10183,8 @@
       "pgreat": "557",
       "great": "412",
       "dj_level": "C",
-      "bestExScore": 1526,
-      "baselineLamp": "UNKNOWN"
+      "baselineLamp": "UNKNOWN",
+      "bestExScore": 1526
     },
     {
       "title": "メズマライザー",
@@ -13648,6 +13920,407 @@
       "pgreat": 557,
       "great": 412,
       "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261126-940c749c854f",
+      "title": "千年ノ理",
+      "difficulty": "H",
+      "level": 9,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369337+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1290,
+      "pgreat": 495,
+      "great": 300,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-2264a5cb2ac1",
+      "title": "BLAZING_LAZER",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369384+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1396,
+      "pgreat": 514,
+      "great": 368,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-196acacc5f20",
+      "title": "BLUE STRAGGLER",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369397+00:00",
+      "previousLamp": "FAILED",
+      "dateSource": "e-amusement 譜面一覧の差分（直前スナップショットのランプ → 2026-11-26 確認）",
+      "memo": "直前の公開スナップショットから FAILED → EASY を 2026-11-26 に確認。プレー日は未確定。",
+      "exScore": 1470,
+      "pgreat": 528,
+      "great": 414,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261126-78cb755badf1",
+      "title": "BREATH",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369409+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 952,
+      "pgreat": 333,
+      "great": 286,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261126-d85d0ef5f1d3",
+      "title": "Bling-Bang-Bang-Born",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369421+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1190,
+      "pgreat": 448,
+      "great": 294,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-21150e0e06a2",
+      "title": "Breaking the ground",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369430+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1455,
+      "pgreat": 518,
+      "great": 419,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-acab59666913",
+      "title": "CaptivAte～裁き～(SUBLIME TECHNO MIX)",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369441+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1548,
+      "pgreat": 554,
+      "great": 440,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-fbd5eb18eeff",
+      "title": "Despair of ELFERIA",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369456+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1578,
+      "pgreat": 588,
+      "great": 402,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-fe2beb224579",
+      "title": "Flying Castle",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369470+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1459,
+      "pgreat": 544,
+      "great": 371,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-60c79839cef9",
+      "title": "Highcharge Divolt",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369485+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1108,
+      "pgreat": 424,
+      "great": 260,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-51849e4dea0f",
+      "title": "Vermilion Carol",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369533+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1510,
+      "pgreat": 589,
+      "great": 332,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-0c09446a2645",
+      "title": "Winner's Proof ft. KANASA from bless4",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369543+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1319,
+      "pgreat": 494,
+      "great": 331,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-b07174d12d63",
+      "title": "planarian",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369560+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1583,
+      "pgreat": 584,
+      "great": 415,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-9a376f0dca8a",
+      "title": "toy boxer",
+      "difficulty": "A",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369569+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1464,
+      "pgreat": 561,
+      "great": 342,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-21f1e322d5b3",
+      "title": "ディスコルディア",
+      "difficulty": "H",
+      "level": 10,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369590+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1363,
+      "pgreat": 499,
+      "great": 365,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261126-72ab6f33b042",
+      "title": "AFRO KNUCKLE",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369623+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1330,
+      "pgreat": 447,
+      "great": 436,
+      "djLevel": "C"
+    },
+    {
+      "id": "eamu-lamp-20261126-cfcbd879e8be",
+      "title": "NEW SENSATION -もう、あなたしか見えない-",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369641+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1559,
+      "pgreat": 606,
+      "great": 347,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-321866e61d56",
+      "title": "Shadow World",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369654+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1579,
+      "pgreat": 564,
+      "great": 451,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-f51cbb7c52f0",
+      "title": "SnapSkipSpark",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369664+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1711,
+      "pgreat": 623,
+      "great": 465,
+      "djLevel": "B"
+    },
+    {
+      "id": "eamu-lamp-20261126-5cd200793602",
+      "title": "Squeeze",
+      "difficulty": "A",
+      "level": 11,
+      "date": "2026-11-26",
+      "knownAsOf": "2026-11-26",
+      "datePrecision": "knownAsOf",
+      "lamp": "EASY",
+      "option": "不明",
+      "plays": 1,
+      "source": "e-amusement-snapshot-diff",
+      "createdAt": "2026-11-25T18:19:10.369672+00:00",
+      "dateSource": "e-amusement 譜面一覧で 2026-11-26 に初確認（取得範囲の拡大。達成日は不明）",
+      "memo": "2026-11-26 の一覧で初めて確認したクリア。取得範囲の拡大による発見で、達成日は不明。",
+      "exScore": 1273,
+      "pgreat": 445,
+      "great": 383,
+      "djLevel": "C"
     }
   ],
   "baselineAsOf": "2026-11-04",
@@ -13708,5 +14381,5 @@
       "source": "筐体マイアクティビティ（基本データ）"
     }
   ],
-  "dataVersion": "2026-11-25.3817c5f4d423"
+  "dataVersion": "2026-11-26.69334e859125"
 }
