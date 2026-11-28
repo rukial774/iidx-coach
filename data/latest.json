@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotAsOf": "2026-11-27",
-  "generatedAt": "2026-11-27T13:51:47.598574+00:00",
+  "snapshotAsOf": "2026-11-28",
+  "generatedAt": "2026-11-28T07:21:51.804201+00:00",
   "charts": [
     {
       "title": "Darling my LUV",
@@ -15741,7 +15741,18 @@
       "scratchNotes": 2531,
       "totalNotes": 32993,
       "source": "筐体マイアクティビティ（基本データ）"
+    },
+    {
+      "date": "2026-11-28",
+      "plays": 39,
+      "playTime": "1:24:04",
+      "clearUpdates": 31,
+      "scoreUpdates": 50,
+      "keyNotes": 44145,
+      "scratchNotes": 2677,
+      "totalNotes": 46822,
+      "source": "筐体マイアクティビティ（基本データ）"
     }
   ],
-  "dataVersion": "2026-11-27.bff3be29aeaa"
+  "dataVersion": "2026-11-28.92cac3748cda"
 }
